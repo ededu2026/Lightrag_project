@@ -1,0 +1,5044 @@
+{
+  "The NIST Cybersecurity Framework (CSF) 2.0<SEP>page": {
+    "chunk_ids": [
+      "chunk-a1685ea14462551d4e0ca8c4ebd817b7"
+    ],
+    "count": 1,
+    "create_time": 1773879944,
+    "update_time": 1773879944,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0<SEP>page"
+  },
+  "Core<SEP>Informative References": {
+    "chunk_ids": [
+      "chunk-a1685ea14462551d4e0ca8c4ebd817b7"
+    ],
+    "count": 1,
+    "create_time": 1773879944,
+    "update_time": 1773879944,
+    "_id": "Core<SEP>Informative References"
+  },
+  "Informative References<SEP>Subcategory": {
+    "chunk_ids": [
+      "chunk-a1685ea14462551d4e0ca8c4ebd817b7"
+    ],
+    "count": 1,
+    "create_time": 1773879944,
+    "update_time": 1773879944,
+    "_id": "Informative References<SEP>Subcategory"
+  },
+  "Control<SEP>SP 800-53": {
+    "chunk_ids": [
+      "chunk-a1685ea14462551d4e0ca8c4ebd817b7"
+    ],
+    "count": 1,
+    "create_time": 1773879944,
+    "update_time": 1773879944,
+    "_id": "Control<SEP>SP 800-53"
+  },
+  "Tokyo<SEP>World Athletics Championship": {
+    "chunk_ids": [
+      "chunk-78d7272f17d4adab91f99606404c911f",
+      "chunk-027f4189bd6b5dfed068ce73fa4bf7fa",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-677447a4356867486f88700f12794eb7",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb",
+      "chunk-431d81acdf3085b24870b661be16b4f1"
+    ],
+    "count": 7,
+    "create_time": 1773879944,
+    "update_time": 1773879944,
+    "_id": "Tokyo<SEP>World Athletics Championship"
+  },
+  "Noah Carter<SEP>World Athletics Championship": {
+    "chunk_ids": [
+      "chunk-78d7272f17d4adab91f99606404c911f",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-0ada8334c40c41430fa9296968b88ece"
+    ],
+    "count": 3,
+    "create_time": 1773879945,
+    "update_time": 1773879945,
+    "_id": "Noah Carter<SEP>World Athletics Championship"
+  },
+  "NIST.CSWP.29.pdf<SEP>title": {
+    "chunk_ids": [
+      "chunk-52978ce057f3b7a004200fd6c66d7288",
+      "chunk-cf46d9eb463a9d027228452649d3d4e3",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-ea01d86e7c90396acabcbc9758c9a457",
+      "chunk-ec18c1f537afc62ad981842e36062fbd",
+      "chunk-3d0de3cfb0812e7e673b81664adb026d",
+      "chunk-7c597454311510ecdf008379fa792c9d",
+      "chunk-511f83da90a9dc8590c574ff3af20852"
+    ],
+    "count": 9,
+    "create_time": 1773879945,
+    "update_time": 1773879945,
+    "_id": "NIST.CSWP.29.pdf<SEP>title"
+  },
+  "NIST.CSWP.29.pdf<SEP>page_count": {
+    "chunk_ids": [
+      "chunk-52978ce057f3b7a004200fd6c66d7288",
+      "chunk-4aac65a4923c5272ea41ff8304d7c75d",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-e142782c0b1f1e12e441bc558839e38e",
+      "chunk-845403f5258ee6652ecfcfb89ed85f40",
+      "chunk-4c6f7bae29996027737c7dc965ea0239",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-0ada8334c40c41430fa9296968b88ece",
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6",
+      "chunk-dba679cd2a87fd4be3fe1a3614ca9bc6",
+      "chunk-1bd8099546d6ba4f3178525229495d88",
+      "chunk-4bef1521e74775fe8d5345e4a9c44136",
+      "chunk-cb91369f464ed519ed771389796ff36c",
+      "chunk-cf2f43ae6609115d347760a621948298",
+      "chunk-0d83e4b1b6da9dc117ae28a90210106b",
+      "chunk-7a3e9f59ce00e66857aaef789613c67b",
+      "chunk-01aeeeb798b9aab4ffc902eff4bb0950",
+      "chunk-2dab67331bbdc08faa7f97b5bd736e6c",
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4",
+      "chunk-276134a2449ee64e6e5897b460c4688e",
+      "chunk-0f77e06e37ecfbf52dbc7414eed19f39"
+    ],
+    "count": 22,
+    "create_time": 1773879965,
+    "update_time": 1773879965,
+    "_id": "NIST.CSWP.29.pdf<SEP>page_count"
+  },
+  "NIST.CSWP.29.pdf<SEP>parser": {
+    "chunk_ids": [
+      "chunk-52978ce057f3b7a004200fd6c66d7288",
+      "chunk-4aac65a4923c5272ea41ff8304d7c75d",
+      "chunk-ea8834e456266a90dc1fcf85576cb3fe",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c",
+      "chunk-e142782c0b1f1e12e441bc558839e38e",
+      "chunk-cc2c17308d80e7fb4a18acd6cc98aa96",
+      "chunk-d595e972f89f1931b8d54930d4b17946",
+      "chunk-4c6f7bae29996027737c7dc965ea0239",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-0ada8334c40c41430fa9296968b88ece",
+      "chunk-fa363d8ef99097ed7573a56ea4881f85",
+      "chunk-c965943ec6a06c27434a4a334ed22b27",
+      "chunk-dba679cd2a87fd4be3fe1a3614ca9bc6",
+      "chunk-6bc48c91d9bf95547aba1636fc17956f",
+      "chunk-cb91369f464ed519ed771389796ff36c",
+      "chunk-1dc8b3afb371c358a4a849868e65e091",
+      "chunk-0d83e4b1b6da9dc117ae28a90210106b",
+      "chunk-7a3e9f59ce00e66857aaef789613c67b",
+      "chunk-ec18c1f537afc62ad981842e36062fbd",
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5",
+      "chunk-3d0de3cfb0812e7e673b81664adb026d",
+      "chunk-ab39c851397ecf371b7115af2855a908",
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9",
+      "chunk-276134a2449ee64e6e5897b460c4688e",
+      "chunk-511f83da90a9dc8590c574ff3af20852"
+    ],
+    "count": 27,
+    "create_time": 1773879988,
+    "update_time": 1773879988,
+    "_id": "NIST.CSWP.29.pdf<SEP>parser"
+  },
+  "NIST.CSWP.29.pdf<SEP>image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-52978ce057f3b7a004200fd6c66d7288",
+      "chunk-ea8834e456266a90dc1fcf85576cb3fe",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-7394049c069819ca015b82ca0e5bf283",
+      "chunk-845403f5258ee6652ecfcfb89ed85f40",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a",
+      "chunk-0ada8334c40c41430fa9296968b88ece",
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6",
+      "chunk-ea01d86e7c90396acabcbc9758c9a457",
+      "chunk-12270c419c1c9d3b9a5113eea36aa55c",
+      "chunk-40942147d12ab66861c4b495682d2956",
+      "chunk-1dc8b3afb371c358a4a849868e65e091",
+      "chunk-01aeeeb798b9aab4ffc902eff4bb0950",
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5",
+      "chunk-3d0de3cfb0812e7e673b81664adb026d",
+      "chunk-3c43d68ed955fe5d7c6f31a375e45322",
+      "chunk-276134a2449ee64e6e5897b460c4688e",
+      "chunk-0f77e06e37ecfbf52dbc7414eed19f39"
+    ],
+    "count": 20,
+    "create_time": 1773880009,
+    "update_time": 1773880009,
+    "_id": "NIST.CSWP.29.pdf<SEP>image_ocr_enabled"
+  },
+  "Header<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-52978ce057f3b7a004200fd6c66d7288",
+      "chunk-4aac65a4923c5272ea41ff8304d7c75d",
+      "chunk-14fce07db5d5d98da204e5564aa52a02",
+      "chunk-4564cb8a99fed5101a1ffbf03b124246",
+      "chunk-cb4b577ab4ab56fceba946faf29a43fd",
+      "chunk-4893f0b02c584c1055b59d8cddfca8df",
+      "chunk-7394049c069819ca015b82ca0e5bf283",
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202",
+      "chunk-87e6df0c0d226b569e5364963e932ff2",
+      "chunk-ea01d86e7c90396acabcbc9758c9a457",
+      "chunk-53d74513f9b4bf4e857dc587f365cfcf",
+      "chunk-6d1058d7d75178b661f062c47165b429",
+      "chunk-1bd8099546d6ba4f3178525229495d88",
+      "chunk-09e5ce010011a1c01ac378dc9f7c42dd",
+      "chunk-0af2b2ff693fc69321fb689063551953",
+      "chunk-40942147d12ab66861c4b495682d2956",
+      "chunk-d147d5dfbfdf4bd8d26f6d9188fe2f02",
+      "chunk-2ed19a7b79b8df489f094aebeaf9f831",
+      "chunk-bc30dc20b9aa4ed3a4cab559d49a5b1a",
+      "chunk-f37e358d90041c5f4b84b269dadb281f",
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731",
+      "chunk-110c497b4e4b6476affbf75d09757d59",
+      "chunk-d8d714f2f9238839c80286e2a797981a",
+      "chunk-7c597454311510ecdf008379fa792c9d",
+      "chunk-12db774bd5c9cc8da814ea35cc060ba9",
+      "chunk-51f93bf2d58b81a5311e2cb2ecaf430d"
+    ],
+    "count": 26,
+    "create_time": 1773880009,
+    "update_time": 1773880009,
+    "_id": "Header<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "NIST Cybersecurity Framework (CSF)<SEP>PDF File": {
+    "chunk_ids": [
+      "chunk-3ae9e3476dacda5dbc0b092eee310a64"
+    ],
+    "count": 1,
+    "create_time": 1773880033,
+    "update_time": 1773880033,
+    "_id": "NIST Cybersecurity Framework (CSF)<SEP>PDF File"
+  },
+  "Appendix C<SEP>Glossary": {
+    "chunk_ids": [
+      "chunk-3ae9e3476dacda5dbc0b092eee310a64"
+    ],
+    "count": 1,
+    "create_time": 1773880033,
+    "update_time": 1773880033,
+    "_id": "Appendix C<SEP>Glossary"
+  },
+  "NIST CSWP 29<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-de226951c463af74dc9833ddd3cec4ee"
+    ],
+    "count": 1,
+    "create_time": 1773880045,
+    "update_time": 1773880045,
+    "_id": "NIST CSWP 29<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Header<SEP>Page 14": {
+    "chunk_ids": [
+      "chunk-de226951c463af74dc9833ddd3cec4ee",
+      "chunk-07520e3378ec637954e3df08cc822bf2"
+    ],
+    "count": 2,
+    "create_time": 1773880045,
+    "update_time": 1773880045,
+    "_id": "Header<SEP>Page 14"
+  },
+  "Kind<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-4aac65a4923c5272ea41ff8304d7c75d",
+      "chunk-4564cb8a99fed5101a1ffbf03b124246",
+      "chunk-cb4b577ab4ab56fceba946faf29a43fd",
+      "chunk-4893f0b02c584c1055b59d8cddfca8df",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c",
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202",
+      "chunk-87e6df0c0d226b569e5364963e932ff2",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb",
+      "chunk-0af2b2ff693fc69321fb689063551953",
+      "chunk-cf2f43ae6609115d347760a621948298",
+      "chunk-01aeeeb798b9aab4ffc902eff4bb0950",
+      "chunk-dc3d1352b9f1d69327fd060352c55300",
+      "chunk-d8d714f2f9238839c80286e2a797981a",
+      "chunk-7c597454311510ecdf008379fa792c9d",
+      "chunk-51f93bf2d58b81a5311e2cb2ecaf430d",
+      "chunk-ab39c851397ecf371b7115af2855a908",
+      "chunk-b320a0226c391d26a3f52ad2ed36770f"
+    ],
+    "count": 18,
+    "create_time": 1773880045,
+    "update_time": 1773880045,
+    "_id": "Kind<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "The NIST Cybersecurity Framework (CSF)<SEP>document_type": {
+    "chunk_ids": [
+      "chunk-6fd198cb863de8f31f9ae6a2d92b1914"
+    ],
+    "count": 1,
+    "create_time": 1773880046,
+    "update_time": 1773880046,
+    "_id": "The NIST Cybersecurity Framework (CSF)<SEP>document_type"
+  },
+  "The NIST Cybersecurity Framework (CSF)<SEP>page_count": {
+    "chunk_ids": [
+      "chunk-6fd198cb863de8f31f9ae6a2d92b1914"
+    ],
+    "count": 1,
+    "create_time": 1773880046,
+    "update_time": 1773880046,
+    "_id": "The NIST Cybersecurity Framework (CSF)<SEP>page_count"
+  },
+  "The NIST Cybersecurity Framework (CSF)<SEP>parser": {
+    "chunk_ids": [
+      "chunk-6fd198cb863de8f31f9ae6a2d92b1914",
+      "chunk-827f48355d04a2a9eaac5548458d8e8c"
+    ],
+    "count": 2,
+    "create_time": 1773880047,
+    "update_time": 1773880047,
+    "_id": "The NIST Cybersecurity Framework (CSF)<SEP>parser"
+  },
+  "Header<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-6fd198cb863de8f31f9ae6a2d92b1914",
+      "chunk-827f48355d04a2a9eaac5548458d8e8c"
+    ],
+    "count": 2,
+    "create_time": 1773880047,
+    "update_time": 1773880047,
+    "_id": "Header<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "Kind<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-6fd198cb863de8f31f9ae6a2d92b1914",
+      "chunk-827f48355d04a2a9eaac5548458d8e8c",
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6"
+    ],
+    "count": 3,
+    "create_time": 1773880068,
+    "update_time": 1773880068,
+    "_id": "Kind<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "NIST.CSWP.29.pdf<SEP>document_type": {
+    "chunk_ids": [
+      "chunk-6fd198cb863de8f31f9ae6a2d92b1914",
+      "chunk-53d74513f9b4bf4e857dc587f365cfcf",
+      "chunk-511f83da90a9dc8590c574ff3af20852"
+    ],
+    "count": 3,
+    "create_time": 1773880068,
+    "update_time": 1773880068,
+    "_id": "NIST.CSWP.29.pdf<SEP>document_type"
+  },
+  "Header<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c",
+      "chunk-e142782c0b1f1e12e441bc558839e38e",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-3a1c2f94461354c30294c3c0828925fa",
+      "chunk-5cf0ecace48f517f2845c25e229bcaa2",
+      "chunk-87e6df0c0d226b569e5364963e932ff2",
+      "chunk-d595e972f89f1931b8d54930d4b17946",
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a",
+      "chunk-7b99d228b63c2a53a2dbaef1c5e77109",
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb",
+      "chunk-09e5ce010011a1c01ac378dc9f7c42dd",
+      "chunk-6c7a572812b3b9c78377fb00817f0109",
+      "chunk-ceb137526967bd0732398451dacbefdf",
+      "chunk-2ed19a7b79b8df489f094aebeaf9f831",
+      "chunk-7a3e9f59ce00e66857aaef789613c67b",
+      "chunk-01aeeeb798b9aab4ffc902eff4bb0950",
+      "chunk-dc3d1352b9f1d69327fd060352c55300",
+      "chunk-e53e05b54db72f81a1e33fa6ac9c1e19",
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9",
+      "chunk-276134a2449ee64e6e5897b460c4688e"
+    ],
+    "count": 23,
+    "create_time": 1773880069,
+    "update_time": 1773880069,
+    "_id": "Header<SEP>NIST.CSWP.29.pdf"
+  },
+  "Implementation Examples<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94"
+    ],
+    "count": 1,
+    "create_time": 1773880097,
+    "update_time": 1773880097,
+    "_id": "Implementation Examples<SEP>NIST.CSWP.29.pdf"
+  },
+  "Examples<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94"
+    ],
+    "count": 1,
+    "create_time": 1773880097,
+    "update_time": 1773880097,
+    "_id": "Examples<SEP>NIST.CSWP.29.pdf"
+  },
+  "NIST.CSWP.29.pdf<SEP>achieve Outcomes": {
+    "chunk_ids": [
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94"
+    ],
+    "count": 1,
+    "create_time": 1773880098,
+    "update_time": 1773880098,
+    "_id": "NIST.CSWP.29.pdf<SEP>achieve Outcomes"
+  },
+  "Example Verbs<SEP>Implementation Examples": {
+    "chunk_ids": [
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94"
+    ],
+    "count": 1,
+    "create_time": 1773880098,
+    "update_time": 1773880098,
+    "_id": "Example Verbs<SEP>Implementation Examples"
+  },
+  "CSWP 20<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94"
+    ],
+    "count": 1,
+    "create_time": 1773880099,
+    "update_time": 1773880099,
+    "_id": "CSWP 20<SEP>NIST.CSWP.29.pdf"
+  },
+  "Implementation Examples<SEP>NIST.CSWP.20": {
+    "chunk_ids": [
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94"
+    ],
+    "count": 1,
+    "create_time": 1773880099,
+    "update_time": 1773880099,
+    "_id": "Implementation Examples<SEP>NIST.CSWP.20"
+  },
+  "The NIST Cybersecurity Framework (CSF) 2.0<SEP>source_file": {
+    "chunk_ids": [
+      "chunk-14fce07db5d5d98da204e5564aa52a02",
+      "chunk-ea8834e456266a90dc1fcf85576cb3fe",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-4bef1521e74775fe8d5345e4a9c44136",
+      "chunk-dc3d1352b9f1d69327fd060352c55300"
+    ],
+    "count": 5,
+    "create_time": 1773880099,
+    "update_time": 1773880099,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0<SEP>source_file"
+  },
+  "The NIST Cybersecurity Framework (CSF) 2.0<SEP>image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-14fce07db5d5d98da204e5564aa52a02",
+      "chunk-cf46d9eb463a9d027228452649d3d4e3",
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c",
+      "chunk-0af2b2ff693fc69321fb689063551953",
+      "chunk-ffaca78eb6868f9e95a50be2442dc893",
+      "chunk-7c597454311510ecdf008379fa792c9d"
+    ],
+    "count": 6,
+    "create_time": 1773880100,
+    "update_time": 1773880100,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0<SEP>image_ocr_enabled"
+  },
+  "The NIST Cybersecurity Framework (CSF) 2.0<SEP>parser": {
+    "chunk_ids": [
+      "chunk-14fce07db5d5d98da204e5564aa52a02",
+      "chunk-cf46d9eb463a9d027228452649d3d4e3",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-7394049c069819ca015b82ca0e5bf283",
+      "chunk-ea01d86e7c90396acabcbc9758c9a457",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb",
+      "chunk-7a3e9f59ce00e66857aaef789613c67b",
+      "chunk-7c597454311510ecdf008379fa792c9d",
+      "chunk-12db774bd5c9cc8da814ea35cc060ba9",
+      "chunk-51f93bf2d58b81a5311e2cb2ecaf430d",
+      "chunk-0f77e06e37ecfbf52dbc7414eed19f39"
+    ],
+    "count": 11,
+    "create_time": 1773880101,
+    "update_time": 1773880101,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0<SEP>parser"
+  },
+  "NIST.CSWP.29.pdf<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-e6937a0dea6bdccfd0acd899789297fc",
+      "chunk-cb91369f464ed519ed771389796ff36c"
+    ],
+    "count": 2,
+    "create_time": 1773880116,
+    "update_time": 1773880116,
+    "_id": "NIST.CSWP.29.pdf<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Kind: text<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-e6937a0dea6bdccfd0acd899789297fc",
+      "chunk-cc2c17308d80e7fb4a18acd6cc98aa96"
+    ],
+    "count": 2,
+    "create_time": 1773880117,
+    "update_time": 1773880117,
+    "_id": "Kind: text<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Image OCR enabled<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-e6937a0dea6bdccfd0acd899789297fc"
+    ],
+    "count": 1,
+    "create_time": 1773880117,
+    "update_time": 1773880117,
+    "_id": "Image OCR enabled<SEP>NIST.CSWP.29.pdf"
+  },
+  "Community Profile<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-e6937a0dea6bdccfd0acd899789297fc"
+    ],
+    "count": 1,
+    "create_time": 1773880117,
+    "update_time": 1773880117,
+    "_id": "Community Profile<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Community Profile<SEP>Organizations": {
+    "chunk_ids": [
+      "chunk-e6937a0dea6bdccfd0acd899789297fc"
+    ],
+    "count": 1,
+    "create_time": 1773880118,
+    "update_time": 1773880118,
+    "_id": "Community Profile<SEP>Organizations"
+  },
+  "Community Profile<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-e6937a0dea6bdccfd0acd899789297fc",
+      "chunk-5fe8375d52689cccf79f112601918c4b"
+    ],
+    "count": 2,
+    "create_time": 1773880118,
+    "update_time": 1773880118,
+    "_id": "Community Profile<SEP>NIST CSWP 29"
+  },
+  "Organizations<SEP>Target Profile": {
+    "chunk_ids": [
+      "chunk-e6937a0dea6bdccfd0acd899789297fc"
+    ],
+    "count": 1,
+    "create_time": 1773880118,
+    "update_time": 1773880118,
+    "_id": "Organizations<SEP>Target Profile"
+  },
+  "Header Page 14<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-6b64acf47e907c74febec8f45419fe1b"
+    ],
+    "count": 1,
+    "create_time": 1773880119,
+    "update_time": 1773880119,
+    "_id": "Header Page 14<SEP>NIST CSWP 29"
+  },
+  "Kind Text<SEP>NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-6b64acf47e907c74febec8f45419fe1b"
+    ],
+    "count": 1,
+    "create_time": 1773880119,
+    "update_time": 1773880119,
+    "_id": "Kind Text<SEP>NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "NIST CSWP 29<SEP>email suggestions": {
+    "chunk_ids": [
+      "chunk-6b64acf47e907c74febec8f45419fe1b"
+    ],
+    "count": 1,
+    "create_time": 1773880120,
+    "update_time": 1773880120,
+    "_id": "NIST CSWP 29<SEP>email suggestions"
+  },
+  "NIST Cybersecurity Framework (CSF) 2.0<SEP>cybersecurity management reference": {
+    "chunk_ids": [
+      "chunk-6b64acf47e907c74febec8f45419fe1b"
+    ],
+    "count": 1,
+    "create_time": 1773880120,
+    "update_time": 1773880120,
+    "_id": "NIST Cybersecurity Framework (CSF) 2.0<SEP>cybersecurity management reference"
+  },
+  "Kind<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-4564cb8a99fed5101a1ffbf03b124246",
+      "chunk-7394049c069819ca015b82ca0e5bf283",
+      "chunk-e142782c0b1f1e12e441bc558839e38e",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-87e6df0c0d226b569e5364963e932ff2",
+      "chunk-d595e972f89f1931b8d54930d4b17946",
+      "chunk-6bc48c91d9bf95547aba1636fc17956f",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb",
+      "chunk-09e5ce010011a1c01ac378dc9f7c42dd",
+      "chunk-40942147d12ab66861c4b495682d2956",
+      "chunk-b34a445fab14b4a4b486d155f86027e4",
+      "chunk-01aeeeb798b9aab4ffc902eff4bb0950",
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5",
+      "chunk-40b687f7b9c6aed4085522238850e57e"
+    ],
+    "count": 14,
+    "create_time": 1773880120,
+    "update_time": 1773880120,
+    "_id": "Kind<SEP>NIST.CSWP.29.pdf"
+  },
+  "Header<SEP>image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-4564cb8a99fed5101a1ffbf03b124246",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-09e5ce010011a1c01ac378dc9f7c42dd",
+      "chunk-3bc458dd28316bb4e7070e39b19c5b38"
+    ],
+    "count": 4,
+    "create_time": 1773880121,
+    "update_time": 1773880121,
+    "_id": "Header<SEP>image_ocr_enabled"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-6a3947c70b3ebbaf91b10a9066eeaf10"
+    ],
+    "count": 1,
+    "create_time": 1773880122,
+    "update_time": 1773880122,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "The NIST Cybersecurity Framework (CSF) 2.0<SEP>image_ocr_enabled: True": {
+    "chunk_ids": [
+      "chunk-6a3947c70b3ebbaf91b10a9066eeaf10"
+    ],
+    "count": 1,
+    "create_time": 1773880122,
+    "update_time": 1773880122,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0<SEP>image_ocr_enabled: True"
+  },
+  "Header<SEP>Page 31": {
+    "chunk_ids": [
+      "chunk-e234621b7f425933aeb1e42b348c4a32"
+    ],
+    "count": 1,
+    "create_time": 1773880123,
+    "update_time": 1773880123,
+    "_id": "Header<SEP>Page 31"
+  },
+  "Header<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-e234621b7f425933aeb1e42b348c4a32",
+      "chunk-602aa4ccbd230d5cc27c154e57ecd301",
+      "chunk-e142782c0b1f1e12e441bc558839e38e",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-845403f5258ee6652ecfcfb89ed85f40",
+      "chunk-ccfb59ab3a3f7d4a7eaefaff0db22791",
+      "chunk-ea01d86e7c90396acabcbc9758c9a457",
+      "chunk-02223016f864c217915db457dc244cc1",
+      "chunk-ceb137526967bd0732398451dacbefdf",
+      "chunk-304bdc62134869d004cf1f36e18bcba8",
+      "chunk-b85f1f3296b3a84e2b5e99897e486e55",
+      "chunk-1d9ac9fe725894550271426ef29c312c",
+      "chunk-e53e05b54db72f81a1e33fa6ac9c1e19",
+      "chunk-e42300356554f95180733e6c9a5e6ad8"
+    ],
+    "count": 14,
+    "create_time": 1773880136,
+    "update_time": 1773880136,
+    "_id": "Header<SEP>Kind"
+  },
+  "NIST Cybersecurity Framework (CSF)<SEP>Taxonomy": {
+    "chunk_ids": [
+      "chunk-e234621b7f425933aeb1e42b348c4a32"
+    ],
+    "count": 1,
+    "create_time": 1773880136,
+    "update_time": 1773880136,
+    "_id": "NIST Cybersecurity Framework (CSF)<SEP>Taxonomy"
+  },
+  "High-Level Outcomes<SEP>Taxonomy": {
+    "chunk_ids": [
+      "chunk-e234621b7f425933aeb1e42b348c4a32"
+    ],
+    "count": 1,
+    "create_time": 1773880136,
+    "update_time": 1773880136,
+    "_id": "High-Level Outcomes<SEP>Taxonomy"
+  },
+  "Functions<SEP>NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-e234621b7f425933aeb1e42b348c4a32"
+    ],
+    "count": 1,
+    "create_time": 1773880136,
+    "update_time": 1773880136,
+    "_id": "Functions<SEP>NIST Cybersecurity Framework (CSF)"
+  },
+  "Categories<SEP>NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-e234621b7f425933aeb1e42b348c4a32"
+    ],
+    "count": 1,
+    "create_time": 1773880137,
+    "update_time": 1773880137,
+    "_id": "Categories<SEP>NIST Cybersecurity Framework (CSF)"
+  },
+  "NIST Cybersecurity Framework (CSF)<SEP>Subcategories": {
+    "chunk_ids": [
+      "chunk-e234621b7f425933aeb1e42b348c4a32"
+    ],
+    "count": 1,
+    "create_time": 1773880137,
+    "update_time": 1773880137,
+    "_id": "NIST Cybersecurity Framework (CSF)<SEP>Subcategories"
+  },
+  "Image OCR enabled<SEP>NIST.CSF_29_PDF.pdf": {
+    "chunk_ids": [
+      "chunk-cb4b577ab4ab56fceba946faf29a43fd"
+    ],
+    "count": 1,
+    "create_time": 1773880138,
+    "update_time": 1773880138,
+    "_id": "Image OCR enabled<SEP>NIST.CSF_29_PDF.pdf"
+  },
+  "NIST Cybersecurity Framework (CSF)<SEP>Supply Chain Risk Management (SCRM)": {
+    "chunk_ids": [
+      "chunk-3aabc114a079783ccc75385f8a3d0e34"
+    ],
+    "count": 1,
+    "create_time": 1773880138,
+    "update_time": 1773880138,
+    "_id": "NIST Cybersecurity Framework (CSF)<SEP>Supply Chain Risk Management (SCRM)"
+  },
+  "Cybersecurity SCRM (C-SCRM)<SEP>NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-3aabc114a079783ccc75385f8a3d0e34"
+    ],
+    "count": 1,
+    "create_time": 1773880139,
+    "update_time": 1773880139,
+    "_id": "Cybersecurity SCRM (C-SCRM)<SEP>NIST Cybersecurity Framework (CSF)"
+  },
+  "NIST Cybersecurity Framework (CSF)<SEP>Outcome Focus: Purely Cybersecurity vs. Supply Chain Management": {
+    "chunk_ids": [
+      "chunk-3aabc114a079783ccc75385f8a3d0e34"
+    ],
+    "count": 1,
+    "create_time": 1773880139,
+    "update_time": 1773880139,
+    "_id": "NIST Cybersecurity Framework (CSF)<SEP>Outcome Focus: Purely Cybersecurity vs. Supply Chain Management"
+  },
+  "The NIST Cybersecurity Framework (CSF) 2.0<SEP>page_count": {
+    "chunk_ids": [
+      "chunk-ea8834e456266a90dc1fcf85576cb3fe",
+      "chunk-cf46d9eb463a9d027228452649d3d4e3",
+      "chunk-7394049c069819ca015b82ca0e5bf283",
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c",
+      "chunk-ea01d86e7c90396acabcbc9758c9a457",
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731",
+      "chunk-110c497b4e4b6476affbf75d09757d59",
+      "chunk-7c597454311510ecdf008379fa792c9d",
+      "chunk-12db774bd5c9cc8da814ea35cc060ba9",
+      "chunk-51f93bf2d58b81a5311e2cb2ecaf430d",
+      "chunk-276134a2449ee64e6e5897b460c4688e",
+      "chunk-511f83da90a9dc8590c574ff3af20852"
+    ],
+    "count": 12,
+    "create_time": 1773880140,
+    "update_time": 1773880140,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0<SEP>page_count"
+  },
+  "CSF<Event><SEP>NIST<Creature>": {
+    "chunk_ids": [
+      "chunk-86fb78e647fbb8c01867d8ac36fa5c58"
+    ],
+    "count": 1,
+    "create_time": 1773880155,
+    "update_time": 1773880155,
+    "_id": "CSF<Event><SEP>NIST<Creature>"
+  },
+  "CSF<Event><SEP>PDF<Data>": {
+    "chunk_ids": [
+      "chunk-86fb78e647fbb8c01867d8ac36fa5c58"
+    ],
+    "count": 1,
+    "create_time": 1773880155,
+    "update_time": 1773880155,
+    "_id": "CSF<Event><SEP>PDF<Data>"
+  },
+  "NIST<Creature><SEP>PyMuPDF<PersoanlName>": {
+    "chunk_ids": [
+      "chunk-86fb78e647fbb8c01867d8ac36fa5c58"
+    ],
+    "count": 1,
+    "create_time": 1773880155,
+    "update_time": 1773880155,
+    "_id": "NIST<Creature><SEP>PyMuPDF<PersoanlName>"
+  },
+  "CSF<Event><SEP>Kind<Data>": {
+    "chunk_ids": [
+      "chunk-86fb78e647fbb8c01867d8ac36fa5c58"
+    ],
+    "count": 1,
+    "create_time": 1773880155,
+    "update_time": 1773880155,
+    "_id": "CSF<Event><SEP>Kind<Data>"
+  },
+  "Header<SEP>Location": {
+    "chunk_ids": [
+      "chunk-86fb78e647fbb8c01867d8ac36fa5c58"
+    ],
+    "count": 1,
+    "create_time": 1773880155,
+    "update_time": 1773880155,
+    "_id": "Header<SEP>Location"
+  },
+  "NIST.CSWP.29.pdf<SEP>Page Count": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773880156,
+    "update_time": 1773880156,
+    "_id": "NIST.CSWP.29.pdf<SEP>Page Count"
+  },
+  "NIST.CSWP.29.pdf<SEP>Title: The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-324e7818307e26fab966afee243e2645",
+      "chunk-25eb93c68ce1a37ae6e09b271db64dc9"
+    ],
+    "count": 2,
+    "create_time": 1773880156,
+    "update_time": 1773880156,
+    "_id": "NIST.CSWP.29.pdf<SEP>Title: The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29<SEP>Kind: text": {
+    "chunk_ids": [
+      "chunk-324e7818307e26fab966afee243e2645"
+    ],
+    "count": 1,
+    "create_time": 1773880156,
+    "update_time": 1773880156,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29<SEP>Kind: text"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29<SEP>process: text": {
+    "chunk_ids": [
+      "chunk-324e7818307e26fab966afee243e2645"
+    ],
+    "count": 1,
+    "create_time": 1773880156,
+    "update_time": 1773880156,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29<SEP>process: text"
+  },
+  "Kind: text<SEP>Title: The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-324e7818307e26fab966afee243e2645",
+      "chunk-fa363d8ef99097ed7573a56ea4881f85",
+      "chunk-1dc8b3afb371c358a4a849868e65e091"
+    ],
+    "count": 3,
+    "create_time": 1773880156,
+    "update_time": 1773880156,
+    "_id": "Kind: text<SEP>Title: The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Title: The NIST Cybersecurity Framework (CSF) 2.0<SEP>image_ocr_enabled: True": {
+    "chunk_ids": [
+      "chunk-324e7818307e26fab966afee243e2645"
+    ],
+    "count": 1,
+    "create_time": 1773880156,
+    "update_time": 1773880156,
+    "_id": "Title: The NIST Cybersecurity Framework (CSF) 2.0<SEP>image_ocr_enabled: True"
+  },
+  "NIST.CSWP.29.pdf<SEP>parser: PyMuPDF": {
+    "chunk_ids": [
+      "chunk-324e7818307e26fab966afee243e2645",
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f"
+    ],
+    "count": 2,
+    "create_time": 1773880156,
+    "update_time": 1773880156,
+    "_id": "NIST.CSWP.29.pdf<SEP>parser: PyMuPDF"
+  },
+  "Kind: text<SEP>Title: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-324e7818307e26fab966afee243e2645"
+    ],
+    "count": 1,
+    "create_time": 1773880157,
+    "update_time": 1773880157,
+    "_id": "Kind: text<SEP>Title: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29"
+  },
+  "Process: text<SEP>Title: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-324e7818307e26fab966afee243e2645"
+    ],
+    "count": 1,
+    "create_time": 1773880157,
+    "update_time": 1773880157,
+    "_id": "Process: text<SEP>Title: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29"
+  },
+  "Parser: PyMuPDF<SEP>Title: The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-324e7818307e26fab966afee243e2645"
+    ],
+    "count": 1,
+    "create_time": 1773880157,
+    "update_time": 1773880157,
+    "_id": "Parser: PyMuPDF<SEP>Title: The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "NIST CSWP 29<SEP>Supply Chain Risks": {
+    "chunk_ids": [
+      "chunk-bdcf1715979a7e31cc08a2fbd03306f3"
+    ],
+    "count": 1,
+    "create_time": 1773880157,
+    "update_time": 1773880157,
+    "_id": "NIST CSWP 29<SEP>Supply Chain Risks"
+  },
+  "Supply Chain Risks<SEP>Technology Ecosystem": {
+    "chunk_ids": [
+      "chunk-bdcf1715979a7e31cc08a2fbd03306f3"
+    ],
+    "count": 1,
+    "create_time": 1773880157,
+    "update_time": 1773880157,
+    "_id": "Supply Chain Risks<SEP>Technology Ecosystem"
+  },
+  "Cybersecurity Framework (CSF)<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-bdcf1715979a7e31cc08a2fbd03306f3"
+    ],
+    "count": 1,
+    "create_time": 1773880157,
+    "update_time": 1773880157,
+    "_id": "Cybersecurity Framework (CSF)<SEP>NIST CSWP 29"
+  },
+  "NIST CSWP 29<SEP>Privacy Risk Assessment Methodology (PRAM)": {
+    "chunk_ids": [
+      "chunk-bdcf1715979a7e31cc08a2fbd03306f3"
+    ],
+    "count": 1,
+    "create_time": 1773880157,
+    "update_time": 1773880157,
+    "_id": "NIST CSWP 29<SEP>Privacy Risk Assessment Methodology (PRAM)"
+  },
+  "CSF<SEP>Supply Chain Risks": {
+    "chunk_ids": [
+      "chunk-bdcf1715979a7e31cc08a2fbd03306f3"
+    ],
+    "count": 1,
+    "create_time": 1773880157,
+    "update_time": 1773880157,
+    "_id": "CSF<SEP>Supply Chain Risks"
+  },
+  "Document Processing Methodology<SEP>PyMuPDF": {
+    "chunk_ids": [
+      "chunk-bdcf1715979a7e31cc08a2fbd03306f3"
+    ],
+    "count": 1,
+    "create_time": 1773880158,
+    "update_time": 1773880158,
+    "_id": "Document Processing Methodology<SEP>PyMuPDF"
+  },
+  "PyMuPDF<SEP>used to parse NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-4be9a68c3dc47aaf5018803479dc6e00"
+    ],
+    "count": 1,
+    "create_time": 1773880159,
+    "update_time": 1773880159,
+    "_id": "PyMuPDF<SEP>used to parse NIST.CSWP.29.pdf"
+  },
+  "PyMuPDF<SEP>enabled OCR on the source file": {
+    "chunk_ids": [
+      "chunk-4be9a68c3dc47aaf5018803479dc6e00"
+    ],
+    "count": 1,
+    "create_time": 1773880159,
+    "update_time": 1773880159,
+    "_id": "PyMuPDF<SEP>enabled OCR on the source file"
+  },
+  "Header<SEP>Page 15": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7"
+    ],
+    "count": 1,
+    "create_time": 1773880159,
+    "update_time": 1773880159,
+    "_id": "Header<SEP>Page 15"
+  },
+  "CSF<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7"
+    ],
+    "count": 1,
+    "create_time": 1773880160,
+    "update_time": 1773880160,
+    "_id": "CSF<SEP>NIST CSWP 29"
+  },
+  "Kind<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7",
+      "chunk-f7ec5a71104b40f4aee23b0b819defd7",
+      "chunk-110c497b4e4b6476affbf75d09757d59",
+      "chunk-f698fdece6c3a255ea99377dbea011b6"
+    ],
+    "count": 4,
+    "create_time": 1773880160,
+    "update_time": 1773880160,
+    "_id": "Kind<SEP>NIST CSWP 29"
+  },
+  "NIST CSWP 29<SEP>image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7",
+      "chunk-0af2b2ff693fc69321fb689063551953",
+      "chunk-ffaca78eb6868f9e95a50be2442dc893",
+      "chunk-b1f524a5c7b8dbc47f938daa19271972"
+    ],
+    "count": 4,
+    "create_time": 1773880161,
+    "update_time": 1773880161,
+    "_id": "NIST CSWP 29<SEP>image_ocr_enabled"
+  },
+  "NIST CSWP 29<SEP>document_type": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7"
+    ],
+    "count": 1,
+    "create_time": 1773880163,
+    "update_time": 1773880163,
+    "_id": "NIST CSWP 29<SEP>document_type"
+  },
+  "Header<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7",
+      "chunk-580e95c1b11fd2d0ea198e331b32c67a",
+      "chunk-7e02b7aa698b9c023dac6aead366390a",
+      "chunk-0af2b2ff693fc69321fb689063551953",
+      "chunk-5dfe898b208e0b540d94452dbdd95b76",
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731",
+      "chunk-3bc458dd28316bb4e7070e39b19c5b38",
+      "chunk-b1f524a5c7b8dbc47f938daa19271972",
+      "chunk-f698fdece6c3a255ea99377dbea011b6"
+    ],
+    "count": 9,
+    "create_time": 1773880163,
+    "update_time": 1773880163,
+    "_id": "Header<SEP>NIST CSWP 29"
+  },
+  "Carbon-Fiber Spikes<SEP>Noah Carter": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7",
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75",
+      "chunk-4c6f7bae29996027737c7dc965ea0239",
+      "chunk-431d81acdf3085b24870b661be16b4f1",
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9",
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 6,
+    "create_time": 1773880163,
+    "update_time": 1773880163,
+    "_id": "Carbon-Fiber Spikes<SEP>Noah Carter"
+  },
+  "NIST.CSWP.29.pdf<SEP>Parser": {
+    "chunk_ids": [
+      "chunk-4893f0b02c584c1055b59d8cddfca8df"
+    ],
+    "count": 1,
+    "create_time": 1773880165,
+    "update_time": 1773880165,
+    "_id": "NIST.CSWP.29.pdf<SEP>Parser"
+  },
+  "PyMuPDF<SEP>image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-4893f0b02c584c1055b59d8cddfca8df",
+      "chunk-7b99d228b63c2a53a2dbaef1c5e77109",
+      "chunk-c4669401a25e46edf555bbf250bc4127",
+      "chunk-ffaca78eb6868f9e95a50be2442dc893",
+      "chunk-110c497b4e4b6476affbf75d09757d59",
+      "chunk-701fbd369bbdbe7ae4a94457a4cfdb1e"
+    ],
+    "count": 6,
+    "create_time": 1773880165,
+    "update_time": 1773880165,
+    "_id": "PyMuPDF<SEP>image_ocr_enabled"
+  },
+  "Page 6<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75"
+    ],
+    "count": 1,
+    "create_time": 1773880166,
+    "update_time": 1773880166,
+    "_id": "Page 6<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "CSF Tiers<SEP>Organizational Profiles": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75"
+    ],
+    "count": 1,
+    "create_time": 1773880166,
+    "update_time": 1773880166,
+    "_id": "CSF Tiers<SEP>Organizational Profiles"
+  },
+  "CSF Core's Outcomes<SEP>Informative References": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75"
+    ],
+    "count": 1,
+    "create_time": 1773880167,
+    "update_time": 1773880167,
+    "_id": "CSF Core's Outcomes<SEP>Informative References"
+  },
+  "CSF Core's Outcomes<SEP>Implementation Examples": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75"
+    ],
+    "count": 1,
+    "create_time": 1773880167,
+    "update_time": 1773880167,
+    "_id": "CSF Core's Outcomes<SEP>Implementation Examples"
+  },
+  "CSF Core's Outcomes<SEP>Quick-Start Guides": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75"
+    ],
+    "count": 1,
+    "create_time": 1773880167,
+    "update_time": 1773880167,
+    "_id": "CSF Core's Outcomes<SEP>Quick-Start Guides"
+  },
+  "Community Profiles<SEP>Organizational Profile Templates": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75"
+    ],
+    "count": 1,
+    "create_time": 1773880167,
+    "update_time": 1773880167,
+    "_id": "Community Profiles<SEP>Organizational Profile Templates"
+  },
+  "Community Profiles<SEP>NIST": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75"
+    ],
+    "count": 1,
+    "create_time": 1773880167,
+    "update_time": 1773880167,
+    "_id": "Community Profiles<SEP>NIST"
+  },
+  "Implementation Examples<SEP>NIST": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75",
+      "chunk-07520e3378ec637954e3df08cc822bf2"
+    ],
+    "count": 2,
+    "create_time": 1773880167,
+    "update_time": 1773880167,
+    "_id": "Implementation Examples<SEP>NIST"
+  },
+  "The NIST Cybersecurity Framework (CSF)<SEP>source_file": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75"
+    ],
+    "count": 1,
+    "create_time": 1773880167,
+    "update_time": 1773880167,
+    "_id": "The NIST Cybersecurity Framework (CSF)<SEP>source_file"
+  },
+  "NIST CSWP 29<SEP>page_18": {
+    "chunk_ids": [
+      "chunk-fb41292c4ded4903f8bc597010d71497"
+    ],
+    "count": 1,
+    "create_time": 1773880177,
+    "update_time": 1773880177,
+    "_id": "NIST CSWP 29<SEP>page_18"
+  },
+  "image_summary<SEP>page_18": {
+    "chunk_ids": [
+      "chunk-fb41292c4ded4903f8bc597010d71497"
+    ],
+    "count": 1,
+    "create_time": 1773880178,
+    "update_time": 1773880178,
+    "_id": "image_summary<SEP>page_18"
+  },
+  "source_file<SEP>title": {
+    "chunk_ids": [
+      "chunk-a2636d7402d8151d1004471fecb137ad",
+      "chunk-ccfb59ab3a3f7d4a7eaefaff0db22791",
+      "chunk-304bdc62134869d004cf1f36e18bcba8"
+    ],
+    "count": 3,
+    "create_time": 1773880178,
+    "update_time": 1773880178,
+    "_id": "source_file<SEP>title"
+  },
+  "document_type<SEP>source_file": {
+    "chunk_ids": [
+      "chunk-a2636d7402d8151d1004471fecb137ad",
+      "chunk-845403f5258ee6652ecfcfb89ed85f40"
+    ],
+    "count": 2,
+    "create_time": 1773880179,
+    "update_time": 1773880179,
+    "_id": "document_type<SEP>source_file"
+  },
+  "page_count<SEP>title": {
+    "chunk_ids": [
+      "chunk-a2636d7402d8151d1004471fecb137ad",
+      "chunk-304bdc62134869d004cf1f36e18bcba8"
+    ],
+    "count": 2,
+    "create_time": 1773880179,
+    "update_time": 1773880179,
+    "_id": "page_count<SEP>title"
+  },
+  "parser<SEP>title": {
+    "chunk_ids": [
+      "chunk-a2636d7402d8151d1004471fecb137ad",
+      "chunk-ccfb59ab3a3f7d4a7eaefaff0db22791"
+    ],
+    "count": 2,
+    "create_time": 1773880180,
+    "update_time": 1773880180,
+    "_id": "parser<SEP>title"
+  },
+  "image_ocr_enabled<SEP>page_count": {
+    "chunk_ids": [
+      "chunk-a2636d7402d8151d1004471fecb137ad"
+    ],
+    "count": 1,
+    "create_time": 1773880181,
+    "update_time": 1773880181,
+    "_id": "image_ocr_enabled<SEP>page_count"
+  },
+  "parser<SEP>source_file": {
+    "chunk_ids": [
+      "chunk-a2636d7402d8151d1004471fecb137ad",
+      "chunk-ccfb59ab3a3f7d4a7eaefaff0db22791",
+      "chunk-304bdc62134869d004cf1f36e18bcba8"
+    ],
+    "count": 3,
+    "create_time": 1773880181,
+    "update_time": 1773880181,
+    "_id": "parser<SEP>source_file"
+  },
+  "Title: The NIST Cybersecurity Framework (CSF) 2.0<SEP>source_file": {
+    "chunk_ids": [
+      "chunk-cf46d9eb463a9d027228452649d3d4e3"
+    ],
+    "count": 1,
+    "create_time": 1773880182,
+    "update_time": 1773880182,
+    "_id": "Title: The NIST Cybersecurity Framework (CSF) 2.0<SEP>source_file"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-cf46d9eb463a9d027228452649d3d4e3"
+    ],
+    "count": 1,
+    "create_time": 1773880182,
+    "update_time": 1773880182,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4<SEP>Kind"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4<SEP>source_file": {
+    "chunk_ids": [
+      "chunk-cf46d9eb463a9d027228452649d3d4e3"
+    ],
+    "count": 1,
+    "create_time": 1773880199,
+    "update_time": 1773880199,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4<SEP>source_file"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4<SEP>page_count": {
+    "chunk_ids": [
+      "chunk-cf46d9eb463a9d027228452649d3d4e3"
+    ],
+    "count": 1,
+    "create_time": 1773880199,
+    "update_time": 1773880199,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4<SEP>page_count"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4<SEP>parser": {
+    "chunk_ids": [
+      "chunk-cf46d9eb463a9d027228452649d3d4e3"
+    ],
+    "count": 1,
+    "create_time": 1773880200,
+    "update_time": 1773880200,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4<SEP>parser"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4<SEP>image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-cf46d9eb463a9d027228452649d3d4e3"
+    ],
+    "count": 1,
+    "create_time": 1773880201,
+    "update_time": 1773880201,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4<SEP>image_ocr_enabled"
+  },
+  "Kind: text<SEP>source_file": {
+    "chunk_ids": [
+      "chunk-cf46d9eb463a9d027228452649d3d4e3"
+    ],
+    "count": 1,
+    "create_time": 1773880201,
+    "update_time": 1773880201,
+    "_id": "Kind: text<SEP>source_file"
+  },
+  "Kind: text<SEP>parser": {
+    "chunk_ids": [
+      "chunk-cf46d9eb463a9d027228452649d3d4e3",
+      "chunk-5cf0ecace48f517f2845c25e229bcaa2",
+      "chunk-1dc8b3afb371c358a4a849868e65e091"
+    ],
+    "count": 3,
+    "create_time": 1773880202,
+    "update_time": 1773880202,
+    "_id": "Kind: text<SEP>parser"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 6 > NIST CSWP 29<SEP>Understand, Assess, Prioritize, and Communicate Cybersecurity Risks": {
+    "chunk_ids": [
+      "chunk-6d5111c9032a1e5655f2f7c4cc2070ee"
+    ],
+    "count": 1,
+    "create_time": 1773880202,
+    "update_time": 1773880202,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 6 > NIST CSWP 29<SEP>Understand, Assess, Prioritize, and Communicate Cybersecurity Risks"
+  },
+  "Kind<SEP>Title: The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c",
+      "chunk-b320a0226c391d26a3f52ad2ed36770f"
+    ],
+    "count": 2,
+    "create_time": 1773880202,
+    "update_time": 1773880202,
+    "_id": "Kind<SEP>Title: The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "The NIST Cybersecurity Framework (CSF) 2.0<SEP>regulation": {
+    "chunk_ids": [
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c"
+    ],
+    "count": 1,
+    "create_time": 1773880203,
+    "update_time": 1773880203,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0<SEP>regulation"
+  },
+  "document_type<SEP>parser": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880214,
+    "update_time": 1773880214,
+    "_id": "document_type<SEP>parser"
+  },
+  "Kind<SEP>Title": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880214,
+    "update_time": 1773880214,
+    "_id": "Kind<SEP>Title"
+  },
+  "Header<SEP>title": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880215,
+    "update_time": 1773880215,
+    "_id": "Header<SEP>title"
+  },
+  "Title<SEP>page_count": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880215,
+    "update_time": 1773880215,
+    "_id": "Title<SEP>page_count"
+  },
+  "Kind<SEP>RESPOND (RS)": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880216,
+    "update_time": 1773880216,
+    "_id": "Kind<SEP>RESPOND (RS)"
+  },
+  "Kind<SEP>RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880216,
+    "update_time": 1773880216,
+    "_id": "Kind<SEP>RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)"
+  },
+  "Kind<SEP>RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-01": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880217,
+    "update_time": 1773880217,
+    "_id": "Kind<SEP>RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-01"
+  },
+  "Kind<SEP>RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-02": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880217,
+    "update_time": 1773880217,
+    "_id": "Kind<SEP>RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-02"
+  },
+  "Kind<SEP>RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-03": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880218,
+    "update_time": 1773880218,
+    "_id": "Kind<SEP>RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-03"
+  },
+  "Kind<SEP>RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-04": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880218,
+    "update_time": 1773880218,
+    "_id": "Kind<SEP>RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-04"
+  },
+  "Kind<SEP>RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-05": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880219,
+    "update_time": 1773880219,
+    "_id": "Kind<SEP>RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-05"
+  },
+  "INCIDENT ANALYSIS (RS.AN)<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880219,
+    "update_time": 1773880219,
+    "_id": "INCIDENT ANALYSIS (RS.AN)<SEP>Kind"
+  },
+  "INCIDENT ANALYSIS (RS.AN)-03<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880219,
+    "update_time": 1773880219,
+    "_id": "INCIDENT ANALYSIS (RS.AN)-03<SEP>Kind"
+  },
+  "INCIDENT ANALYSIS (RS.AN)-06<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880220,
+    "update_time": 1773880220,
+    "_id": "INCIDENT ANALYSIS (RS.AN)-06<SEP>Kind"
+  },
+  "INCIDENT ANALYSIS (RS.AN)-07<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880220,
+    "update_time": 1773880220,
+    "_id": "INCIDENT ANALYSIS (RS.AN)-07<SEP>Kind"
+  },
+  "INCIDENT ANALYSIS (RS.AN)-08<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880220,
+    "update_time": 1773880220,
+    "_id": "INCIDENT ANALYSIS (RS.AN)-08<SEP>Kind"
+  },
+  "Kind<SEP>RESPONSE AND COMMUNICATION (RS.CO)": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880221,
+    "update_time": 1773880221,
+    "_id": "Kind<SEP>RESPONSE AND COMMUNICATION (RS.CO)"
+  },
+  "Kind<SEP>RESPONSE AND COMMUNICATION (RS.CO)-02": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880221,
+    "update_time": 1773880221,
+    "_id": "Kind<SEP>RESPONSE AND COMMUNICATION (RS.CO)-02"
+  },
+  "Kind<SEP>RESPONSE AND COMMUNICATION (RS.CO)-03": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880221,
+    "update_time": 1773880221,
+    "_id": "Kind<SEP>RESPONSE AND COMMUNICATION (RS.CO)-03"
+  },
+  "INCIDENT MITIGATION (RS.MI)<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880221,
+    "update_time": 1773880221,
+    "_id": "INCIDENT MITIGATION (RS.MI)<SEP>Kind"
+  },
+  "INCIDENT MITIGATION (RS.MI)-01<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880221,
+    "update_time": 1773880221,
+    "_id": "INCIDENT MITIGATION (RS.MI)-01<SEP>Kind"
+  },
+  "INCIDENT MITIGATION (RS.MI)-02<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880221,
+    "update_time": 1773880221,
+    "_id": "INCIDENT MITIGATION (RS.MI)-02<SEP>Kind"
+  },
+  "NIST.CSWP.29.pdf<SEP>Risks from emerging technologies (including AI)": {
+    "chunk_ids": [
+      "chunk-d2a8cc9c75c9b5a3099bb67ae5079e55"
+    ],
+    "count": 1,
+    "create_time": 1773880221,
+    "update_time": 1773880221,
+    "_id": "NIST.CSWP.29.pdf<SEP>Risks from emerging technologies (including AI)"
+  },
+  "Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations (SP 800-161r1)<SEP>Risks from emerging technologies (including AI)": {
+    "chunk_ids": [
+      "chunk-d2a8cc9c75c9b5a3099bb67ae5079e55"
+    ],
+    "count": 1,
+    "create_time": 1773880221,
+    "update_time": 1773880221,
+    "_id": "Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations (SP 800-161r1)<SEP>Risks from emerging technologies (including AI)"
+  },
+  "NIST Artificial Intelligence Risk Management Framework (AI RMF)<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-d2a8cc9c75c9b5a3099bb67ae5079e55"
+    ],
+    "count": 1,
+    "create_time": 1773880221,
+    "update_time": 1773880221,
+    "_id": "NIST Artificial Intelligence Risk Management Framework (AI RMF)<SEP>NIST.CSWP.29.pdf"
+  },
+  "Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations (SP 800-161r1)<SEP>NIST Artificial Intelligence Risk Management Framework (AI RMF)": {
+    "chunk_ids": [
+      "chunk-d2a8cc9c75c9b5a3099bb67ae5079e55"
+    ],
+    "count": 1,
+    "create_time": 1773880245,
+    "update_time": 1773880245,
+    "_id": "Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations (SP 800-161r1)<SEP>NIST Artificial Intelligence Risk Management Framework (AI RMF)"
+  },
+  "NIST Cybersecurity Framework (CSF)<SEP>page_count": {
+    "chunk_ids": [
+      "chunk-5cf0ecace48f517f2845c25e229bcaa2",
+      "chunk-6632abeaa757531b99f060efde3a5149"
+    ],
+    "count": 2,
+    "create_time": 1773880245,
+    "update_time": 1773880245,
+    "_id": "NIST Cybersecurity Framework (CSF)<SEP>page_count"
+  },
+  "PyMuPDF Parser<SEP>image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-5cf0ecace48f517f2845c25e229bcaa2"
+    ],
+    "count": 1,
+    "create_time": 1773880246,
+    "update_time": 1773880246,
+    "_id": "PyMuPDF Parser<SEP>image_ocr_enabled"
+  },
+  "Header<SEP>page_count": {
+    "chunk_ids": [
+      "chunk-5cf0ecace48f517f2845c25e229bcaa2"
+    ],
+    "count": 1,
+    "create_time": 1773880247,
+    "update_time": 1773880247,
+    "_id": "Header<SEP>page_count"
+  },
+  "Header<SEP>page": {
+    "chunk_ids": [
+      "chunk-845403f5258ee6652ecfcfb89ed85f40",
+      "chunk-6bc48c91d9bf95547aba1636fc17956f"
+    ],
+    "count": 2,
+    "create_time": 1773880247,
+    "update_time": 1773880247,
+    "_id": "Header<SEP>page"
+  },
+  "path<SEP>source_file": {
+    "chunk_ids": [
+      "chunk-845403f5258ee6652ecfcfb89ed85f40"
+    ],
+    "count": 1,
+    "create_time": 1773880247,
+    "update_time": 1773880247,
+    "_id": "path<SEP>source_file"
+  },
+  "RC.RP<SEP>RC.RP-01": {
+    "chunk_ids": [
+      "chunk-580e95c1b11fd2d0ea198e331b32c67a"
+    ],
+    "count": 1,
+    "create_time": 1773880248,
+    "update_time": 1773880248,
+    "_id": "RC.RP<SEP>RC.RP-01"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 7 > NIST CSWP 29<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-cc2c17308d80e7fb4a18acd6cc98aa96"
+    ],
+    "count": 1,
+    "create_time": 1773880249,
+    "update_time": 1773880249,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 7 > NIST CSWP 29<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 7 > NIST CSWP 29<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-cc2c17308d80e7fb4a18acd6cc98aa96"
+    ],
+    "count": 1,
+    "create_time": 1773880249,
+    "update_time": 1773880249,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 7 > NIST CSWP 29<SEP>NIST.CSWP.29.pdf"
+  },
+  "AI<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202"
+    ],
+    "count": 1,
+    "create_time": 1773880249,
+    "update_time": 1773880249,
+    "_id": "AI<SEP>NIST CSWP 29"
+  },
+  "NIST CSWP 29<SEP>PDF": {
+    "chunk_ids": [
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202",
+      "chunk-ffaca78eb6868f9e95a50be2442dc893"
+    ],
+    "count": 2,
+    "create_time": 1773880249,
+    "update_time": 1773880249,
+    "_id": "NIST CSWP 29<SEP>PDF"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0<SEP>Page 19": {
+    "chunk_ids": [
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202"
+    ],
+    "count": 1,
+    "create_time": 1773880250,
+    "update_time": 1773880250,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0<SEP>Page 19"
+  },
+  "AI<SEP>Title: The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202"
+    ],
+    "count": 1,
+    "create_time": 1773880251,
+    "update_time": 1773880251,
+    "_id": "AI<SEP>Title: The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "page_count<SEP>source_file": {
+    "chunk_ids": [
+      "chunk-ccfb59ab3a3f7d4a7eaefaff0db22791"
+    ],
+    "count": 1,
+    "create_time": 1773880251,
+    "update_time": 1773880251,
+    "_id": "page_count<SEP>source_file"
+  },
+  "image_ocr_enabled<SEP>title": {
+    "chunk_ids": [
+      "chunk-ccfb59ab3a3f7d4a7eaefaff0db22791"
+    ],
+    "count": 1,
+    "create_time": 1773880251,
+    "update_time": 1773880251,
+    "_id": "image_ocr_enabled<SEP>title"
+  },
+  "NIST Cybersecurity Framework (CSF) 2.0<SEP>Preparation for Organizational Profiles": {
+    "chunk_ids": [
+      "chunk-9462b7987d4d746e2aac0436a0a4dbdc"
+    ],
+    "count": 1,
+    "create_time": 1773880251,
+    "update_time": 1773880251,
+    "_id": "NIST Cybersecurity Framework (CSF) 2.0<SEP>Preparation for Organizational Profiles"
+  },
+  "Closing Gaps<SEP>NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-9462b7987d4d746e2aac0436a0a4dbdc"
+    ],
+    "count": 1,
+    "create_time": 1773880252,
+    "update_time": 1773880252,
+    "_id": "Closing Gaps<SEP>NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Information Gathering<SEP>Preparing to create and use Organizational Profiles": {
+    "chunk_ids": [
+      "chunk-9462b7987d4d746e2aac0436a0a4dbdc"
+    ],
+    "count": 1,
+    "create_time": 1773880252,
+    "update_time": 1773880252,
+    "_id": "Information Gathering<SEP>Preparing to create and use Organizational Profiles"
+  },
+  "Collaboration with Practitioners<SEP>Preparing to create and use Organizational Profiles": {
+    "chunk_ids": [
+      "chunk-9462b7987d4d746e2aac0436a0a4dbdc"
+    ],
+    "count": 1,
+    "create_time": 1773880253,
+    "update_time": 1773880253,
+    "_id": "Collaboration with Practitioners<SEP>Preparing to create and use Organizational Profiles"
+  },
+  "Preparing to create and use Organizational Profiles<SEP>Risk-Informed Profile Creation": {
+    "chunk_ids": [
+      "chunk-9462b7987d4d746e2aac0436a0a4dbdc"
+    ],
+    "count": 1,
+    "create_time": 1773880253,
+    "update_time": 1773880253,
+    "_id": "Preparing to create and use Organizational Profiles<SEP>Risk-Informed Profile Creation"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 28 > NIST CSWP 29<SEP>document_title": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880254,
+    "update_time": 1773880254,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 28 > NIST CSWP 29<SEP>document_title"
+  },
+  "RC.RP-02: Recovery actions are selected, scoped, prioritized, and performed<SEP>framework_element": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880254,
+    "update_time": 1773880254,
+    "_id": "RC.RP-02: Recovery actions are selected, scoped, prioritized, and performed<SEP>framework_element"
+  },
+  "RC.RP-03: The integrity of backups and other restoration assets is verified before using them for restoration<SEP>framework_element": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880254,
+    "update_time": 1773880254,
+    "_id": "RC.RP-03: The integrity of backups and other restoration assets is verified before using them for restoration<SEP>framework_element"
+  },
+  "RC.RP-04: Critical mission functions and cybersecurity risk management are considered to establish post-incident operational norms<SEP>framework_element": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880255,
+    "update_time": 1773880255,
+    "_id": "RC.RP-04: Critical mission functions and cybersecurity risk management are considered to establish post-incident operational norms<SEP>framework_element"
+  },
+  "RC.RP-05: The integrity of restored assets is verified, systems and services are restored, and normal operating status is confirmed<SEP>framework_element": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880255,
+    "update_time": 1773880255,
+    "_id": "RC.RP-05: The integrity of restored assets is verified, systems and services are restored, and normal operating status is confirmed<SEP>framework_element"
+  },
+  "RC.RP-06: The end of incident recovery is declared based on criteria, and incident-related documentation is completed<SEP>framework_element": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880255,
+    "update_time": 1773880255,
+    "_id": "RC.RP-06: The end of incident recovery is declared based on criteria, and incident-related documentation is completed<SEP>framework_element"
+  },
+  "RC.CO-03: Recovery activities and progress in restoring operational capabilities are communicated to designated internal and external stakeholders<SEP>framework_element": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880255,
+    "update_time": 1773880255,
+    "_id": "RC.CO-03: Recovery activities and progress in restoring operational capabilities are communicated to designated internal and external stakeholders<SEP>framework_element"
+  },
+  "RC.CO-04: Public updates on incident recovery are shared using approved methods and messaging<SEP>framework_element": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880255,
+    "update_time": 1773880255,
+    "_id": "RC.CO-04: Public updates on incident recovery are shared using approved methods and messaging<SEP>framework_element"
+  },
+  "World Athletics Championship<SEP>World Athletics Federation": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239",
+      "chunk-431d81acdf3085b24870b661be16b4f1",
+      "chunk-cf2f43ae6609115d347760a621948298",
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731",
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 5,
+    "create_time": 1773880255,
+    "update_time": 1773880255,
+    "_id": "World Athletics Championship<SEP>World Athletics Federation"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0<SEP>page_count": {
+    "chunk_ids": [
+      "chunk-a248dcfc17282d26bafbf027f779165f"
+    ],
+    "count": 1,
+    "create_time": 1773880255,
+    "update_time": 1773880255,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0<SEP>page_count"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-a248dcfc17282d26bafbf027f779165f"
+    ],
+    "count": 1,
+    "create_time": 1773880256,
+    "update_time": 1773880256,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0<SEP>Kind"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0<SEP>image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-a248dcfc17282d26bafbf027f779165f"
+    ],
+    "count": 1,
+    "create_time": 1773880256,
+    "update_time": 1773880256,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0<SEP>image_ocr_enabled"
+  },
+  "Kind: text<SEP>prioritized": {
+    "chunk_ids": [
+      "chunk-a248dcfc17282d26bafbf027f779165f"
+    ],
+    "count": 1,
+    "create_time": 1773880256,
+    "update_time": 1773880256,
+    "_id": "Kind: text<SEP>prioritized"
+  },
+  "100m Sprint Record<SEP>Carbon-Fiber Spikes": {
+    "chunk_ids": [
+      "chunk-a248dcfc17282d26bafbf027f779165f"
+    ],
+    "count": 1,
+    "create_time": 1773880256,
+    "update_time": 1773880256,
+    "_id": "100m Sprint Record<SEP>Carbon-Fiber Spikes"
+  },
+  "NIST CSWP 29<SEP>Profiles": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773880256,
+    "update_time": 1773880256,
+    "_id": "NIST CSWP 29<SEP>Profiles"
+  },
+  "Manager and Practitioner<SEP>System Level": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773880256,
+    "update_time": 1773880256,
+    "_id": "Manager and Practitioner<SEP>System Level"
+  },
+  "GOVERN Function<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773880256,
+    "update_time": 1773880256,
+    "_id": "GOVERN Function<SEP>NIST CSWP 29"
+  },
+  "Executive Discussions<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773880256,
+    "update_time": 1773880256,
+    "_id": "Executive Discussions<SEP>NIST CSWP 29"
+  },
+  "Governance Discussions<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773880257,
+    "update_time": 1773880257,
+    "_id": "Governance Discussions<SEP>NIST CSWP 29"
+  },
+  "NIST CSWP 29<SEP>Security Priorities Establishment": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773880257,
+    "update_time": 1773880257,
+    "_id": "NIST CSWP 29<SEP>Security Priorities Establishment"
+  },
+  "Cybersecurity Risk Management Integration<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773880257,
+    "update_time": 1773880257,
+    "_id": "Cybersecurity Risk Management Integration<SEP>NIST CSWP 29"
+  },
+  "NIST CSWP 29<SEP>Risk Appetite Communication": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773880257,
+    "update_time": 1773880257,
+    "_id": "NIST CSWP 29<SEP>Risk Appetite Communication"
+  },
+  "Lower-Level Risk Management Programs Integration<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773880257,
+    "update_time": 1773880257,
+    "_id": "Lower-Level Risk Management Programs Integration<SEP>NIST CSWP 29"
+  },
+  "NIST CSWP 29<SEP>System Level": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773880257,
+    "update_time": 1773880257,
+    "_id": "NIST CSWP 29<SEP>System Level"
+  },
+  "NIST CSWP 29<SEP>Risk Register": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773880257,
+    "update_time": 1773880257,
+    "_id": "NIST CSWP 29<SEP>Risk Register"
+  },
+  "page_count<SEP>title: The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81"
+    ],
+    "count": 1,
+    "create_time": 1773880257,
+    "update_time": 1773880257,
+    "_id": "page_count<SEP>title: The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81"
+    ],
+    "count": 1,
+    "create_time": 1773880257,
+    "update_time": 1773880257,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29<SEP>NIST.CSWP.29.pdf"
+  },
+  "Kind: text<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a",
+      "chunk-951a269034b4853c739e0abb73cea1ec",
+      "chunk-20e9c76604167c443c2c21b103f77ac4",
+      "chunk-a8938a04f5577d705356ae16434dae2c",
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 6,
+    "create_time": 1773880258,
+    "update_time": 1773880258,
+    "_id": "Kind: text<SEP>NIST.CSWP.29.pdf"
+  },
+  "PDF document<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-59ac33326a4521f610fc2ff4cbfef4a2"
+    ],
+    "count": 1,
+    "create_time": 1773880259,
+    "update_time": 1773880259,
+    "_id": "PDF document<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "The NIST Cybersecurity Framework (CSF)<SEP>Website": {
+    "chunk_ids": [
+      "chunk-59ac33326a4521f610fc2ff4cbfef4a2"
+    ],
+    "count": 1,
+    "create_time": 1773880259,
+    "update_time": 1773880259,
+    "_id": "The NIST Cybersecurity Framework (CSF)<SEP>Website"
+  },
+  "NIST CSWP.29.pdf<SEP>PDF format": {
+    "chunk_ids": [
+      "chunk-59ac33326a4521f610fc2ff4cbfef4a2"
+    ],
+    "count": 1,
+    "create_time": 1773880259,
+    "update_time": 1773880259,
+    "_id": "NIST CSWP.29.pdf<SEP>PDF format"
+  },
+  "Legacy Format<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-59ac33326a4521f610fc2ff4cbfef4a2"
+    ],
+    "count": 1,
+    "create_time": 1773880259,
+    "update_time": 1773880259,
+    "_id": "Legacy Format<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "Page 20<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-59ac33326a4521f610fc2ff4cbfef4a2"
+    ],
+    "count": 1,
+    "create_time": 1773880259,
+    "update_time": 1773880259,
+    "_id": "Page 20<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "NIST CSWP.29.pdf<SEP>Website": {
+    "chunk_ids": [
+      "chunk-59ac33326a4521f610fc2ff4cbfef4a2"
+    ],
+    "count": 1,
+    "create_time": 1773880260,
+    "update_time": 1773880260,
+    "_id": "NIST CSWP.29.pdf<SEP>Website"
+  },
+  "document_type: PDF<SEP>title: The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-5659a2d45be7952195aa14cef14fb7d0"
+    ],
+    "count": 1,
+    "create_time": 1773880260,
+    "update_time": 1773880260,
+    "_id": "document_type: PDF<SEP>title: The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "NIST.CSWP.29.pdf<SEP>page_count: 32": {
+    "chunk_ids": [
+      "chunk-5659a2d45be7952195aa14cef14fb7d0",
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f"
+    ],
+    "count": 2,
+    "create_time": 1773880260,
+    "update_time": 1773880260,
+    "_id": "NIST.CSWP.29.pdf<SEP>page_count: 32"
+  },
+  "parser: PyMuPDF<SEP>title: The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-5659a2d45be7952195aa14cef14fb7d0"
+    ],
+    "count": 1,
+    "create_time": 1773880260,
+    "update_time": 1773880260,
+    "_id": "parser: PyMuPDF<SEP>title: The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "NIST.CSWP.29.pdf<SEP>image_ocr_enabled: True": {
+    "chunk_ids": [
+      "chunk-5659a2d45be7952195aa14cef14fb7d0",
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f"
+    ],
+    "count": 2,
+    "create_time": 1773880260,
+    "update_time": 1773880260,
+    "_id": "NIST.CSWP.29.pdf<SEP>image_ocr_enabled: True"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 1<SEP>Kind: text": {
+    "chunk_ids": [
+      "chunk-5659a2d45be7952195aa14cef14fb7d0"
+    ],
+    "count": 1,
+    "create_time": 1773880260,
+    "update_time": 1773880260,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 1<SEP>Kind: text"
+  },
+  "NIST Cybersecurity Framework<SEP>managers": {
+    "chunk_ids": [
+      "chunk-1d4ee3b9aa47a173ae5b573628fc4788"
+    ],
+    "count": 1,
+    "create_time": 1773880260,
+    "update_time": 1773880260,
+    "_id": "NIST Cybersecurity Framework<SEP>managers"
+  },
+  "NIST Cybersecurity Framework<SEP>managers focus on": {
+    "chunk_ids": [
+      "chunk-1d4ee3b9aa47a173ae5b573628fc4788"
+    ],
+    "count": 1,
+    "create_time": 1773880261,
+    "update_time": 1773880261,
+    "_id": "NIST Cybersecurity Framework<SEP>managers focus on"
+  },
+  "common services and controls<SEP>expressed in the Target Profile": {
+    "chunk_ids": [
+      "chunk-1d4ee3b9aa47a173ae5b573628fc4788"
+    ],
+    "count": 1,
+    "create_time": 1773880261,
+    "update_time": 1773880261,
+    "_id": "common services and controls<SEP>expressed in the Target Profile"
+  },
+  "NIST Cybersecurity Framework<SEP>Tier": {
+    "chunk_ids": [
+      "chunk-00f479e9eb2ff034e22aa902245379cf"
+    ],
+    "count": 1,
+    "create_time": 1773880261,
+    "update_time": 1773880261,
+    "_id": "NIST Cybersecurity Framework<SEP>Tier"
+  },
+  "Appendix B<SEP>NIST Cybersecurity Framework": {
+    "chunk_ids": [
+      "chunk-00f479e9eb2ff034e22aa902245379cf"
+    ],
+    "count": 1,
+    "create_time": 1773880261,
+    "update_time": 1773880261,
+    "_id": "Appendix B<SEP>NIST Cybersecurity Framework"
+  },
+  "The NIST Cybersecurity Framework (CSF)<SEP>government, academia, and nonprofit organizations": {
+    "chunk_ids": [
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a"
+    ],
+    "count": 1,
+    "create_time": 1773880261,
+    "update_time": 1773880261,
+    "_id": "The NIST Cybersecurity Framework (CSF)<SEP>government, academia, and nonprofit organizations"
+  },
+  "Kind: text<SEP>NIST CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a"
+    ],
+    "count": 1,
+    "create_time": 1773880261,
+    "update_time": 1773880261,
+    "_id": "Kind: text<SEP>NIST CSWP.29.pdf"
+  },
+  "The NIST Cybersecurity Framework (CSF)<SEP>governmental policies and mandates": {
+    "chunk_ids": [
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a"
+    ],
+    "count": 1,
+    "create_time": 1773880262,
+    "update_time": 1773880262,
+    "_id": "The NIST Cybersecurity Framework (CSF)<SEP>governmental policies and mandates"
+  },
+  "The NIST Cybersecurity Framework (CSF)<SEP>country-specific guidelines": {
+    "chunk_ids": [
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a"
+    ],
+    "count": 1,
+    "create_time": 1773880262,
+    "update_time": 1773880262,
+    "_id": "The NIST Cybersecurity Framework (CSF)<SEP>country-specific guidelines"
+  },
+  "The NIST Cybersecurity Framework (CSF)<SEP>other resources": {
+    "chunk_ids": [
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a"
+    ],
+    "count": 1,
+    "create_time": 1773880262,
+    "update_time": 1773880262,
+    "_id": "The NIST Cybersecurity Framework (CSF)<SEP>other resources"
+  },
+  "The NIST Cybersecurity Framework (CSF)<SEP>enterprise-level ICT risk management": {
+    "chunk_ids": [
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a"
+    ],
+    "count": 1,
+    "create_time": 1773880262,
+    "update_time": 1773880262,
+    "_id": "The NIST Cybersecurity Framework (CSF)<SEP>enterprise-level ICT risk management"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-0ada8334c40c41430fa9296968b88ece"
+    ],
+    "count": 1,
+    "create_time": 1773880262,
+    "update_time": 1773880262,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29<SEP>Kind"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29<SEP>Kind: text": {
+    "chunk_ids": [
+      "chunk-0ada8334c40c41430fa9296968b88ece"
+    ],
+    "count": 1,
+    "create_time": 1773880262,
+    "update_time": 1773880262,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29<SEP>Kind: text"
+  },
+  "Fig. 1<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-0ada8334c40c41430fa9296968b88ece"
+    ],
+    "count": 1,
+    "create_time": 1773880262,
+    "update_time": 1773880262,
+    "_id": "Fig. 1<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29"
+  },
+  "Fig. 2<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-0ada8334c40c41430fa9296968b88ece"
+    ],
+    "count": 1,
+    "create_time": 1773880262,
+    "update_time": 1773880262,
+    "_id": "Fig. 2<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29"
+  },
+  "Fig. 3<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-0ada8334c40c41430fa9296968b88ece"
+    ],
+    "count": 1,
+    "create_time": 1773880263,
+    "update_time": 1773880263,
+    "_id": "Fig. 3<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29"
+  },
+  "Fig. 4<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-0ada8334c40c41430fa9296968b88ece"
+    ],
+    "count": 1,
+    "create_time": 1773880263,
+    "update_time": 1773880263,
+    "_id": "Fig. 4<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29"
+  },
+  "Fig. 5<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-0ada8334c40c41430fa9296968b88ece"
+    ],
+    "count": 1,
+    "create_time": 1773880263,
+    "update_time": 1773880263,
+    "_id": "Fig. 5<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29"
+  },
+  "Fig. 6<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-0ada8334c40c41430fa9296968b88ece"
+    ],
+    "count": 1,
+    "create_time": 1773880263,
+    "update_time": 1773880263,
+    "_id": "Fig. 6<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29"
+  },
+  "NIST Cybersecurity Framework (CSF)<SEP>source_file": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834",
+      "chunk-701fbd369bbdbe7ae4a94457a4cfdb1e"
+    ],
+    "count": 2,
+    "create_time": 1773880263,
+    "update_time": 1773880263,
+    "_id": "NIST Cybersecurity Framework (CSF)<SEP>source_file"
+  },
+  "NIST Cybersecurity Framework (CSF)<SEP>parser": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834",
+      "chunk-701fbd369bbdbe7ae4a94457a4cfdb1e"
+    ],
+    "count": 2,
+    "create_time": 1773880263,
+    "update_time": 1773880263,
+    "_id": "NIST Cybersecurity Framework (CSF)<SEP>parser"
+  },
+  "Header<SEP>NIST CSWP 29 Header": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834"
+    ],
+    "count": 1,
+    "create_time": 1773880263,
+    "update_time": 1773880263,
+    "_id": "Header<SEP>NIST CSWP 29 Header"
+  },
+  "Kind<SEP>NIST CSWP 29 Kind": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834"
+    ],
+    "count": 1,
+    "create_time": 1773880264,
+    "update_time": 1773880264,
+    "_id": "Kind<SEP>NIST CSWP 29 Kind"
+  },
+  "Kind<SEP>Practitioners Focus on Implementing Target State": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834"
+    ],
+    "count": 1,
+    "create_time": 1773880264,
+    "update_time": 1773880264,
+    "_id": "Kind<SEP>Practitioners Focus on Implementing Target State"
+  },
+  "NIST CSWP 29 ICT Risks Mentioned<SEP>kind of ICT risks": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834"
+    ],
+    "count": 1,
+    "create_time": 1773880264,
+    "update_time": 1773880264,
+    "_id": "NIST CSWP 29 ICT Risks Mentioned<SEP>kind of ICT risks"
+  },
+  "NIST CSWP 29 ICT Risks Mentioned<SEP>Other Types of Risk": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834"
+    ],
+    "count": 1,
+    "create_time": 1773880264,
+    "update_time": 1773880264,
+    "_id": "NIST CSWP 29 ICT Risks Mentioned<SEP>Other Types of Risk"
+  },
+  "NIST CSWP 29 ICT Risks Integration Needed<SEP>Other Risk Programs": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834"
+    ],
+    "count": 1,
+    "create_time": 1773880264,
+    "update_time": 1773880264,
+    "_id": "NIST CSWP 29 ICT Risks Integration Needed<SEP>Other Risk Programs"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 8 > NIST CSWP 29<SEP>Title: The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-fa363d8ef99097ed7573a56ea4881f85"
+    ],
+    "count": 1,
+    "create_time": 1773880264,
+    "update_time": 1773880264,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 8 > NIST CSWP 29<SEP>Title: The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "NIST.CSWP.29.pdf<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6"
+    ],
+    "count": 1,
+    "create_time": 1773880265,
+    "update_time": 1773880265,
+    "_id": "NIST.CSWP.29.pdf<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "PyMuPDF<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6"
+    ],
+    "count": 1,
+    "create_time": 1773880265,
+    "update_time": 1773880265,
+    "_id": "PyMuPDF<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "CSWP.29.pdf<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6"
+    ],
+    "count": 1,
+    "create_time": 1773880265,
+    "update_time": 1773880265,
+    "_id": "CSWP.29.pdf<SEP>NIST.CSWP.29.pdf"
+  },
+  "CSWP.29.pdf<SEP>PyMuPDF Version 1.2.0": {
+    "chunk_ids": [
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6"
+    ],
+    "count": 1,
+    "create_time": 1773880265,
+    "update_time": 1773880265,
+    "_id": "CSWP.29.pdf<SEP>PyMuPDF Version 1.2.0"
+  },
+  "NIST.CSWP.29.pdf<SEP>PyMuPDF Version 1.2.0": {
+    "chunk_ids": [
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6"
+    ],
+    "count": 1,
+    "create_time": 1773880265,
+    "update_time": 1773880265,
+    "_id": "NIST.CSWP.29.pdf<SEP>PyMuPDF Version 1.2.0"
+  },
+  "NIST.CSWP.29.pdf<SEP>header": {
+    "chunk_ids": [
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6",
+      "chunk-cb91369f464ed519ed771389796ff36c"
+    ],
+    "count": 2,
+    "create_time": 1773880265,
+    "update_time": 1773880265,
+    "_id": "NIST.CSWP.29.pdf<SEP>header"
+  },
+  "PyMuPDF Version 1.2.0<SEP>page_count": {
+    "chunk_ids": [
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6"
+    ],
+    "count": 1,
+    "create_time": 1773880265,
+    "update_time": 1773880265,
+    "_id": "PyMuPDF Version 1.2.0<SEP>page_count"
+  },
+  "CSWP.29.pdf<SEP>header": {
+    "chunk_ids": [
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6"
+    ],
+    "count": 1,
+    "create_time": 1773880265,
+    "update_time": 1773880265,
+    "_id": "CSWP.29.pdf<SEP>header"
+  },
+  "PyMuPDF Version 1.2.0<SEP>header": {
+    "chunk_ids": [
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6"
+    ],
+    "count": 1,
+    "create_time": 1773880265,
+    "update_time": 1773880265,
+    "_id": "PyMuPDF Version 1.2.0<SEP>header"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 20 > Page 1<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-c965943ec6a06c27434a4a334ed22b27"
+    ],
+    "count": 1,
+    "create_time": 1773880266,
+    "update_time": 1773880266,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 20 > Page 1<SEP>Kind"
+  },
+  "NIST.CSWP.29.pdf<SEP>path": {
+    "chunk_ids": [
+      "chunk-c965943ec6a06c27434a4a334ed22b27"
+    ],
+    "count": 1,
+    "create_time": 1773880266,
+    "update_time": 1773880266,
+    "_id": "NIST.CSWP.29.pdf<SEP>path"
+  },
+  "Kind: image<SEP>image_summary": {
+    "chunk_ids": [
+      "chunk-c965943ec6a06c27434a4a334ed22b27"
+    ],
+    "count": 1,
+    "create_time": 1773880266,
+    "update_time": 1773880266,
+    "_id": "Kind: image<SEP>image_summary"
+  },
+  "ERM<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-dba679cd2a87fd4be3fe1a3614ca9bc6"
+    ],
+    "count": 1,
+    "create_time": 1773880266,
+    "update_time": 1773880266,
+    "_id": "ERM<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "ICT_integration<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-dba679cd2a87fd4be3fe1a3614ca9bc6"
+    ],
+    "count": 1,
+    "create_time": 1773880266,
+    "update_time": 1773880266,
+    "_id": "ICT_integration<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "ERM<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-dba679cd2a87fd4be3fe1a3614ca9bc6"
+    ],
+    "count": 1,
+    "create_time": 1773880267,
+    "update_time": 1773880267,
+    "_id": "ERM<SEP>NIST.CSWP.29.pdf"
+  },
+  "NIST.CSWP.29.pdf<SEP>page_16": {
+    "chunk_ids": [
+      "chunk-dba679cd2a87fd4be3fe1a3614ca9bc6"
+    ],
+    "count": 1,
+    "create_time": 1773880267,
+    "update_time": 1773880267,
+    "_id": "NIST.CSWP.29.pdf<SEP>page_16"
+  },
+  "Page 7<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880267,
+    "update_time": 1773880267,
+    "_id": "Page 7<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "Section 2<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880268,
+    "update_time": 1773880268,
+    "_id": "Section 2<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "Section 3<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880269,
+    "update_time": 1773880269,
+    "_id": "Section 3<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "Section 4<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880269,
+    "update_time": 1773880269,
+    "_id": "Section 4<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "Section 5<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880270,
+    "update_time": 1773880270,
+    "_id": "Section 5<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "Appendix A<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880270,
+    "update_time": 1773880270,
+    "_id": "Appendix A<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "Appendix B<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880270,
+    "update_time": 1773880270,
+    "_id": "Appendix B<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "Appendix C<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880271,
+    "update_time": 1773880271,
+    "_id": "Appendix C<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "Source File: NIST.CSWP.29.pdf<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880271,
+    "update_time": 1773880271,
+    "_id": "Source File: NIST.CSWP.29.pdf<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "Document Type: PDF<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880271,
+    "update_time": 1773880271,
+    "_id": "Document Type: PDF<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Page Count: 32<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880273,
+    "update_time": 1773880273,
+    "_id": "Page Count: 32<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Image OCR Enabled: True<SEP>PyMuPDF": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880273,
+    "update_time": 1773880273,
+    "_id": "Image OCR Enabled: True<SEP>PyMuPDF"
+  },
+  "CSW.P.29<SEP>Header": {
+    "chunk_ids": [
+      "chunk-6bc48c91d9bf95547aba1636fc17956f"
+    ],
+    "count": 1,
+    "create_time": 1773880273,
+    "update_time": 1773880273,
+    "_id": "CSW.P.29<SEP>Header"
+  },
+  "Experimental Procedures Manual<SEP>NIST.CSWP.29": {
+    "chunk_ids": [
+      "chunk-6bc48c91d9bf95547aba1636fc17956f"
+    ],
+    "count": 1,
+    "create_time": 1773880274,
+    "update_time": 1773880274,
+    "_id": "Experimental Procedures Manual<SEP>NIST.CSWP.29"
+  },
+  "PDF<SEP>image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-53d74513f9b4bf4e857dc587f365cfcf",
+      "chunk-1bd8099546d6ba4f3178525229495d88",
+      "chunk-cb91369f464ed519ed771389796ff36c"
+    ],
+    "count": 3,
+    "create_time": 1773880274,
+    "update_time": 1773880274,
+    "_id": "PDF<SEP>image_ocr_enabled"
+  },
+  "Kind<SEP>PDF": {
+    "chunk_ids": [
+      "chunk-53d74513f9b4bf4e857dc587f365cfcf",
+      "chunk-1bd8099546d6ba4f3178525229495d88"
+    ],
+    "count": 2,
+    "create_time": 1773880274,
+    "update_time": 1773880274,
+    "_id": "Kind<SEP>PDF"
+  },
+  "Source_file<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880274,
+    "update_time": 1773880274,
+    "_id": "Source_file<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "Document_type<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880275,
+    "update_time": 1773880275,
+    "_id": "Document_type<SEP>NIST CSWP 29"
+  },
+  "Image_OCR_enabled<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880275,
+    "update_time": 1773880275,
+    "_id": "Image_OCR_enabled<SEP>NIST CSWP 29"
+  },
+  "National Institute of Standards and Technology (2024)<SEP>Publication_date": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880275,
+    "update_time": 1773880275,
+    "_id": "National Institute of Standards and Technology (2024)<SEP>Publication_date"
+  },
+  "NIST CSWP 29<SEP>National_Institute_of_Standards_and_Technology (2024)": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880275,
+    "update_time": 1773880275,
+    "_id": "NIST CSWP 29<SEP>National_Institute_of_Standards_and_Technology (2024)"
+  },
+  "Document_reference<SEP>doi:10.6028/NIST.CSWP.29": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880275,
+    "update_time": 1773880275,
+    "_id": "Document_reference<SEP>doi:10.6028/NIST.CSWP.29"
+  },
+  "Parser_type<SEP>pyMuPDF": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880276,
+    "update_time": 1773880276,
+    "_id": "Parser_type<SEP>pyMuPDF"
+  },
+  "Page_source<SEP>source_file: NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880276,
+    "update_time": 1773880276,
+    "_id": "Page_source<SEP>source_file: NIST.CSWP.29.pdf"
+  },
+  "National_Institute_of_Standards_and_Technology (2024)<SEP>source_file: NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880276,
+    "update_time": 1773880276,
+    "_id": "National_Institute_of_Standards_and_Technology (2024)<SEP>source_file: NIST.CSWP.29.pdf"
+  },
+  "Page_number<SEP>source_file: NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880287,
+    "update_time": 1773880287,
+    "_id": "Page_number<SEP>source_file: NIST.CSWP.29.pdf"
+  },
+  "Page_OCR_enabled<SEP>source_file: NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880301,
+    "update_time": 1773880301,
+    "_id": "Page_OCR_enabled<SEP>source_file: NIST.CSWP.29.pdf"
+  },
+  "NIST.CSWP.29.pdf<SEP>source_file": {
+    "chunk_ids": [
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9",
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e",
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5"
+    ],
+    "count": 3,
+    "create_time": 1773880301,
+    "update_time": 1773880301,
+    "_id": "NIST.CSWP.29.pdf<SEP>source_file"
+  },
+  "The NIST Cybersecurity Framework (CSF) 2.0<SEP>title": {
+    "chunk_ids": [
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9",
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e"
+    ],
+    "count": 2,
+    "create_time": 1773880303,
+    "update_time": 1773880303,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0<SEP>title"
+  },
+  "PDF<SEP>document_type": {
+    "chunk_ids": [
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9"
+    ],
+    "count": 1,
+    "create_time": 1773880304,
+    "update_time": 1773880304,
+    "_id": "PDF<SEP>document_type"
+  },
+  "PyMuPDF<SEP>parser": {
+    "chunk_ids": [
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9",
+      "chunk-c4669401a25e46edf555bbf250bc4127",
+      "chunk-aef7be31870c204c67a1af7b8c5d4e7c"
+    ],
+    "count": 3,
+    "create_time": 1773880305,
+    "update_time": 1773880305,
+    "_id": "PyMuPDF<SEP>parser"
+  },
+  "True<SEP>image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9"
+    ],
+    "count": 1,
+    "create_time": 1773880306,
+    "update_time": 1773880306,
+    "_id": "True<SEP>image_ocr_enabled"
+  },
+  "Cybersecurity Framework (CSF)<SEP>NIST": {
+    "chunk_ids": [
+      "chunk-7e02b7aa698b9c023dac6aead366390a",
+      "chunk-56f1498ba6ce64eefdb5e139e2a93c31",
+      "chunk-6c34e6e4f53111e1e0df93b233b83242"
+    ],
+    "count": 3,
+    "create_time": 1773880307,
+    "update_time": 1773880307,
+    "_id": "Cybersecurity Framework (CSF)<SEP>NIST"
+  },
+  "February 26, 2024<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-7e02b7aa698b9c023dac6aead366390a"
+    ],
+    "count": 1,
+    "create_time": 1773880308,
+    "update_time": 1773880308,
+    "_id": "February 26, 2024<SEP>Kind"
+  },
+  "Header<SEP>page_29": {
+    "chunk_ids": [
+      "chunk-02223016f864c217915db457dc244cc1"
+    ],
+    "count": 1,
+    "create_time": 1773880308,
+    "update_time": 1773880308,
+    "_id": "Header<SEP>page_29"
+  },
+  "Kind<SEP>text": {
+    "chunk_ids": [
+      "chunk-02223016f864c217915db457dc244cc1",
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e"
+    ],
+    "count": 2,
+    "create_time": 1773880308,
+    "update_time": 1773880308,
+    "_id": "Kind<SEP>text"
+  },
+  "Cybersecurity Framework Core<SEP>image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-41db6094ad592f0dccdd54c40a045eeb"
+    ],
+    "count": 1,
+    "create_time": 1773880308,
+    "update_time": 1773880308,
+    "_id": "Cybersecurity Framework Core<SEP>image_ocr_enabled"
+  },
+  "Cybersecurity Framework Core<SEP>page_count": {
+    "chunk_ids": [
+      "chunk-41db6094ad592f0dccdd54c40a045eeb"
+    ],
+    "count": 1,
+    "create_time": 1773880308,
+    "update_time": 1773880308,
+    "_id": "Cybersecurity Framework Core<SEP>page_count"
+  },
+  "Cybersecurity Framework Core<SEP>Header": {
+    "chunk_ids": [
+      "chunk-41db6094ad592f0dccdd54c40a045eeb"
+    ],
+    "count": 1,
+    "create_time": 1773880309,
+    "update_time": 1773880309,
+    "_id": "Cybersecurity Framework Core<SEP>Header"
+  },
+  "The NIST Cybersecurity Framework (CSF) 2.0<SEP>image_summary": {
+    "chunk_ids": [
+      "chunk-41db6094ad592f0dccdd54c40a045eeb"
+    ],
+    "count": 1,
+    "create_time": 1773880309,
+    "update_time": 1773880309,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0<SEP>image_summary"
+  },
+  "Cybersecurity Framework Core<SEP>page": {
+    "chunk_ids": [
+      "chunk-41db6094ad592f0dccdd54c40a045eeb"
+    ],
+    "count": 1,
+    "create_time": 1773880309,
+    "update_time": 1773880309,
+    "_id": "Cybersecurity Framework Core<SEP>page"
+  },
+  "Cybersecurity Framework Core<SEP>page_8_img_1.png": {
+    "chunk_ids": [
+      "chunk-41db6094ad592f0dccdd54c40a045eeb"
+    ],
+    "count": 1,
+    "create_time": 1773880309,
+    "update_time": 1773880309,
+    "_id": "Cybersecurity Framework Core<SEP>page_8_img_1.png"
+  },
+  "NIST.CSWP.29.pdf<SEP>image_summary": {
+    "chunk_ids": [
+      "chunk-41db6094ad592f0dccdd54c40a045eeb"
+    ],
+    "count": 1,
+    "create_time": 1773880309,
+    "update_time": 1773880309,
+    "_id": "NIST.CSWP.29.pdf<SEP>image_summary"
+  },
+  "NIST.CSWP.29.pdf<SEP>PyMuPDF": {
+    "chunk_ids": [
+      "chunk-56f1498ba6ce64eefdb5e139e2a93c31",
+      "chunk-2ed19a7b79b8df489f094aebeaf9f831",
+      "chunk-25eb93c68ce1a37ae6e09b271db64dc9",
+      "chunk-e53e05b54db72f81a1e33fa6ac9c1e19"
+    ],
+    "count": 4,
+    "create_time": 1773880309,
+    "update_time": 1773880309,
+    "_id": "NIST.CSWP.29.pdf<SEP>PyMuPDF"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29<SEP>Kind: text": {
+    "chunk_ids": [
+      "chunk-56f1498ba6ce64eefdb5e139e2a93c31"
+    ],
+    "count": 1,
+    "create_time": 1773880309,
+    "update_time": 1773880309,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29<SEP>Kind: text"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-56f1498ba6ce64eefdb5e139e2a93c31"
+    ],
+    "count": 1,
+    "create_time": 1773880309,
+    "update_time": 1773880309,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29<SEP>NIST.CSWP.29.pdf"
+  },
+  "100m Sprint Record<SEP>Noah Carter": {
+    "chunk_ids": [
+      "chunk-431d81acdf3085b24870b661be16b4f1"
+    ],
+    "count": 1,
+    "create_time": 1773880309,
+    "update_time": 1773880309,
+    "_id": "100m Sprint Record<SEP>Noah Carter"
+  },
+  "Kind<SEP>NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-86583643b07c1568b52f107766c93525",
+      "chunk-0af2b2ff693fc69321fb689063551953",
+      "chunk-3bc458dd28316bb4e7070e39b19c5b38"
+    ],
+    "count": 3,
+    "create_time": 1773880310,
+    "update_time": 1773880310,
+    "_id": "Kind<SEP>NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Header<SEP>cybersecurity information": {
+    "chunk_ids": [
+      "chunk-86583643b07c1568b52f107766c93525"
+    ],
+    "count": 1,
+    "create_time": 1773880310,
+    "update_time": 1773880310,
+    "_id": "Header<SEP>cybersecurity information"
+  },
+  "Header<SEP>organization may not have processes that enable": {
+    "chunk_ids": [
+      "chunk-86583643b07c1568b52f107766c93525"
+    ],
+    "count": 1,
+    "create_time": 1773880310,
+    "update_time": 1773880310,
+    "_id": "Header<SEP>organization may not have processes that enable"
+  },
+  "NIST Cybersecurity Framework (CSF) 2.0<SEP>cybersecurity": {
+    "chunk_ids": [
+      "chunk-86583643b07c1568b52f107766c93525"
+    ],
+    "count": 1,
+    "create_time": 1773880318,
+    "update_time": 1773880318,
+    "_id": "NIST Cybersecurity Framework (CSF) 2.0<SEP>cybersecurity"
+  },
+  "Header<SEP>to be shared within the organization.": {
+    "chunk_ids": [
+      "chunk-86583643b07c1568b52f107766c93525"
+    ],
+    "count": 1,
+    "create_time": 1773880318,
+    "update_time": 1773880318,
+    "_id": "Header<SEP>to be shared within the organization."
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29<SEP>page_count": {
+    "chunk_ids": [
+      "chunk-03314f72fe084c6cbbb45e9c54ba4d79"
+    ],
+    "count": 1,
+    "create_time": 1773880319,
+    "update_time": 1773880319,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29<SEP>page_count"
+  },
+  "All comments are subject to release under the Freedom of Information Act (FOIA)<SEP>page_count": {
+    "chunk_ids": [
+      "chunk-1bd8099546d6ba4f3178525229495d88"
+    ],
+    "count": 1,
+    "create_time": 1773880320,
+    "update_time": 1773880320,
+    "_id": "All comments are subject to release under the Freedom of Information Act (FOIA)<SEP>page_count"
+  },
+  "FOIA_accessibility<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-1bd8099546d6ba4f3178525229495d88"
+    ],
+    "count": 1,
+    "create_time": 1773880320,
+    "update_time": 1773880320,
+    "_id": "FOIA_accessibility<SEP>NIST.CSWP.29.pdf"
+  },
+  "NIST.CSWP.29.pdf<SEP>format": {
+    "chunk_ids": [
+      "chunk-1bd8099546d6ba4f3178525229495d88"
+    ],
+    "count": 1,
+    "create_time": 1773880320,
+    "update_time": 1773880320,
+    "_id": "NIST.CSWP.29.pdf<SEP>format"
+  },
+  "NIST.CSWP.29.pdf<SEP>OCR_enabled": {
+    "chunk_ids": [
+      "chunk-1bd8099546d6ba4f3178525229495d88"
+    ],
+    "count": 1,
+    "create_time": 1773880321,
+    "update_time": 1773880321,
+    "_id": "NIST.CSWP.29.pdf<SEP>OCR_enabled"
+  },
+  "Kind<SEP>Page 5": {
+    "chunk_ids": [
+      "chunk-09e5ce010011a1c01ac378dc9f7c42dd"
+    ],
+    "count": 1,
+    "create_time": 1773880321,
+    "update_time": 1773880321,
+    "_id": "Kind<SEP>Page 5"
+  },
+  "NIST CSWP 29<SEP>cybersecurity risks association": {
+    "chunk_ids": [
+      "chunk-0af2b2ff693fc69321fb689063551953"
+    ],
+    "count": 1,
+    "create_time": 1773880321,
+    "update_time": 1773880321,
+    "_id": "NIST CSWP 29<SEP>cybersecurity risks association"
+  },
+  "The organization<SEP>cybersecurity risks association": {
+    "chunk_ids": [
+      "chunk-0af2b2ff693fc69321fb689063551953"
+    ],
+    "count": 1,
+    "create_time": 1773880322,
+    "update_time": 1773880322,
+    "_id": "The organization<SEP>cybersecurity risks association"
+  },
+  "CSW<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-0af2b2ff693fc69321fb689063551953"
+    ],
+    "count": 1,
+    "create_time": 1773880322,
+    "update_time": 1773880322,
+    "_id": "CSW<SEP>Kind"
+  },
+  "CSW<SEP>image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-0af2b2ff693fc69321fb689063551953"
+    ],
+    "count": 1,
+    "create_time": 1773880322,
+    "update_time": 1773880322,
+    "_id": "CSW<SEP>image_ocr_enabled"
+  },
+  "Header<SEP>NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-0af2b2ff693fc69321fb689063551953",
+      "chunk-355d53d98836023fb3aa20ca11c32b0e"
+    ],
+    "count": 2,
+    "create_time": 1773880323,
+    "update_time": 1773880323,
+    "_id": "Header<SEP>NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "CSW.PDF<SEP>cybersecurity risks association": {
+    "chunk_ids": [
+      "chunk-0af2b2ff693fc69321fb689063551953"
+    ],
+    "count": 1,
+    "create_time": 1773880323,
+    "update_time": 1773880323,
+    "_id": "CSW.PDF<SEP>cybersecurity risks association"
+  },
+  "CSW.PDF<SEP>image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-0af2b2ff693fc69321fb689063551953"
+    ],
+    "count": 1,
+    "create_time": 1773880323,
+    "update_time": 1773880323,
+    "_id": "CSW.PDF<SEP>image_ocr_enabled"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 9 > NIST CSWP 29<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-c4669401a25e46edf555bbf250bc4127"
+    ],
+    "count": 1,
+    "create_time": 1773880324,
+    "update_time": 1773880324,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 9 > NIST CSWP 29<SEP>NIST CSWP 29"
+  },
+  "DETECT (DE)<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 9 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-c4669401a25e46edf555bbf250bc4127"
+    ],
+    "count": 1,
+    "create_time": 1773880324,
+    "update_time": 1773880324,
+    "_id": "DETECT (DE)<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 9 > NIST CSWP 29"
+  },
+  "Function: DETECT (DE)<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-c4669401a25e46edf555bbf250bc4127"
+    ],
+    "count": 1,
+    "create_time": 1773880324,
+    "update_time": 1773880324,
+    "_id": "Function: DETECT (DE)<SEP>NIST CSWP 29"
+  },
+  "Function: DETECT (DE)<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 9 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-c4669401a25e46edf555bbf250bc4127"
+    ],
+    "count": 1,
+    "create_time": 1773880326,
+    "update_time": 1773880326,
+    "_id": "Function: DETECT (DE)<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 9 > NIST CSWP 29"
+  },
+  "Black Hole<SEP>Event Horizon": {
+    "chunk_ids": [
+      "chunk-c4669401a25e46edf555bbf250bc4127"
+    ],
+    "count": 1,
+    "create_time": 1773880326,
+    "update_time": 1773880326,
+    "_id": "Black Hole<SEP>Event Horizon"
+  },
+  "Event Horizon<SEP>Observable Universe": {
+    "chunk_ids": [
+      "chunk-c4669401a25e46edf555bbf250bc4127"
+    ],
+    "count": 1,
+    "create_time": 1773880326,
+    "update_time": 1773880326,
+    "_id": "Event Horizon<SEP>Observable Universe"
+  },
+  "NIST C.SWP.29<SEP>document_type": {
+    "chunk_ids": [
+      "chunk-4bef1521e74775fe8d5345e4a9c44136"
+    ],
+    "count": 1,
+    "create_time": 1773880326,
+    "update_time": 1773880326,
+    "_id": "NIST C.SWP.29<SEP>document_type"
+  },
+  "Asset Management<SEP>Header": {
+    "chunk_ids": [
+      "chunk-4bef1521e74775fe8d5345e4a9c44136"
+    ],
+    "count": 1,
+    "create_time": 1773880327,
+    "update_time": 1773880327,
+    "_id": "Asset Management<SEP>Header"
+  },
+  "Header<SEP>ID.AM": {
+    "chunk_ids": [
+      "chunk-4bef1521e74775fe8d5345e4a9c44136"
+    ],
+    "count": 1,
+    "create_time": 1773880327,
+    "update_time": 1773880327,
+    "_id": "Header<SEP>ID.AM"
+  },
+  "NIST Cybersecurity Framework (CSF) 2.0<SEP>PyMuPDF": {
+    "chunk_ids": [
+      "chunk-12270c419c1c9d3b9a5113eea36aa55c"
+    ],
+    "count": 1,
+    "create_time": 1773880327,
+    "update_time": 1773880327,
+    "_id": "NIST Cybersecurity Framework (CSF) 2.0<SEP>PyMuPDF"
+  },
+  "NIST Cybersecurity Framework (CSF) 2.0<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-12270c419c1c9d3b9a5113eea36aa55c",
+      "chunk-9f4c79c195ee275405e879e10588c0c8"
+    ],
+    "count": 2,
+    "create_time": 1773880327,
+    "update_time": 1773880327,
+    "_id": "NIST Cybersecurity Framework (CSF) 2.0<SEP>NIST.CSWP.29.pdf"
+  },
+  "PyMuPDF<SEP>True": {
+    "chunk_ids": [
+      "chunk-12270c419c1c9d3b9a5113eea36aa55c",
+      "chunk-73b24cb66636c88831195301bd0a13fb"
+    ],
+    "count": 2,
+    "create_time": 1773880327,
+    "update_time": 1773880327,
+    "_id": "PyMuPDF<SEP>True"
+  },
+  "NIST Cybersecurity Framework (CSF) 2.0<SEP>image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-12270c419c1c9d3b9a5113eea36aa55c",
+      "chunk-3bc458dd28316bb4e7070e39b19c5b38"
+    ],
+    "count": 2,
+    "create_time": 1773880327,
+    "update_time": 1773880327,
+    "_id": "NIST Cybersecurity Framework (CSF) 2.0<SEP>image_ocr_enabled"
+  },
+  "IR 8286A<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-ceb137526967bd0732398451dacbefdf"
+    ],
+    "count": 1,
+    "create_time": 1773880327,
+    "update_time": 1773880327,
+    "_id": "IR 8286A<SEP>Kind"
+  },
+  "IR 8286B<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-ceb137526967bd0732398451dacbefdf"
+    ],
+    "count": 1,
+    "create_time": 1773880327,
+    "update_time": 1773880327,
+    "_id": "IR 8286B<SEP>Kind"
+  },
+  "IR 8286C<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-ceb137526967bd0732398451dacbefdf"
+    ],
+    "count": 1,
+    "create_time": 1773880328,
+    "update_time": 1773880328,
+    "_id": "IR 8286C<SEP>Kind"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29<SEP>Kind: text": {
+    "chunk_ids": [
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21"
+    ],
+    "count": 1,
+    "create_time": 1773880328,
+    "update_time": 1773880328,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29<SEP>Kind: text"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21"
+    ],
+    "count": 1,
+    "create_time": 1773880328,
+    "update_time": 1773880328,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29<SEP>NIST CSWP 29"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29<SEP>management approval": {
+    "chunk_ids": [
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21"
+    ],
+    "count": 1,
+    "create_time": 1773880328,
+    "update_time": 1773880328,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29<SEP>management approval"
+  },
+  "NIST CSWP 29<SEP>PyMuPDF": {
+    "chunk_ids": [
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21"
+    ],
+    "count": 1,
+    "create_time": 1773880328,
+    "update_time": 1773880328,
+    "_id": "NIST CSWP 29<SEP>PyMuPDF"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29<SEP>risk management practices approval": {
+    "chunk_ids": [
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21"
+    ],
+    "count": 1,
+    "create_time": 1773880328,
+    "update_time": 1773880328,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29<SEP>risk management practices approval"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29<SEP>management_approval": {
+    "chunk_ids": [
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21"
+    ],
+    "count": 1,
+    "create_time": 1773880328,
+    "update_time": 1773880328,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29<SEP>management_approval"
+  },
+  "NIST Cybersecurity Framework (CSF)<SEP>improvement opportunities": {
+    "chunk_ids": [
+      "chunk-3170620e5eb165738cb05be72d4b8b50"
+    ],
+    "count": 1,
+    "create_time": 1773880328,
+    "update_time": 1773880328,
+    "_id": "NIST Cybersecurity Framework (CSF)<SEP>improvement opportunities"
+  },
+  "NIST Cybersecurity Framework (PR)<SEP>PROTECT Function": {
+    "chunk_ids": [
+      "chunk-3170620e5eb165738cb05be72d4b8b50"
+    ],
+    "count": 1,
+    "create_time": 1773880329,
+    "update_time": 1773880329,
+    "_id": "NIST Cybersecurity Framework (PR)<SEP>PROTECT Function"
+  },
+  "PROTECT Function<SEP>improvement opportunities": {
+    "chunk_ids": [
+      "chunk-3170620e5eb165738cb05be72d4b8b50"
+    ],
+    "count": 1,
+    "create_time": 1773880329,
+    "update_time": 1773880329,
+    "_id": "PROTECT Function<SEP>improvement opportunities"
+  },
+  "NIST.CSWP.29.pdf<SEP>title: The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-951a269034b4853c739e0abb73cea1ec"
+    ],
+    "count": 1,
+    "create_time": 1773880329,
+    "update_time": 1773880329,
+    "_id": "NIST.CSWP.29.pdf<SEP>title: The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "page_count: 32<SEP>title: The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-951a269034b4853c739e0abb73cea1ec"
+    ],
+    "count": 1,
+    "create_time": 1773880329,
+    "update_time": 1773880329,
+    "_id": "page_count: 32<SEP>title: The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "image_ocr_enabled: True<SEP>parser: PyMuPDF": {
+    "chunk_ids": [
+      "chunk-951a269034b4853c739e0abb73cea1ec"
+    ],
+    "count": 1,
+    "create_time": 1773880329,
+    "update_time": 1773880329,
+    "_id": "image_ocr_enabled: True<SEP>parser: PyMuPDF"
+  },
+  "Kind<SEP>The Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 17 > NIST CSWP 29 > Oversight": {
+    "chunk_ids": [
+      "chunk-cb91369f464ed519ed771389796ff36c"
+    ],
+    "count": 1,
+    "create_time": 1773880329,
+    "update_time": 1773880329,
+    "_id": "Kind<SEP>The Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 17 > NIST CSWP 29 > Oversight"
+  },
+  "Kind::text<SEP>The Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 17 > NIST CSWP 29 > Oversight": {
+    "chunk_ids": [
+      "chunk-cb91369f464ed519ed771389796ff36c"
+    ],
+    "count": 1,
+    "create_time": 1773880330,
+    "update_time": 1773880330,
+    "_id": "Kind::text<SEP>The Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 17 > NIST CSWP 29 > Oversight"
+  },
+  "NIR 8286D<SEP>header": {
+    "chunk_ids": [
+      "chunk-cb91369f464ed519ed771389796ff36c"
+    ],
+    "count": 1,
+    "create_time": 1773880330,
+    "update_time": 1773880330,
+    "_id": "NIR 8286D<SEP>header"
+  },
+  "NIST CSWP 29<SEP>header": {
+    "chunk_ids": [
+      "chunk-cb91369f464ed519ed771389796ff36c"
+    ],
+    "count": 1,
+    "create_time": 1773880330,
+    "update_time": 1773880330,
+    "_id": "NIST CSWP 29<SEP>header"
+  },
+  "SP 800-221<SEP>header": {
+    "chunk_ids": [
+      "chunk-cb91369f464ed519ed771389796ff36c"
+    ],
+    "count": 1,
+    "create_time": 1773880330,
+    "update_time": 1773880330,
+    "_id": "SP 800-221<SEP>header"
+  },
+  "SP 800-221<SEP>document_usage": {
+    "chunk_ids": [
+      "chunk-cb91369f464ed519ed771389796ff36c"
+    ],
+    "count": 1,
+    "create_time": 1773880330,
+    "update_time": 1773880330,
+    "_id": "SP 800-221<SEP>document_usage"
+  },
+  "The NIST Cybersecurity Framework (CSF) 2.0<SEP>activities and protection needs": {
+    "chunk_ids": [
+      "chunk-3d6779a3859e0dd92a32b8ad4c053249"
+    ],
+    "count": 1,
+    "create_time": 1773880330,
+    "update_time": 1773880330,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0<SEP>activities and protection needs"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29 > NIST CSWP 29 > The prioritization of cybersecurity<SEP>Kind: text": {
+    "chunk_ids": [
+      "chunk-3d6779a3859e0dd92a32b8ad4c053249"
+    ],
+    "count": 1,
+    "create_time": 1773880331,
+    "update_time": 1773880331,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29 > NIST CSWP 29 > The prioritization of cybersecurity<SEP>Kind: text"
+  },
+  "DETTECT Function<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-f5350205eff95686e2d7e508eaad3d46"
+    ],
+    "count": 1,
+    "create_time": 1773880331,
+    "update_time": 1773880331,
+    "_id": "DETTECT Function<SEP>NIST CSWP 29"
+  },
+  "NIST CSWP 29<SEP>RESPOND Function": {
+    "chunk_ids": [
+      "chunk-f5350205eff95686e2d7e508eaad3d46"
+    ],
+    "count": 1,
+    "create_time": 1773880331,
+    "update_time": 1773880331,
+    "_id": "NIST CSWP 29<SEP>RESPOND Function"
+  },
+  "NIST CSWP 29<SEP>RECOVER Function": {
+    "chunk_ids": [
+      "chunk-f5350205eff95686e2d7e508eaad3d46"
+    ],
+    "count": 1,
+    "create_time": 1773880331,
+    "update_time": 1773880331,
+    "_id": "NIST CSWP 29<SEP>RECOVER Function"
+  },
+  "image_ocr_enabled<SEP>source_file": {
+    "chunk_ids": [
+      "chunk-304bdc62134869d004cf1f36e18bcba8"
+    ],
+    "count": 1,
+    "create_time": 1773880331,
+    "update_time": 1773880331,
+    "_id": "image_ocr_enabled<SEP>source_file"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-1dc8b3afb371c358a4a849868e65e091"
+    ],
+    "count": 1,
+    "create_time": 1773880331,
+    "update_time": 1773880331,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0<SEP>NIST.CSWP.29.pdf"
+  },
+  "Title: The NIST Cybersecurity Framework (CSF) 2.0<SEP>page_count": {
+    "chunk_ids": [
+      "chunk-1dc8b3afb371c358a4a849868e65e091"
+    ],
+    "count": 1,
+    "create_time": 1773880331,
+    "update_time": 1773880331,
+    "_id": "Title: The NIST Cybersecurity Framework (CSF) 2.0<SEP>page_count"
+  },
+  "Title: The NIST Cybersecurity Framework (CSF) 2.0<SEP>organizational_level": {
+    "chunk_ids": [
+      "chunk-1dc8b3afb371c358a4a849868e65e091"
+    ],
+    "count": 1,
+    "create_time": 1773880332,
+    "update_time": 1773880332,
+    "_id": "Title: The NIST Cybersecurity Framework (CSF) 2.0<SEP>organizational_level"
+  },
+  "DETECT<SEP>RESPOND": {
+    "chunk_ids": [
+      "chunk-d147d5dfbfdf4bd8d26f6d9188fe2f02"
+    ],
+    "count": 1,
+    "create_time": 1773880332,
+    "update_time": 1773880332,
+    "_id": "DETECT<SEP>RESPOND"
+  },
+  "DETECT<SEP>RECOVER": {
+    "chunk_ids": [
+      "chunk-d147d5dfbfdf4bd8d26f6d9188fe2f02"
+    ],
+    "count": 1,
+    "create_time": 1773880332,
+    "update_time": 1773880332,
+    "_id": "DETECT<SEP>RECOVER"
+  },
+  "NIST.CSWP.29.pdf<SEP>RESPOND (RS)": {
+    "chunk_ids": [
+      "chunk-d147d5dfbfdf4bd8d26f6d9188fe2f02"
+    ],
+    "count": 1,
+    "create_time": 1773880332,
+    "update_time": 1773880332,
+    "_id": "NIST.CSWP.29.pdf<SEP>RESPOND (RS)"
+  },
+  "NIST.CSWP.29.pdf<SEP>RECOVER (RC)": {
+    "chunk_ids": [
+      "chunk-d147d5dfbfdf4bd8d26f6d9188fe2f02"
+    ],
+    "count": 1,
+    "create_time": 1773880332,
+    "update_time": 1773880332,
+    "_id": "NIST.CSWP.29.pdf<SEP>RECOVER (RC)"
+  },
+  "NIST<SEP>PyMuPDF": {
+    "chunk_ids": [
+      "chunk-b85f1f3296b3a84e2b5e99897e486e55"
+    ],
+    "count": 1,
+    "create_time": 1773880332,
+    "update_time": 1773880332,
+    "_id": "NIST<SEP>PyMuPDF"
+  },
+  "Authentication<SEP>Identity Management": {
+    "chunk_ids": [
+      "chunk-b85f1f3296b3a84e2b5e99897e486e55"
+    ],
+    "count": 1,
+    "create_time": 1773880332,
+    "update_time": 1773880332,
+    "_id": "Authentication<SEP>Identity Management"
+  },
+  "CSWP<SEP>NIST": {
+    "chunk_ids": [
+      "chunk-b85f1f3296b3a84e2b5e99897e486e55"
+    ],
+    "count": 1,
+    "create_time": 1773880332,
+    "update_time": 1773880332,
+    "_id": "CSWP<SEP>NIST"
+  },
+  "CSWP 29<SEP>Header": {
+    "chunk_ids": [
+      "chunk-b85f1f3296b3a84e2b5e99897e486e55"
+    ],
+    "count": 1,
+    "create_time": 1773880332,
+    "update_time": 1773880332,
+    "_id": "CSWP 29<SEP>Header"
+  },
+  "CSWP 29<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-b85f1f3296b3a84e2b5e99897e486e55"
+    ],
+    "count": 1,
+    "create_time": 1773880333,
+    "update_time": 1773880333,
+    "_id": "CSWP 29<SEP>Kind"
+  },
+  "Header<SEP>Page 17": {
+    "chunk_ids": [
+      "chunk-5dfe898b208e0b540d94452dbdd95b76"
+    ],
+    "count": 1,
+    "create_time": 1773880333,
+    "update_time": 1773880333,
+    "_id": "Header<SEP>Page 17"
+  },
+  "Header<SEP>SP 800-53": {
+    "chunk_ids": [
+      "chunk-5dfe898b208e0b540d94452dbdd95b76"
+    ],
+    "count": 1,
+    "create_time": 1773880333,
+    "update_time": 1773880333,
+    "_id": "Header<SEP>SP 800-53"
+  },
+  "Fig. 6<SEP>Header": {
+    "chunk_ids": [
+      "chunk-5dfe898b208e0b540d94452dbdd95b76"
+    ],
+    "count": 1,
+    "create_time": 1773880333,
+    "update_time": 1773880333,
+    "_id": "Fig. 6<SEP>Header"
+  },
+  "Page 29<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-2ed19a7b79b8df489f094aebeaf9f831"
+    ],
+    "count": 1,
+    "create_time": 1773880333,
+    "update_time": 1773880333,
+    "_id": "Page 29<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "NIST.CSWP.29.pdf<SEP>objectives and programs": {
+    "chunk_ids": [
+      "chunk-2ed19a7b79b8df489f094aebeaf9f831"
+    ],
+    "count": 1,
+    "create_time": 1773880333,
+    "update_time": 1773880333,
+    "_id": "NIST.CSWP.29.pdf<SEP>objectives and programs"
+  },
+  "external assets<SEP>objectives and programs": {
+    "chunk_ids": [
+      "chunk-2ed19a7b79b8df489f094aebeaf9f831"
+    ],
+    "count": 1,
+    "create_time": 1773880333,
+    "update_time": 1773880333,
+    "_id": "external assets<SEP>objectives and programs"
+  },
+  "objectives and programs<SEP>reoccurring assessments": {
+    "chunk_ids": [
+      "chunk-2ed19a7b79b8df489f094aebeaf9f831"
+    ],
+    "count": 1,
+    "create_time": 1773880333,
+    "update_time": 1773880333,
+    "_id": "objectives and programs<SEP>reoccurring assessments"
+  },
+  "NIST Cswp.29.pdf<SEP>Title": {
+    "chunk_ids": [
+      "chunk-b5140bbf92d407fa00cfc9038b05bff6"
+    ],
+    "count": 1,
+    "create_time": 1773880333,
+    "update_time": 1773880333,
+    "_id": "NIST Cswp.29.pdf<SEP>Title"
+  },
+  "NIST Cswp.29.pdf<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-bc30dc20b9aa4ed3a4cab559d49a5b1a"
+    ],
+    "count": 1,
+    "create_time": 1773880333,
+    "update_time": 1773880333,
+    "_id": "NIST Cswp.29.pdf<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "PyMuPDF<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-bc30dc20b9aa4ed3a4cab559d49a5b1a",
+      "chunk-ffaca78eb6868f9e95a50be2442dc893",
+      "chunk-8748963043426f14c1527712ec159b5e",
+      "chunk-3c43d68ed955fe5d7c6f31a375e45322"
+    ],
+    "count": 4,
+    "create_time": 1773880333,
+    "update_time": 1773880333,
+    "_id": "PyMuPDF<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 9 > NIST CSWP 29<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-25eb93c68ce1a37ae6e09b271db64dc9"
+    ],
+    "count": 1,
+    "create_time": 1773880333,
+    "update_time": 1773880333,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 9 > NIST CSWP 29<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "Figure 2<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-25eb93c68ce1a37ae6e09b271db64dc9"
+    ],
+    "count": 1,
+    "create_time": 1773880334,
+    "update_time": 1773880334,
+    "_id": "Figure 2<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "Kind: text<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-25eb93c68ce1a37ae6e09b271db64dc9"
+    ],
+    "count": 1,
+    "create_time": 1773880334,
+    "update_time": 1773880334,
+    "_id": "Kind: text<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "Figure 2<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-25eb93c68ce1a37ae6e09b271db64dc9"
+    ],
+    "count": 1,
+    "create_time": 1773880334,
+    "update_time": 1773880334,
+    "_id": "Figure 2<SEP>NIST.CSWP.29.pdf"
+  },
+  "DataSecurity<SEP>PyMuPDF Parser": {
+    "chunk_ids": [
+      "chunk-4c8948137c854edf2aec93f9cab81db1"
+    ],
+    "count": 1,
+    "create_time": 1773880334,
+    "update_time": 1773880334,
+    "_id": "DataSecurity<SEP>PyMuPDF Parser"
+  },
+  "DataSecurity<SEP>NIST_Cybersecurity_Framework_2.0": {
+    "chunk_ids": [
+      "chunk-4c8948137c854edf2aec93f9cab81db1"
+    ],
+    "count": 1,
+    "create_time": 1773880334,
+    "update_time": 1773880334,
+    "_id": "DataSecurity<SEP>NIST_Cybersecurity_Framework_2.0"
+  },
+  "Document_Type<SEP>NIST_Cybersecurity_Framework_2.0": {
+    "chunk_ids": [
+      "chunk-4c8948137c854edf2aec93f9cab81db1"
+    ],
+    "count": 1,
+    "create_time": 1773880334,
+    "update_time": 1773880334,
+    "_id": "Document_Type<SEP>NIST_Cybersecurity_Framework_2.0"
+  },
+  "NIST_Cybersecurity_Framework_2.0<SEP>Page_Count": {
+    "chunk_ids": [
+      "chunk-4c8948137c854edf2aec93f9cab81db1"
+    ],
+    "count": 1,
+    "create_time": 1773880334,
+    "update_time": 1773880334,
+    "_id": "NIST_Cybersecurity_Framework_2.0<SEP>Page_Count"
+  },
+  "Document_Type<SEP>PyMuPDF Parser": {
+    "chunk_ids": [
+      "chunk-4c8948137c854edf2aec93f9cab81db1"
+    ],
+    "count": 1,
+    "create_time": 1773880334,
+    "update_time": 1773880334,
+    "_id": "Document_Type<SEP>PyMuPDF Parser"
+  },
+  "Page_Count<SEP>PyMuPDF Parser": {
+    "chunk_ids": [
+      "chunk-4c8948137c854edf2aec93f9cab81db1"
+    ],
+    "count": 1,
+    "create_time": 1773880335,
+    "update_time": 1773880335,
+    "_id": "Page_Count<SEP>PyMuPDF Parser"
+  },
+  "Image_OCR_Engagement<SEP>NIST_Cybersecurity_Framework_2.0": {
+    "chunk_ids": [
+      "chunk-4c8948137c854edf2aec93f9cab81db1"
+    ],
+    "count": 1,
+    "create_time": 1773880335,
+    "update_time": 1773880335,
+    "_id": "Image_OCR_Engagement<SEP>NIST_Cybersecurity_Framework_2.0"
+  },
+  "Header_Reference<SEP>PyMuPDF Parser": {
+    "chunk_ids": [
+      "chunk-4c8948137c854edf2aec93f9cab81db1"
+    ],
+    "count": 1,
+    "create_time": 1773880335,
+    "update_time": 1773880335,
+    "_id": "Header_Reference<SEP>PyMuPDF Parser"
+  },
+  "Header_Reference<SEP>NIST_Cybersecurity_Framework_2.0": {
+    "chunk_ids": [
+      "chunk-4c8948137c854edf2aec93f9cab81db1"
+    ],
+    "count": 1,
+    "create_time": 1773880335,
+    "update_time": 1773880335,
+    "_id": "Header_Reference<SEP>NIST_Cybersecurity_Framework_2.0"
+  },
+  "NIST Cybersecurity Framework (CSF)<SEP>organization": {
+    "chunk_ids": [
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41"
+    ],
+    "count": 1,
+    "create_time": 1773880335,
+    "update_time": 1773880335,
+    "_id": "NIST Cybersecurity Framework (CSF)<SEP>organization"
+  },
+  "The organization<SEP>suppliers": {
+    "chunk_ids": [
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41"
+    ],
+    "count": 1,
+    "create_time": 1773880335,
+    "update_time": 1773880335,
+    "_id": "The organization<SEP>suppliers"
+  },
+  "Products and Services<SEP>acquisition process": {
+    "chunk_ids": [
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41"
+    ],
+    "count": 1,
+    "create_time": 1773880335,
+    "update_time": 1773880335,
+    "_id": "Products and Services<SEP>acquisition process"
+  },
+  "document_type<SEP>source_file: NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41"
+    ],
+    "count": 1,
+    "create_time": 1773880335,
+    "update_time": 1773880335,
+    "_id": "document_type<SEP>source_file: NIST.CSWP.29.pdf"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29 > NIST CSWP 29<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41"
+    ],
+    "count": 1,
+    "create_time": 1773880335,
+    "update_time": 1773880335,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29 > NIST CSWP 29<SEP>Kind"
+  },
+  "Kind<SEP>associated with its suppliers and the products and services it acquires and uses": {
+    "chunk_ids": [
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41"
+    ],
+    "count": 1,
+    "create_time": 1773880336,
+    "update_time": 1773880336,
+    "_id": "Kind<SEP>associated with its suppliers and the products and services it acquires and uses"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29 > NIST CSWP 29<SEP>image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41"
+    ],
+    "count": 1,
+    "create_time": 1773880336,
+    "update_time": 1773880336,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29 > NIST CSWP 29<SEP>image_ocr_enabled"
+  },
+  "Kind<SEP>NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41"
+    ],
+    "count": 1,
+    "create_time": 1773880337,
+    "update_time": 1773880337,
+    "_id": "Kind<SEP>NIST Cybersecurity Framework (CSF)"
+  },
+  "Fig. 2. CSF Functions<SEP>document content": {
+    "chunk_ids": [
+      "chunk-7a3e9f59ce00e66857aaef789613c67b"
+    ],
+    "count": 1,
+    "create_time": 1773880337,
+    "update_time": 1773880337,
+    "_id": "Fig. 2. CSF Functions<SEP>document content"
+  },
+  "Each Function<SEP>name": {
+    "chunk_ids": [
+      "chunk-7a3e9f59ce00e66857aaef789613c67b"
+    ],
+    "count": 1,
+    "create_time": 1773880337,
+    "update_time": 1773880337,
+    "_id": "Each Function<SEP>name"
+  },
+  "NIST.CSWP.29.pdf<SEP>PR.PS": {
+    "chunk_ids": [
+      "chunk-b34a445fab14b4a4b486d155f86027e4"
+    ],
+    "count": 1,
+    "create_time": 1773880337,
+    "update_time": 1773880337,
+    "_id": "NIST.CSWP.29.pdf<SEP>PR.PS"
+  },
+  "Header<SEP>Kind: text": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731",
+      "chunk-ab39c851397ecf371b7115af2855a908"
+    ],
+    "count": 2,
+    "create_time": 1773880337,
+    "update_time": 1773880337,
+    "_id": "Header<SEP>Kind: text"
+  },
+  "Kind: text<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731",
+      "chunk-ea18676d1d1af3aabd7f601118711a45"
+    ],
+    "count": 2,
+    "create_time": 1773880338,
+    "update_time": 1773880338,
+    "_id": "Kind: text<SEP>NIST CSWP 29"
+  },
+  "NIST CSWP 29<SEP>Privacy Risks": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880338,
+    "update_time": 1773880338,
+    "_id": "NIST CSWP 29<SEP>Privacy Risks"
+  },
+  "data breach<SEP>privacy risks": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880338,
+    "update_time": 1773880338,
+    "_id": "data breach<SEP>privacy risks"
+  },
+  "NIST CSWP 29<SEP>confidentiality": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880338,
+    "update_time": 1773880338,
+    "_id": "NIST CSWP 29<SEP>confidentiality"
+  },
+  "NIST CSWP 29<SEP>integrity": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880338,
+    "update_time": 1773880338,
+    "_id": "NIST CSWP 29<SEP>integrity"
+  },
+  "NIST CSWP 29<SEP>availability": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880338,
+    "update_time": 1773880338,
+    "_id": "NIST CSWP 29<SEP>availability"
+  },
+  "data breach<SEP>identity theft": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880338,
+    "update_time": 1773880338,
+    "_id": "data breach<SEP>identity theft"
+  },
+  "confidentiality<SEP>data loss": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880339,
+    "update_time": 1773880339,
+    "_id": "confidentiality<SEP>data loss"
+  },
+  "availability<SEP>system disruption": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880339,
+    "update_time": 1773880339,
+    "_id": "availability<SEP>system disruption"
+  },
+  "NIST CSWP 29<SEP>data loss": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880339,
+    "update_time": 1773880339,
+    "_id": "NIST CSWP 29<SEP>data loss"
+  },
+  "NIST CSWP 29<SEP>system disruption": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880339,
+    "update_time": 1773880339,
+    "_id": "NIST CSWP 29<SEP>system disruption"
+  },
+  "Header<SEP>The organization's risk management practices": {
+    "chunk_ids": [
+      "chunk-01aeeeb798b9aab4ffc902eff4bb0950"
+    ],
+    "count": 1,
+    "create_time": 1773880339,
+    "update_time": 1773880339,
+    "_id": "Header<SEP>The organization's risk management practices"
+  },
+  "Location<SEP>World Athletics Championship": {
+    "chunk_ids": [
+      "chunk-4fa58a4b8ae6497e3096ccd2ed086335"
+    ],
+    "count": 1,
+    "create_time": 1773880339,
+    "update_time": 1773880339,
+    "_id": "Location<SEP>World Athletics Championship"
+  },
+  "Header<SEP>Page 18": {
+    "chunk_ids": [
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e"
+    ],
+    "count": 1,
+    "create_time": 1773880339,
+    "update_time": 1773880339,
+    "_id": "Header<SEP>Page 18"
+  },
+  "data_processing<SEP>privacy_events": {
+    "chunk_ids": [
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e"
+    ],
+    "count": 1,
+    "create_time": 1773880339,
+    "update_time": 1773880339,
+    "_id": "data_processing<SEP>privacy_events"
+  },
+  "Privacy Events<SEP>dignity_type_effects": {
+    "chunk_ids": [
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e"
+    ],
+    "count": 1,
+    "create_time": 1773880339,
+    "update_time": 1773880339,
+    "_id": "Privacy Events<SEP>dignity_type_effects"
+  },
+  "Privacy Events<SEP>tangible_harms": {
+    "chunk_ids": [
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e"
+    ],
+    "count": 1,
+    "create_time": 1773880340,
+    "update_time": 1773880340,
+    "_id": "Privacy Events<SEP>tangible_harms"
+  },
+  "PyMuPDF<SEP>document_type": {
+    "chunk_ids": [
+      "chunk-6c34e6e4f53111e1e0df93b233b83242",
+      "chunk-3bc458dd28316bb4e7070e39b19c5b38"
+    ],
+    "count": 2,
+    "create_time": 1773880340,
+    "update_time": 1773880340,
+    "_id": "PyMuPDF<SEP>document_type"
+  },
+  "DE.CM<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-6c34e6e4f53111e1e0df93b233b83242"
+    ],
+    "count": 1,
+    "create_time": 1773880340,
+    "update_time": 1773880340,
+    "_id": "DE.CM<SEP>Kind"
+  },
+  "NIST.CSWP.29.pdf<SEP>The NIST Cybersecurity Framework (CSF) 2.0 Header": {
+    "chunk_ids": [
+      "chunk-a8938a04f5577d705356ae16434dae2c"
+    ],
+    "count": 1,
+    "create_time": 1773880340,
+    "update_time": 1773880340,
+    "_id": "NIST.CSWP.29.pdf<SEP>The NIST Cybersecurity Framework (CSF) 2.0 Header"
+  },
+  "Kind: text<SEP>The NIST Cybersecurity Framework (CSF) 2.0 Header": {
+    "chunk_ids": [
+      "chunk-a8938a04f5577d705356ae16434dae2c"
+    ],
+    "count": 1,
+    "create_time": 1773880340,
+    "update_time": 1773880340,
+    "_id": "Kind: text<SEP>The NIST Cybersecurity Framework (CSF) 2.0 Header"
+  },
+  "NIST Cybersecurity Framework (CSF)<SEP>organizational cybersecurity practices": {
+    "chunk_ids": [
+      "chunk-326fc9fc709f7b8db1a373ea928e6d23"
+    ],
+    "count": 1,
+    "create_time": 1773880340,
+    "update_time": 1773880340,
+    "_id": "NIST Cybersecurity Framework (CSF)<SEP>organizational cybersecurity practices"
+  },
+  "Current Profile<SEP>Profile Type": {
+    "chunk_ids": [
+      "chunk-ea18676d1d1af3aabd7f601118711a45"
+    ],
+    "count": 1,
+    "create_time": 1773880340,
+    "update_time": 1773880340,
+    "_id": "Current Profile<SEP>Profile Type"
+  },
+  "Profile Type<SEP>Target Profile": {
+    "chunk_ids": [
+      "chunk-ea18676d1d1af3aabd7f601118711a45"
+    ],
+    "count": 1,
+    "create_time": 1773880341,
+    "update_time": 1773880341,
+    "_id": "Profile Type<SEP>Target Profile"
+  },
+  "Core Outcomes<SEP>Current Profile": {
+    "chunk_ids": [
+      "chunk-ea18676d1d1af3aabd7f601118711a45"
+    ],
+    "count": 1,
+    "create_time": 1773880341,
+    "update_time": 1773880341,
+    "_id": "Core Outcomes<SEP>Current Profile"
+  },
+  "Desired Outcomes<SEP>Target Profile": {
+    "chunk_ids": [
+      "chunk-ea18676d1d1af3aabd7f601118711a45"
+    ],
+    "count": 1,
+    "create_time": 1773880341,
+    "update_time": 1773880341,
+    "_id": "Desired Outcomes<SEP>Target Profile"
+  },
+  "Adverse Event Analysis<SEP>page_count": {
+    "chunk_ids": [
+      "chunk-ec18c1f537afc62ad981842e36062fbd"
+    ],
+    "count": 1,
+    "create_time": 1773880341,
+    "update_time": 1773880341,
+    "_id": "Adverse Event Analysis<SEP>page_count"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-ec18c1f537afc62ad981842e36062fbd",
+      "chunk-dc3d1352b9f1d69327fd060352c55300"
+    ],
+    "count": 2,
+    "create_time": 1773880341,
+    "update_time": 1773880341,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29<SEP>Kind"
+  },
+  "DE.AE<SEP>Header": {
+    "chunk_ids": [
+      "chunk-ec18c1f537afc62ad981842e36062fbd"
+    ],
+    "count": 1,
+    "create_time": 1773880341,
+    "update_time": 1773880341,
+    "_id": "DE.AE<SEP>Header"
+  },
+  "NIST Cybersecurity Framework<SEP>source_file: NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-d827f9927aa7fbb31b262442c5ae0f4e"
+    ],
+    "count": 1,
+    "create_time": 1773880341,
+    "update_time": 1773880341,
+    "_id": "NIST Cybersecurity Framework<SEP>source_file: NIST.CSWP.29.pdf"
+  },
+  "NIST Cybersecurity Framework<SEP>title: The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-d827f9927aa7fbb31b262442c5ae0f4e"
+    ],
+    "count": 1,
+    "create_time": 1773880342,
+    "update_time": 1773880342,
+    "_id": "NIST Cybersecurity Framework<SEP>title: The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "NIST Cybersecurity Framework<SEP>page_count: 32": {
+    "chunk_ids": [
+      "chunk-d827f9927aa7fbb31b262442c5ae0f4e"
+    ],
+    "count": 1,
+    "create_time": 1773880342,
+    "update_time": 1773880342,
+    "_id": "NIST Cybersecurity Framework<SEP>page_count: 32"
+  },
+  "NIST Cybersecurity Framework<SEP>image_ocr_enabled: True": {
+    "chunk_ids": [
+      "chunk-d827f9927aa7fbb31b262442c5ae0f4e"
+    ],
+    "count": 1,
+    "create_time": 1773880342,
+    "update_time": 1773880342,
+    "_id": "NIST Cybersecurity Framework<SEP>image_ocr_enabled: True"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2 > NIST CSWP 29<SEP>NIST Cybersecurity Framework": {
+    "chunk_ids": [
+      "chunk-d827f9927aa7fbb31b262442c5ae0f4e"
+    ],
+    "count": 1,
+    "create_time": 1773880342,
+    "update_time": 1773880342,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2 > NIST CSWP 29<SEP>NIST Cybersecurity Framework"
+  },
+  "PyMuPDF<SEP>source_file: NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-d827f9927aa7fbb31b262442c5ae0f4e"
+    ],
+    "count": 1,
+    "create_time": 1773880342,
+    "update_time": 1773880342,
+    "_id": "PyMuPDF<SEP>source_file: NIST.CSWP.29.pdf"
+  },
+  "PyMuPDF<SEP>title: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2": {
+    "chunk_ids": [
+      "chunk-d827f9927aa7fbb31b262442c5ae0f4e"
+    ],
+    "count": 1,
+    "create_time": 1773880342,
+    "update_time": 1773880342,
+    "_id": "PyMuPDF<SEP>title: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2"
+  },
+  "PyMuPDF<SEP>page_count: 32": {
+    "chunk_ids": [
+      "chunk-d827f9927aa7fbb31b262442c5ae0f4e"
+    ],
+    "count": 1,
+    "create_time": 1773880342,
+    "update_time": 1773880342,
+    "_id": "PyMuPDF<SEP>page_count: 32"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f"
+    ],
+    "count": 1,
+    "create_time": 1773880342,
+    "update_time": 1773880342,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29<SEP>NIST.CSWP.29.pdf"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29<SEP>Kind: text": {
+    "chunk_ids": [
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f"
+    ],
+    "count": 1,
+    "create_time": 1773880343,
+    "update_time": 1773880343,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29<SEP>Kind: text"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29<SEP>page_count: 32": {
+    "chunk_ids": [
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f"
+    ],
+    "count": 1,
+    "create_time": 1773880343,
+    "update_time": 1773880343,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29<SEP>page_count: 32"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29<SEP>document_type: PDF": {
+    "chunk_ids": [
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f"
+    ],
+    "count": 1,
+    "create_time": 1773880343,
+    "update_time": 1773880343,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29<SEP>document_type: PDF"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29<SEP>parser: PyMuPDF": {
+    "chunk_ids": [
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f"
+    ],
+    "count": 1,
+    "create_time": 1773880343,
+    "update_time": 1773880343,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29<SEP>parser: PyMuPDF"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29<SEP>image_ocr_enabled: True": {
+    "chunk_ids": [
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f"
+    ],
+    "count": 1,
+    "create_time": 1773880343,
+    "update_time": 1773880343,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29<SEP>image_ocr_enabled: True"
+  },
+  "Community Profiles<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5"
+    ],
+    "count": 1,
+    "create_time": 1773880343,
+    "update_time": 1773880343,
+    "_id": "Community Profiles<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "The NIST Cybersecurity Framework (CSF)<SEP>cyberframework@nist.gov": {
+    "chunk_ids": [
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5"
+    ],
+    "count": 1,
+    "create_time": 1773880344,
+    "update_time": 1773880344,
+    "_id": "The NIST Cybersecurity Framework (CSF)<SEP>cyberframework@nist.gov"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5"
+    ],
+    "count": 1,
+    "create_time": 1773880344,
+    "update_time": 1773880344,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2<SEP>NIST.CSWP.29.pdf"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2<SEP>cyberframework@nist.gov": {
+    "chunk_ids": [
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5"
+    ],
+    "count": 1,
+    "create_time": 1773880344,
+    "update_time": 1773880344,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2<SEP>cyberframework@nist.gov"
+  },
+  "Header: text<SEP>Kind: text": {
+    "chunk_ids": [
+      "chunk-a51ce8efe7fb626ad33e30bcecf33e03"
+    ],
+    "count": 1,
+    "create_time": 1773880344,
+    "update_time": 1773880344,
+    "_id": "Header: text<SEP>Kind: text"
+  },
+  "Kind: text<SEP>to changes in risk.": {
+    "chunk_ids": [
+      "chunk-a51ce8efe7fb626ad33e30bcecf33e03"
+    ],
+    "count": 1,
+    "create_time": 1773880344,
+    "update_time": 1773880344,
+    "_id": "Kind: text<SEP>to changes in risk."
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 3 > NIST CSWP 29<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-9f4c79c195ee275405e879e10588c0c8"
+    ],
+    "count": 1,
+    "create_time": 1773880344,
+    "update_time": 1773880344,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 3 > NIST CSWP 29<SEP>NIST.CSWP.29.pdf"
+  },
+  "Header<SEP>the NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-3ed7183dd79953837ed2e625c7bb3d7d"
+    ],
+    "count": 1,
+    "create_time": 1773880344,
+    "update_time": 1773880344,
+    "_id": "Header<SEP>the NIST Cybersecurity Framework (CSF)"
+  },
+  "Header<SEP>Title of Document": {
+    "chunk_ids": [
+      "chunk-a0af414c8f4b7cd2e2ada0f0299d7b13"
+    ],
+    "count": 1,
+    "create_time": 1773880344,
+    "update_time": 1773880344,
+    "_id": "Header<SEP>Title of Document"
+  },
+  "Kind<SEP>Title of Document": {
+    "chunk_ids": [
+      "chunk-a0af414c8f4b7cd2e2ada0f0299d7b13"
+    ],
+    "count": 1,
+    "create_time": 1773880345,
+    "update_time": 1773880345,
+    "_id": "Kind<SEP>Title of Document"
+  },
+  "Image Summary<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-355d53d98836023fb3aa20ca11c32b0e"
+    ],
+    "count": 1,
+    "create_time": 1773880345,
+    "update_time": 1773880345,
+    "_id": "Image Summary<SEP>Kind"
+  },
+  "Header<SEP>Page 10": {
+    "chunk_ids": [
+      "chunk-355d53d98836023fb3aa20ca11c32b0e"
+    ],
+    "count": 1,
+    "create_time": 1773880345,
+    "update_time": 1773880345,
+    "_id": "Header<SEP>Page 10"
+  },
+  "NIST.CSWP.29_page_10_img_1.png<SEP>image path": {
+    "chunk_ids": [
+      "chunk-355d53d98836023fb3aa20ca11c32b0e"
+    ],
+    "count": 1,
+    "create_time": 1773880345,
+    "update_time": 1773880345,
+    "_id": "NIST.CSWP.29_page_10_img_1.png<SEP>image path"
+  },
+  "Image Summary<SEP>NIST.CSWP.29_page_10_img_1.png": {
+    "chunk_ids": [
+      "chunk-355d53d98836023fb3aa20ca11c32b0e"
+    ],
+    "count": 1,
+    "create_time": 1773880345,
+    "update_time": 1773880345,
+    "_id": "Image Summary<SEP>NIST.CSWP.29_page_10_img_1.png"
+  },
+  "Kind<SEP>OCR Text: Cybersecurity G &": {
+    "chunk_ids": [
+      "chunk-355d53d98836023fb3aa20ca11c32b0e"
+    ],
+    "count": 1,
+    "create_time": 1773880345,
+    "update_time": 1773880345,
+    "_id": "Kind<SEP>OCR Text: Cybersecurity G &"
+  },
+  "PDF<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-ffaca78eb6868f9e95a50be2442dc893"
+    ],
+    "count": 1,
+    "create_time": 1773880345,
+    "update_time": 1773880345,
+    "_id": "PDF<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Page 20<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-ffaca78eb6868f9e95a50be2442dc893"
+    ],
+    "count": 1,
+    "create_time": 1773880345,
+    "update_time": 1773880345,
+    "_id": "Page 20<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "NIST CSWP 29<SEP>Page 20": {
+    "chunk_ids": [
+      "chunk-ffaca78eb6868f9e95a50be2442dc893"
+    ],
+    "count": 1,
+    "create_time": 1773880346,
+    "update_time": 1773880346,
+    "_id": "NIST CSWP 29<SEP>Page 20"
+  },
+  "Community Profile<SEP>NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-5fe8375d52689cccf79f112601918c4b"
+    ],
+    "count": 1,
+    "create_time": 1773880346,
+    "update_time": 1773880346,
+    "_id": "Community Profile<SEP>NIST Cybersecurity Framework (CSF)"
+  },
+  "Fig. 3<SEP>Organizational Profile": {
+    "chunk_ids": [
+      "chunk-5fe8375d52689cccf79f112601918c4b"
+    ],
+    "count": 1,
+    "create_time": 1773880346,
+    "update_time": 1773880346,
+    "_id": "Fig. 3<SEP>Organizational Profile"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29<SEP>kind": {
+    "chunk_ids": [
+      "chunk-3d0de3cfb0812e7e673b81664adb026d"
+    ],
+    "count": 1,
+    "create_time": 1773880346,
+    "update_time": 1773880346,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29<SEP>kind"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29<SEP>RC.RP": {
+    "chunk_ids": [
+      "chunk-3d0de3cfb0812e7e673b81664adb026d"
+    ],
+    "count": 1,
+    "create_time": 1773880346,
+    "update_time": 1773880346,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29<SEP>RC.RP"
+  },
+  "RC.RP<SEP>kind": {
+    "chunk_ids": [
+      "chunk-3d0de3cfb0812e7e673b81664adb026d"
+    ],
+    "count": 1,
+    "create_time": 1773880346,
+    "update_time": 1773880346,
+    "_id": "RC.RP<SEP>kind"
+  },
+  "image_summary<SEP>path": {
+    "chunk_ids": [
+      "chunk-b6e7dbcfc5670f79a9245c5d92791573"
+    ],
+    "count": 1,
+    "create_time": 1773880346,
+    "update_time": 1773880346,
+    "_id": "image_summary<SEP>path"
+  },
+  "Header<SEP>NIST": {
+    "chunk_ids": [
+      "chunk-07520e3378ec637954e3df08cc822bf2"
+    ],
+    "count": 1,
+    "create_time": 1773880346,
+    "update_time": 1773880346,
+    "_id": "Header<SEP>NIST"
+  },
+  "Cybersecurity Framework (CSF)<SEP>Kind": {
+    "chunk_ids": [
+      "chunk-07520e3378ec637954e3df08cc822bf2"
+    ],
+    "count": 1,
+    "create_time": 1773880346,
+    "update_time": 1773880346,
+    "_id": "Cybersecurity Framework (CSF)<SEP>Kind"
+  },
+  "Informative References<SEP>NIST": {
+    "chunk_ids": [
+      "chunk-07520e3378ec637954e3df08cc822bf2"
+    ],
+    "count": 1,
+    "create_time": 1773880346,
+    "update_time": 1773880346,
+    "_id": "Informative References<SEP>NIST"
+  },
+  "NIST<SEP>Quick Start Guides": {
+    "chunk_ids": [
+      "chunk-07520e3378ec637954e3df08cc822bf2"
+    ],
+    "count": 1,
+    "create_time": 1773880347,
+    "update_time": 1773880347,
+    "_id": "NIST<SEP>Quick Start Guides"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4"
+    ],
+    "count": 1,
+    "create_time": 1773880347,
+    "update_time": 1773880347,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "The organization risk strategy<SEP>cybersecurity risks associated with suppliers and products/services": {
+    "chunk_ids": [
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4"
+    ],
+    "count": 1,
+    "create_time": 1773880347,
+    "update_time": 1773880347,
+    "_id": "The organization risk strategy<SEP>cybersecurity risks associated with suppliers and products/services"
+  },
+  "Personnel formally acting on the risks<SEP>the organization risk strategy": {
+    "chunk_ids": [
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4"
+    ],
+    "count": 1,
+    "create_time": 1773880347,
+    "update_time": 1773880347,
+    "_id": "Personnel formally acting on the risks<SEP>the organization risk strategy"
+  },
+  "Personnel formally acting on the risks<SEP>written agreements to communicate baseline requirements": {
+    "chunk_ids": [
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4"
+    ],
+    "count": 1,
+    "create_time": 1773880347,
+    "update_time": 1773880347,
+    "_id": "Personnel formally acting on the risks<SEP>written agreements to communicate baseline requirements"
+  },
+  "Personnel formally acting on the risks<SEP>governance structures (e.g., risk councils)": {
+    "chunk_ids": [
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4"
+    ],
+    "count": 1,
+    "create_time": 1773880347,
+    "update_time": 1773880347,
+    "_id": "Personnel formally acting on the risks<SEP>governance structures (e.g., risk councils)"
+  },
+  "Personnel formally acting on the risks<SEP>policy implementation and monitoring": {
+    "chunk_ids": [
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4"
+    ],
+    "count": 1,
+    "create_time": 1773880348,
+    "update_time": 1773880348,
+    "_id": "Personnel formally acting on the risks<SEP>policy implementation and monitoring"
+  },
+  "Header<SEP>Incident Recovery Communication": {
+    "chunk_ids": [
+      "chunk-e53e05b54db72f81a1e33fa6ac9c1e19"
+    ],
+    "count": 1,
+    "create_time": 1773880348,
+    "update_time": 1773880348,
+    "_id": "Header<SEP>Incident Recovery Communication"
+  },
+  "NIST Cybersecurity Framework (CSF) 2.0<SEP>page_count": {
+    "chunk_ids": [
+      "chunk-3bc458dd28316bb4e7070e39b19c5b38"
+    ],
+    "count": 1,
+    "create_time": 1773880348,
+    "update_time": 1773880348,
+    "_id": "NIST Cybersecurity Framework (CSF) 2.0<SEP>page_count"
+  },
+  "Kind<SEP>Page 11": {
+    "chunk_ids": [
+      "chunk-40b687f7b9c6aed4085522238850e57e"
+    ],
+    "count": 1,
+    "create_time": 1773880348,
+    "update_time": 1773880348,
+    "_id": "Kind<SEP>Page 11"
+  },
+  "Page 11<SEP>image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-40b687f7b9c6aed4085522238850e57e"
+    ],
+    "count": 1,
+    "create_time": 1773880348,
+    "update_time": 1773880348,
+    "_id": "Page 11<SEP>image_ocr_enabled"
+  },
+  "Page 11<SEP>image_summary": {
+    "chunk_ids": [
+      "chunk-40b687f7b9c6aed4085522238850e57e"
+    ],
+    "count": 1,
+    "create_time": 1773880348,
+    "update_time": 1773880348,
+    "_id": "Page 11<SEP>image_summary"
+  },
+  "The NIST Cybersecurity Framework (CSF) 2.0<SEP>document_type": {
+    "chunk_ids": [
+      "chunk-7c597454311510ecdf008379fa792c9d",
+      "chunk-f698fdece6c3a255ea99377dbea011b6"
+    ],
+    "count": 2,
+    "create_time": 1773880348,
+    "update_time": 1773880348,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0<SEP>document_type"
+  },
+  "CSF 2.0<SEP>NIST Cybersecurity Framework": {
+    "chunk_ids": [
+      "chunk-73b24cb66636c88831195301bd0a13fb"
+    ],
+    "count": 1,
+    "create_time": 1773880348,
+    "update_time": 1773880348,
+    "_id": "CSF 2.0<SEP>NIST Cybersecurity Framework"
+  },
+  "Image OCR<SEP>Page 1": {
+    "chunk_ids": [
+      "chunk-73b24cb66636c88831195301bd0a13fb"
+    ],
+    "count": 1,
+    "create_time": 1773880348,
+    "update_time": 1773880348,
+    "_id": "Image OCR<SEP>Page 1"
+  },
+  "NIST Cybersecurity Framework<SEP>PyMuPDF": {
+    "chunk_ids": [
+      "chunk-73b24cb66636c88831195301bd0a13fb"
+    ],
+    "count": 1,
+    "create_time": 1773880348,
+    "update_time": 1773880348,
+    "_id": "NIST Cybersecurity Framework<SEP>PyMuPDF"
+  },
+  "Image OCR<SEP>True": {
+    "chunk_ids": [
+      "chunk-73b24cb66636c88831195301bd0a13fb"
+    ],
+    "count": 1,
+    "create_time": 1773880349,
+    "update_time": 1773880349,
+    "_id": "Image OCR<SEP>True"
+  },
+  "Introduction to Online Resources That Supplement the CSF<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-8748963043426f14c1527712ec159b5e"
+    ],
+    "count": 1,
+    "create_time": 1773880349,
+    "update_time": 1773880349,
+    "_id": "Introduction to Online Resources That Supplement the CSF<SEP>NIST.CSWP.29.pdf"
+  },
+  "NIST.CSWP.29.pdf<SEP>Page 14": {
+    "chunk_ids": [
+      "chunk-8748963043426f14c1527712ec159b5e"
+    ],
+    "count": 1,
+    "create_time": 1773880349,
+    "update_time": 1773880349,
+    "_id": "NIST.CSWP.29.pdf<SEP>Page 14"
+  },
+  "February 26, 2024<SEP>The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-8748963043426f14c1527712ec159b5e"
+    ],
+    "count": 1,
+    "create_time": 1773880349,
+    "update_time": 1773880349,
+    "_id": "February 26, 2024<SEP>The NIST Cybersecurity Framework (CSF)"
+  },
+  "February 26, 2024<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-8748963043426f14c1527712ec159b5e"
+    ],
+    "count": 1,
+    "create_time": 1773880349,
+    "update_time": 1773880349,
+    "_id": "February 26, 2024<SEP>NIST.CSWP.29.pdf"
+  },
+  "Introduction to Online Resources That Supplement the CSF<SEP>PyMuPDF": {
+    "chunk_ids": [
+      "chunk-8748963043426f14c1527712ec159b5e"
+    ],
+    "count": 1,
+    "create_time": 1773880349,
+    "update_time": 1773880349,
+    "_id": "Introduction to Online Resources That Supplement the CSF<SEP>PyMuPDF"
+  },
+  "Header<SEP>Page 30": {
+    "chunk_ids": [
+      "chunk-b1f524a5c7b8dbc47f938daa19271972"
+    ],
+    "count": 1,
+    "create_time": 1773880349,
+    "update_time": 1773880349,
+    "_id": "Header<SEP>Page 30"
+  },
+  "Kind<SEP>PyMuPDF": {
+    "chunk_ids": [
+      "chunk-b1f524a5c7b8dbc47f938daa19271972"
+    ],
+    "count": 1,
+    "create_time": 1773880349,
+    "update_time": 1773880349,
+    "_id": "Kind<SEP>PyMuPDF"
+  },
+  "Header<SEP>source_file": {
+    "chunk_ids": [
+      "chunk-b1f524a5c7b8dbc47f938daa19271972"
+    ],
+    "count": 1,
+    "create_time": 1773880350,
+    "update_time": 1773880350,
+    "_id": "Header<SEP>source_file"
+  },
+  "Kind<SEP>kind": {
+    "chunk_ids": [
+      "chunk-b1f524a5c7b8dbc47f938daa19271972"
+    ],
+    "count": 1,
+    "create_time": 1773880350,
+    "update_time": 1773880350,
+    "_id": "Kind<SEP>kind"
+  },
+  "February 26, 2024<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-3c43d68ed955fe5d7c6f31a375e45322"
+    ],
+    "count": 1,
+    "create_time": 1773880350,
+    "update_time": 1773880350,
+    "_id": "February 26, 2024<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "The NIST Cybersecurity Framework (CSF) 2.0<SEP>reference date, February 26, 2024": {
+    "chunk_ids": [
+      "chunk-3c43d68ed955fe5d7c6f31a375e45322"
+    ],
+    "count": 1,
+    "create_time": 1773880350,
+    "update_time": 1773880350,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0<SEP>reference date, February 26, 2024"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29<SEP>NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 1,
+    "create_time": 1773880350,
+    "update_time": 1773880350,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29<SEP>NIST CSWP 29"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29<SEP>Kind: text": {
+    "chunk_ids": [
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 1,
+    "create_time": 1773880350,
+    "update_time": 1773880350,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29<SEP>Kind: text"
+  },
+  "Cybersecurity Risk Management<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 1,
+    "create_time": 1773880350,
+    "update_time": 1773880350,
+    "_id": "Cybersecurity Risk Management<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29<SEP>Organizational Culture": {
+    "chunk_ids": [
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 1,
+    "create_time": 1773880351,
+    "update_time": 1773880351,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29<SEP>Organizational Culture"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29<SEP>Organizational Systems and Networks": {
+    "chunk_ids": [
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 1,
+    "create_time": 1773880351,
+    "update_time": 1773880351,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29<SEP>Organizational Systems and Networks"
+  },
+  "Continuous Awareness<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 1,
+    "create_time": 1773880351,
+    "update_time": 1773880351,
+    "_id": "Continuous Awareness<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29"
+  },
+  "Accounting for Changes<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 1,
+    "create_time": 1773880351,
+    "update_time": 1773880351,
+    "_id": "Accounting for Changes<SEP>Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29"
+  },
+  "PyMuPDF Parser<SEP>source_file: NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 1,
+    "create_time": 1773880351,
+    "update_time": 1773880351,
+    "_id": "PyMuPDF Parser<SEP>source_file: NIST.CSWP.29.pdf"
+  },
+  "image_ocr_enabled<SEP>source_file: NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 1,
+    "create_time": 1773880351,
+    "update_time": 1773880351,
+    "_id": "image_ocr_enabled<SEP>source_file: NIST.CSWP.29.pdf"
+  },
+  "NIST CSWP 29 Document<SEP>source_file: NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 1,
+    "create_time": 1773880351,
+    "update_time": 1773880351,
+    "_id": "NIST CSWP 29 Document<SEP>source_file: NIST.CSWP.29.pdf"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29<SEP>content_kind": {
+    "chunk_ids": [
+      "chunk-ab39c851397ecf371b7115af2855a908"
+    ],
+    "count": 1,
+    "create_time": 1773880351,
+    "update_time": 1773880351,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29<SEP>content_kind"
+  },
+  "The organization adapts its cybersecurity practices<SEP>based on previous and current cybersecurity activities": {
+    "chunk_ids": [
+      "chunk-b320a0226c391d26a3f52ad2ed36770f"
+    ],
+    "count": 1,
+    "create_time": 1773880352,
+    "update_time": 1773880352,
+    "_id": "The organization adapts its cybersecurity practices<SEP>based on previous and current cybersecurity activities"
+  },
+  "The organization adapts its cybersecurity practices<SEP>includes lessons learned and predictive indicators": {
+    "chunk_ids": [
+      "chunk-b320a0226c391d26a3f52ad2ed36770f"
+    ],
+    "count": 1,
+    "create_time": 1773880353,
+    "update_time": 1773880353,
+    "_id": "The organization adapts its cybersecurity practices<SEP>includes lessons learned and predictive indicators"
+  },
+  "Scope<SEP>The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-f698fdece6c3a255ea99377dbea011b6"
+    ],
+    "count": 1,
+    "create_time": 1773880353,
+    "update_time": 1773880353,
+    "_id": "Scope<SEP>The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "The NIST Cybersecurity Framework (CSF) 2.0<SEP>incorporates": {
+    "chunk_ids": [
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9"
+    ],
+    "count": 1,
+    "create_time": 1773880353,
+    "update_time": 1773880353,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0<SEP>incorporates"
+  },
+  "The NIST Cybersecurity Framework (CSF) 2.0<SEP>responds to": {
+    "chunk_ids": [
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9"
+    ],
+    "count": 1,
+    "create_time": 1773880353,
+    "update_time": 1773880353,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0<SEP>responds to"
+  },
+  "Advanced Cybersecurity Technologies<SEP>incorporates": {
+    "chunk_ids": [
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9"
+    ],
+    "count": 1,
+    "create_time": 1773880353,
+    "update_time": 1773880353,
+    "_id": "Advanced Cybersecurity Technologies<SEP>incorporates"
+  },
+  "Evolving Threats<SEP>resolves": {
+    "chunk_ids": [
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9"
+    ],
+    "count": 1,
+    "create_time": 1773880353,
+    "update_time": 1773880353,
+    "_id": "Evolving Threats<SEP>resolves"
+  },
+  "The NIST Cybersecurity Framework (CSF) 2.0<SEP>text content": {
+    "chunk_ids": [
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9"
+    ],
+    "count": 1,
+    "create_time": 1773880353,
+    "update_time": 1773880353,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0<SEP>text content"
+  },
+  "NIST.CSWP.29.pdf<SEP>image OCR enabled": {
+    "chunk_ids": [
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9"
+    ],
+    "count": 1,
+    "create_time": 1773880353,
+    "update_time": 1773880353,
+    "_id": "NIST.CSWP.29.pdf<SEP>image OCR enabled"
+  },
+  "Header<SEP>Page 12": {
+    "chunk_ids": [
+      "chunk-1a1497d01e433b4c62c0be4ed37b11e3"
+    ],
+    "count": 1,
+    "create_time": 1773880353,
+    "update_time": 1773880353,
+    "_id": "Header<SEP>Page 12"
+  },
+  "Current Profile<SEP>NIST Cswp 29": {
+    "chunk_ids": [
+      "chunk-1a1497d01e433b4c62c0be4ed37b11e3"
+    ],
+    "count": 1,
+    "create_time": 1773880354,
+    "update_time": 1773880354,
+    "_id": "Current Profile<SEP>NIST Cswp 29"
+  },
+  "NIST Cswp 29<SEP>Target Profile": {
+    "chunk_ids": [
+      "chunk-1a1497d01e433b4c62c0be4ed37b11e3"
+    ],
+    "count": 1,
+    "create_time": 1773880354,
+    "update_time": 1773880354,
+    "_id": "NIST Cswp 29<SEP>Target Profile"
+  },
+  "Figure 4<SEP>NIST Cswp 29": {
+    "chunk_ids": [
+      "chunk-1a1497d01e433b4c62c0be4ed37b11e3"
+    ],
+    "count": 1,
+    "create_time": 1773880354,
+    "update_time": 1773880354,
+    "_id": "Figure 4<SEP>NIST Cswp 29"
+  },
+  "Kind: text<SEP>document_type": {
+    "chunk_ids": [
+      "chunk-276134a2449ee64e6e5897b460c4688e"
+    ],
+    "count": 1,
+    "create_time": 1773880354,
+    "update_time": 1773880354,
+    "_id": "Kind: text<SEP>document_type"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 23 > NIST CSWP 29<SEP>Kind: text": {
+    "chunk_ids": [
+      "chunk-276134a2449ee64e6e5897b460c4688e"
+    ],
+    "count": 1,
+    "create_time": 1773880354,
+    "update_time": 1773880354,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 23 > NIST CSWP 29<SEP>Kind: text"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 23 > NIST CSWP 29<SEP>NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 1,
+    "create_time": 1773880354,
+    "update_time": 1773880354,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 23 > NIST CSWP 29<SEP>NIST.CSWP.29.pdf"
+  },
+  "NIST CSWP 29<SEP>Page 12": {
+    "chunk_ids": [
+      "chunk-e9e3ee337079a2ad4117c08435d5a020"
+    ],
+    "count": 1,
+    "create_time": 1773880354,
+    "update_time": 1773880354,
+    "_id": "NIST CSWP 29<SEP>Page 12"
+  },
+  "NIST Cybersecurity Framework (CSF)<SEP>title": {
+    "chunk_ids": [
+      "chunk-701fbd369bbdbe7ae4a94457a4cfdb1e"
+    ],
+    "count": 1,
+    "create_time": 1773880355,
+    "update_time": 1773880355,
+    "_id": "NIST Cybersecurity Framework (CSF)<SEP>title"
+  },
+  "NIST CSWP 29<SEP>parser": {
+    "chunk_ids": [
+      "chunk-bb4b72e5d37677b9ad7a3ad5c540d804"
+    ],
+    "count": 1,
+    "create_time": 1773880355,
+    "update_time": 1773880355,
+    "_id": "NIST CSWP 29<SEP>parser"
+  }
+}

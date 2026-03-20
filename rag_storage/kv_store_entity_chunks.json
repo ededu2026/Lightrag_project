@@ -1,0 +1,5543 @@
+{
+  "NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-a1685ea14462551d4e0ca8c4ebd817b7",
+      "chunk-78d7272f17d4adab91f99606404c911f",
+      "chunk-52978ce057f3b7a004200fd6c66d7288",
+      "chunk-de226951c463af74dc9833ddd3cec4ee",
+      "chunk-4aac65a4923c5272ea41ff8304d7c75d",
+      "chunk-6fd198cb863de8f31f9ae6a2d92b1914",
+      "chunk-027f4189bd6b5dfed068ce73fa4bf7fa",
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94",
+      "chunk-14fce07db5d5d98da204e5564aa52a02",
+      "chunk-5ff07271093466ab167760cb8ac11eda",
+      "chunk-e6937a0dea6bdccfd0acd899789297fc",
+      "chunk-4564cb8a99fed5101a1ffbf03b124246",
+      "chunk-6a3947c70b3ebbaf91b10a9066eeaf10",
+      "chunk-602aa4ccbd230d5cc27c154e57ecd301",
+      "chunk-827f48355d04a2a9eaac5548458d8e8c",
+      "chunk-ea8834e456266a90dc1fcf85576cb3fe",
+      "chunk-8b193a13851e6929cbb22da5ab360704",
+      "chunk-324e7818307e26fab966afee243e2645",
+      "chunk-4893f0b02c584c1055b59d8cddfca8df",
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75",
+      "chunk-cf46d9eb463a9d027228452649d3d4e3",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-7394049c069819ca015b82ca0e5bf283",
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c",
+      "chunk-e142782c0b1f1e12e441bc558839e38e",
+      "chunk-677447a4356867486f88700f12794eb7",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-3a1c2f94461354c30294c3c0828925fa",
+      "chunk-d2a8cc9c75c9b5a3099bb67ae5079e55",
+      "chunk-5cf0ecace48f517f2845c25e229bcaa2",
+      "chunk-845403f5258ee6652ecfcfb89ed85f40",
+      "chunk-29018601b2284d1aa80189393eacf3d8",
+      "chunk-cc2c17308d80e7fb4a18acd6cc98aa96",
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202",
+      "chunk-87e6df0c0d226b569e5364963e932ff2",
+      "chunk-ba4195b5319182c599352607302e77cd",
+      "chunk-d595e972f89f1931b8d54930d4b17946",
+      "chunk-727c8eddde5cc81ee945e9ee3490be7d",
+      "chunk-4c6f7bae29996027737c7dc965ea0239",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-55cf21cdfe6a7d01c11ae694b1df98ab",
+      "chunk-59ac33326a4521f610fc2ff4cbfef4a2",
+      "chunk-5659a2d45be7952195aa14cef14fb7d0",
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a",
+      "chunk-7b99d228b63c2a53a2dbaef1c5e77109",
+      "chunk-0ada8334c40c41430fa9296968b88ece",
+      "chunk-fa363d8ef99097ed7573a56ea4881f85",
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6",
+      "chunk-c965943ec6a06c27434a4a334ed22b27",
+      "chunk-dba679cd2a87fd4be3fe1a3614ca9bc6",
+      "chunk-ea01d86e7c90396acabcbc9758c9a457",
+      "chunk-6bc48c91d9bf95547aba1636fc17956f",
+      "chunk-53d74513f9b4bf4e857dc587f365cfcf",
+      "chunk-6d1058d7d75178b661f062c47165b429",
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb",
+      "chunk-56f1498ba6ce64eefdb5e139e2a93c31",
+      "chunk-1bd8099546d6ba4f3178525229495d88",
+      "chunk-09e5ce010011a1c01ac378dc9f7c42dd",
+      "chunk-6c7a572812b3b9c78377fb00817f0109",
+      "chunk-0af2b2ff693fc69321fb689063551953",
+      "chunk-4bef1521e74775fe8d5345e4a9c44136",
+      "chunk-12270c419c1c9d3b9a5113eea36aa55c",
+      "chunk-ceb137526967bd0732398451dacbefdf",
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21",
+      "chunk-abdfb552a7b4b7f214088d47b88ea818",
+      "chunk-40942147d12ab66861c4b495682d2956",
+      "chunk-cb91369f464ed519ed771389796ff36c",
+      "chunk-e2400c989d96885c83045f36afcc0df3",
+      "chunk-275d0d0d6031917eae1cfaf8af3c59c8",
+      "chunk-1dc8b3afb371c358a4a849868e65e091",
+      "chunk-d147d5dfbfdf4bd8d26f6d9188fe2f02",
+      "chunk-20e9c76604167c443c2c21b103f77ac4",
+      "chunk-f37e358d90041c5f4b84b269dadb281f",
+      "chunk-25eb93c68ce1a37ae6e09b271db64dc9",
+      "chunk-cf2f43ae6609115d347760a621948298",
+      "chunk-0d83e4b1b6da9dc117ae28a90210106b",
+      "chunk-7a3e9f59ce00e66857aaef789613c67b",
+      "chunk-b34a445fab14b4a4b486d155f86027e4",
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731",
+      "chunk-2dab67331bbdc08faa7f97b5bd736e6c",
+      "chunk-4fa58a4b8ae6497e3096ccd2ed086335",
+      "chunk-0ebca51f221351bbffa5a9080a5b5abb",
+      "chunk-6c34e6e4f53111e1e0df93b233b83242",
+      "chunk-a8938a04f5577d705356ae16434dae2c",
+      "chunk-ec18c1f537afc62ad981842e36062fbd",
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f",
+      "chunk-aef7be31870c204c67a1af7b8c5d4e7c",
+      "chunk-f7ec5a71104b40f4aee23b0b819defd7",
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5",
+      "chunk-a8a3956070217d67fb1391bc597e5dbf",
+      "chunk-9f4c79c195ee275405e879e10588c0c8",
+      "chunk-a177cbf32383af911fe2113d7af57221",
+      "chunk-dc3d1352b9f1d69327fd060352c55300",
+      "chunk-a0af414c8f4b7cd2e2ada0f0299d7b13",
+      "chunk-67f940aa8dce5c1e0fa6dba19d3a945c",
+      "chunk-ffaca78eb6868f9e95a50be2442dc893",
+      "chunk-1d9ac9fe725894550271426ef29c312c",
+      "chunk-d8d714f2f9238839c80286e2a797981a",
+      "chunk-3d0de3cfb0812e7e673b81664adb026d",
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4",
+      "chunk-e53e05b54db72f81a1e33fa6ac9c1e19",
+      "chunk-40b687f7b9c6aed4085522238850e57e",
+      "chunk-7c597454311510ecdf008379fa792c9d",
+      "chunk-8748963043426f14c1527712ec159b5e",
+      "chunk-12db774bd5c9cc8da814ea35cc060ba9",
+      "chunk-3c43d68ed955fe5d7c6f31a375e45322",
+      "chunk-592b1517d4a24451fbe41b4f720dddd7",
+      "chunk-51f93bf2d58b81a5311e2cb2ecaf430d",
+      "chunk-ab39c851397ecf371b7115af2855a908",
+      "chunk-b98f9c8814c16bf52879e877d13d931f",
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9",
+      "chunk-276134a2449ee64e6e5897b460c4688e",
+      "chunk-0f77e06e37ecfbf52dbc7414eed19f39",
+      "chunk-e1e59bd045467f10e8decfe40ce94095",
+      "chunk-ea4509d09fc0b696632138b9785ecf72",
+      "chunk-511f83da90a9dc8590c574ff3af20852",
+      "chunk-01aeeeb798b9aab4ffc902eff4bb0950",
+      "chunk-2ed19a7b79b8df489f094aebeaf9f831",
+      "chunk-951a269034b4853c739e0abb73cea1ec",
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e"
+    ],
+    "count": 122,
+    "update_time": 1773880301,
+    "_id": "NIST.CSWP.29.pdf"
+  },
+  "The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-a1685ea14462551d4e0ca8c4ebd817b7",
+      "chunk-52978ce057f3b7a004200fd6c66d7288",
+      "chunk-de226951c463af74dc9833ddd3cec4ee",
+      "chunk-4aac65a4923c5272ea41ff8304d7c75d",
+      "chunk-027f4189bd6b5dfed068ce73fa4bf7fa",
+      "chunk-14fce07db5d5d98da204e5564aa52a02",
+      "chunk-5ff07271093466ab167760cb8ac11eda",
+      "chunk-e6937a0dea6bdccfd0acd899789297fc",
+      "chunk-4564cb8a99fed5101a1ffbf03b124246",
+      "chunk-6a3947c70b3ebbaf91b10a9066eeaf10",
+      "chunk-cb4b577ab4ab56fceba946faf29a43fd",
+      "chunk-ea8834e456266a90dc1fcf85576cb3fe",
+      "chunk-4893f0b02c584c1055b59d8cddfca8df",
+      "chunk-cf46d9eb463a9d027228452649d3d4e3",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-7394049c069819ca015b82ca0e5bf283",
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c",
+      "chunk-e142782c0b1f1e12e441bc558839e38e",
+      "chunk-3a1c2f94461354c30294c3c0828925fa",
+      "chunk-845403f5258ee6652ecfcfb89ed85f40",
+      "chunk-29018601b2284d1aa80189393eacf3d8",
+      "chunk-cc2c17308d80e7fb4a18acd6cc98aa96",
+      "chunk-87e6df0c0d226b569e5364963e932ff2",
+      "chunk-ba4195b5319182c599352607302e77cd",
+      "chunk-d595e972f89f1931b8d54930d4b17946",
+      "chunk-727c8eddde5cc81ee945e9ee3490be7d",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-059bca7035caffc2433e27299fca0d41",
+      "chunk-0ada8334c40c41430fa9296968b88ece",
+      "chunk-fa363d8ef99097ed7573a56ea4881f85",
+      "chunk-dba679cd2a87fd4be3fe1a3614ca9bc6",
+      "chunk-ea01d86e7c90396acabcbc9758c9a457",
+      "chunk-6bc48c91d9bf95547aba1636fc17956f",
+      "chunk-53d74513f9b4bf4e857dc587f365cfcf",
+      "chunk-6d1058d7d75178b661f062c47165b429",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb",
+      "chunk-0a7038b7fceeb3ee037a01a5090cad1e",
+      "chunk-1bd8099546d6ba4f3178525229495d88",
+      "chunk-6c7a572812b3b9c78377fb00817f0109",
+      "chunk-0af2b2ff693fc69321fb689063551953",
+      "chunk-c4669401a25e46edf555bbf250bc4127",
+      "chunk-4bef1521e74775fe8d5345e4a9c44136",
+      "chunk-ceb137526967bd0732398451dacbefdf",
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21",
+      "chunk-abdfb552a7b4b7f214088d47b88ea818",
+      "chunk-40942147d12ab66861c4b495682d2956",
+      "chunk-cb91369f464ed519ed771389796ff36c",
+      "chunk-e2400c989d96885c83045f36afcc0df3",
+      "chunk-275d0d0d6031917eae1cfaf8af3c59c8",
+      "chunk-1dc8b3afb371c358a4a849868e65e091",
+      "chunk-d147d5dfbfdf4bd8d26f6d9188fe2f02",
+      "chunk-2ed19a7b79b8df489f094aebeaf9f831",
+      "chunk-20e9c76604167c443c2c21b103f77ac4",
+      "chunk-bc30dc20b9aa4ed3a4cab559d49a5b1a",
+      "chunk-f37e358d90041c5f4b84b269dadb281f",
+      "chunk-cf2f43ae6609115d347760a621948298",
+      "chunk-7a3e9f59ce00e66857aaef789613c67b",
+      "chunk-b34a445fab14b4a4b486d155f86027e4",
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731",
+      "chunk-01aeeeb798b9aab4ffc902eff4bb0950",
+      "chunk-2dab67331bbdc08faa7f97b5bd736e6c",
+      "chunk-0ebca51f221351bbffa5a9080a5b5abb",
+      "chunk-a8938a04f5577d705356ae16434dae2c",
+      "chunk-ec18c1f537afc62ad981842e36062fbd",
+      "chunk-a8a3956070217d67fb1391bc597e5dbf",
+      "chunk-9f4c79c195ee275405e879e10588c0c8",
+      "chunk-a177cbf32383af911fe2113d7af57221",
+      "chunk-dc3d1352b9f1d69327fd060352c55300",
+      "chunk-67f940aa8dce5c1e0fa6dba19d3a945c",
+      "chunk-ffaca78eb6868f9e95a50be2442dc893",
+      "chunk-110c497b4e4b6476affbf75d09757d59",
+      "chunk-d8d714f2f9238839c80286e2a797981a",
+      "chunk-3d0de3cfb0812e7e673b81664adb026d",
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4",
+      "chunk-40b687f7b9c6aed4085522238850e57e",
+      "chunk-7c597454311510ecdf008379fa792c9d",
+      "chunk-8748963043426f14c1527712ec159b5e",
+      "chunk-12db774bd5c9cc8da814ea35cc060ba9",
+      "chunk-3c43d68ed955fe5d7c6f31a375e45322",
+      "chunk-592b1517d4a24451fbe41b4f720dddd7",
+      "chunk-51f93bf2d58b81a5311e2cb2ecaf430d",
+      "chunk-ab39c851397ecf371b7115af2855a908",
+      "chunk-b320a0226c391d26a3f52ad2ed36770f",
+      "chunk-f698fdece6c3a255ea99377dbea011b6",
+      "chunk-b98f9c8814c16bf52879e877d13d931f",
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9",
+      "chunk-276134a2449ee64e6e5897b460c4688e",
+      "chunk-0f77e06e37ecfbf52dbc7414eed19f39",
+      "chunk-e1e59bd045467f10e8decfe40ce94095",
+      "chunk-ea4509d09fc0b696632138b9785ecf72",
+      "chunk-511f83da90a9dc8590c574ff3af20852",
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202",
+      "chunk-09e5ce010011a1c01ac378dc9f7c42dd",
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a",
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9",
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e",
+      "chunk-3d6779a3859e0dd92a32b8ad4c053249"
+    ],
+    "count": 97,
+    "update_time": 1773880330,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Page 14": {
+    "chunk_ids": [
+      "chunk-a1685ea14462551d4e0ca8c4ebd817b7",
+      "chunk-de226951c463af74dc9833ddd3cec4ee",
+      "chunk-07520e3378ec637954e3df08cc822bf2",
+      "chunk-8748963043426f14c1527712ec159b5e"
+    ],
+    "count": 4,
+    "update_time": 1773880349,
+    "_id": "Page 14"
+  },
+  "Informative References": {
+    "chunk_ids": [
+      "chunk-a1685ea14462551d4e0ca8c4ebd817b7",
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75",
+      "chunk-07520e3378ec637954e3df08cc822bf2"
+    ],
+    "count": 3,
+    "update_time": 1773880346,
+    "_id": "Informative References"
+  },
+  "PyMuPDF": {
+    "chunk_ids": [
+      "chunk-a1685ea14462551d4e0ca8c4ebd817b7",
+      "chunk-78d7272f17d4adab91f99606404c911f",
+      "chunk-52978ce057f3b7a004200fd6c66d7288",
+      "chunk-de226951c463af74dc9833ddd3cec4ee",
+      "chunk-4aac65a4923c5272ea41ff8304d7c75d",
+      "chunk-ef5db71b90df0c19b8c356aeee744fc6",
+      "chunk-027f4189bd6b5dfed068ce73fa4bf7fa",
+      "chunk-14fce07db5d5d98da204e5564aa52a02",
+      "chunk-4564cb8a99fed5101a1ffbf03b124246",
+      "chunk-6a3947c70b3ebbaf91b10a9066eeaf10",
+      "chunk-602aa4ccbd230d5cc27c154e57ecd301",
+      "chunk-827f48355d04a2a9eaac5548458d8e8c",
+      "chunk-3aabc114a079783ccc75385f8a3d0e34",
+      "chunk-ea8834e456266a90dc1fcf85576cb3fe",
+      "chunk-bdcf1715979a7e31cc08a2fbd03306f3",
+      "chunk-4be9a68c3dc47aaf5018803479dc6e00",
+      "chunk-f13c4bf957696002d1910106b96f51e7",
+      "chunk-4893f0b02c584c1055b59d8cddfca8df",
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75",
+      "chunk-fb41292c4ded4903f8bc597010d71497",
+      "chunk-44d7ecc33923fb7c0e17377dacc68586",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-6d5111c9032a1e5655f2f7c4cc2070ee",
+      "chunk-7394049c069819ca015b82ca0e5bf283",
+      "chunk-e142782c0b1f1e12e441bc558839e38e",
+      "chunk-677447a4356867486f88700f12794eb7",
+      "chunk-3a1c2f94461354c30294c3c0828925fa",
+      "chunk-845403f5258ee6652ecfcfb89ed85f40",
+      "chunk-29018601b2284d1aa80189393eacf3d8",
+      "chunk-580e95c1b11fd2d0ea198e331b32c67a",
+      "chunk-cc2c17308d80e7fb4a18acd6cc98aa96",
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202",
+      "chunk-87e6df0c0d226b569e5364963e932ff2",
+      "chunk-ba4195b5319182c599352607302e77cd",
+      "chunk-d595e972f89f1931b8d54930d4b17946",
+      "chunk-9462b7987d4d746e2aac0436a0a4dbdc",
+      "chunk-4c6f7bae29996027737c7dc965ea0239",
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-55cf21cdfe6a7d01c11ae694b1df98ab",
+      "chunk-59ac33326a4521f610fc2ff4cbfef4a2",
+      "chunk-059bca7035caffc2433e27299fca0d41",
+      "chunk-1d4ee3b9aa47a173ae5b573628fc4788",
+      "chunk-00f479e9eb2ff034e22aa902245379cf",
+      "chunk-7b99d228b63c2a53a2dbaef1c5e77109",
+      "chunk-5cea5a27625da5eaf2ed54677b84c475",
+      "chunk-9d7b00744edbdc7a7228592a2da49aab",
+      "chunk-fa363d8ef99097ed7573a56ea4881f85",
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6",
+      "chunk-c965943ec6a06c27434a4a334ed22b27",
+      "chunk-dba679cd2a87fd4be3fe1a3614ca9bc6",
+      "chunk-ea01d86e7c90396acabcbc9758c9a457",
+      "chunk-de4b17af1dc6345e9c18bb4d685e5cd3",
+      "chunk-6bc48c91d9bf95547aba1636fc17956f",
+      "chunk-53d74513f9b4bf4e857dc587f365cfcf",
+      "chunk-6d1058d7d75178b661f062c47165b429",
+      "chunk-e53e612c21ad6906f953d1210c4c26fd",
+      "chunk-bbd18a0ad44dbd415d46c115a340903d",
+      "chunk-7e02b7aa698b9c023dac6aead366390a",
+      "chunk-02223016f864c217915db457dc244cc1",
+      "chunk-56f1498ba6ce64eefdb5e139e2a93c31",
+      "chunk-0a7038b7fceeb3ee037a01a5090cad1e",
+      "chunk-431d81acdf3085b24870b661be16b4f1",
+      "chunk-86583643b07c1568b52f107766c93525",
+      "chunk-e5b4b647cfc83bd14c03d0b7165619c5",
+      "chunk-03314f72fe084c6cbbb45e9c54ba4d79",
+      "chunk-1bd8099546d6ba4f3178525229495d88",
+      "chunk-09e5ce010011a1c01ac378dc9f7c42dd",
+      "chunk-6c7a572812b3b9c78377fb00817f0109",
+      "chunk-c4669401a25e46edf555bbf250bc4127",
+      "chunk-4bef1521e74775fe8d5345e4a9c44136",
+      "chunk-12270c419c1c9d3b9a5113eea36aa55c",
+      "chunk-ceb137526967bd0732398451dacbefdf",
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21",
+      "chunk-951a269034b4853c739e0abb73cea1ec",
+      "chunk-abdfb552a7b4b7f214088d47b88ea818",
+      "chunk-40942147d12ab66861c4b495682d2956",
+      "chunk-f5350205eff95686e2d7e508eaad3d46",
+      "chunk-1c39d0dc24314adb4b141e1be91cc8f5",
+      "chunk-275d0d0d6031917eae1cfaf8af3c59c8",
+      "chunk-1dc8b3afb371c358a4a849868e65e091",
+      "chunk-b85f1f3296b3a84e2b5e99897e486e55",
+      "chunk-2ed19a7b79b8df489f094aebeaf9f831",
+      "chunk-20e9c76604167c443c2c21b103f77ac4",
+      "chunk-b5140bbf92d407fa00cfc9038b05bff6",
+      "chunk-bc30dc20b9aa4ed3a4cab559d49a5b1a",
+      "chunk-f37e358d90041c5f4b84b269dadb281f",
+      "chunk-25eb93c68ce1a37ae6e09b271db64dc9",
+      "chunk-cf2f43ae6609115d347760a621948298",
+      "chunk-0d83e4b1b6da9dc117ae28a90210106b",
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41",
+      "chunk-7a3e9f59ce00e66857aaef789613c67b",
+      "chunk-b34a445fab14b4a4b486d155f86027e4",
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731",
+      "chunk-a20ace79fc5f25359e9a594473e62c1f",
+      "chunk-2dab67331bbdc08faa7f97b5bd736e6c",
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e",
+      "chunk-0ebca51f221351bbffa5a9080a5b5abb",
+      "chunk-fa283b24cceb950da35d448426784da4",
+      "chunk-6c34e6e4f53111e1e0df93b233b83242",
+      "chunk-a8938a04f5577d705356ae16434dae2c",
+      "chunk-326fc9fc709f7b8db1a373ea928e6d23",
+      "chunk-ea18676d1d1af3aabd7f601118711a45",
+      "chunk-ec18c1f537afc62ad981842e36062fbd",
+      "chunk-d827f9927aa7fbb31b262442c5ae0f4e",
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f",
+      "chunk-17b50b473f7a6de56879895cc1b30e97",
+      "chunk-f7ec5a71104b40f4aee23b0b819defd7",
+      "chunk-a51ce8efe7fb626ad33e30bcecf33e03",
+      "chunk-a8a3956070217d67fb1391bc597e5dbf",
+      "chunk-2d184c338f85fe7058330bddbcdf8218",
+      "chunk-9f4c79c195ee275405e879e10588c0c8",
+      "chunk-3ed7183dd79953837ed2e625c7bb3d7d",
+      "chunk-a177cbf32383af911fe2113d7af57221",
+      "chunk-dc3d1352b9f1d69327fd060352c55300",
+      "chunk-a0af414c8f4b7cd2e2ada0f0299d7b13",
+      "chunk-67f940aa8dce5c1e0fa6dba19d3a945c",
+      "chunk-ffaca78eb6868f9e95a50be2442dc893",
+      "chunk-110c497b4e4b6476affbf75d09757d59",
+      "chunk-1d9ac9fe725894550271426ef29c312c",
+      "chunk-d8d714f2f9238839c80286e2a797981a",
+      "chunk-5fe8375d52689cccf79f112601918c4b",
+      "chunk-3d0de3cfb0812e7e673b81664adb026d",
+      "chunk-b6e7dbcfc5670f79a9245c5d92791573",
+      "chunk-07520e3378ec637954e3df08cc822bf2",
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4",
+      "chunk-f9fbb97e7adfb216e5a3795818ed68fa",
+      "chunk-e53e05b54db72f81a1e33fa6ac9c1e19",
+      "chunk-3bc458dd28316bb4e7070e39b19c5b38",
+      "chunk-40b687f7b9c6aed4085522238850e57e",
+      "chunk-73b24cb66636c88831195301bd0a13fb",
+      "chunk-8748963043426f14c1527712ec159b5e",
+      "chunk-b1f524a5c7b8dbc47f938daa19271972",
+      "chunk-12db774bd5c9cc8da814ea35cc060ba9",
+      "chunk-592b1517d4a24451fbe41b4f720dddd7",
+      "chunk-51f93bf2d58b81a5311e2cb2ecaf430d",
+      "chunk-ab39c851397ecf371b7115af2855a908",
+      "chunk-b320a0226c391d26a3f52ad2ed36770f",
+      "chunk-b98f9c8814c16bf52879e877d13d931f",
+      "chunk-1a1497d01e433b4c62c0be4ed37b11e3",
+      "chunk-276134a2449ee64e6e5897b460c4688e",
+      "chunk-1a1fc7a8b60bff365d2d131c98e7308c",
+      "chunk-e42300356554f95180733e6c9a5e6ad8",
+      "chunk-ea4509d09fc0b696632138b9785ecf72",
+      "chunk-511f83da90a9dc8590c574ff3af20852",
+      "chunk-701fbd369bbdbe7ae4a94457a4cfdb1e",
+      "chunk-bb4b72e5d37677b9ad7a3ad5c540d804",
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a",
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9",
+      "chunk-aef7be31870c204c67a1af7b8c5d4e7c",
+      "chunk-3c43d68ed955fe5d7c6f31a375e45322"
+    ],
+    "count": 150,
+    "update_time": 1773880333,
+    "_id": "PyMuPDF"
+  },
+  "NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-78d7272f17d4adab91f99606404c911f",
+      "chunk-de226951c463af74dc9833ddd3cec4ee",
+      "chunk-6fd198cb863de8f31f9ae6a2d92b1914",
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94",
+      "chunk-14fce07db5d5d98da204e5564aa52a02",
+      "chunk-5ff07271093466ab167760cb8ac11eda",
+      "chunk-e6937a0dea6bdccfd0acd899789297fc",
+      "chunk-6b64acf47e907c74febec8f45419fe1b",
+      "chunk-e234621b7f425933aeb1e42b348c4a32",
+      "chunk-827f48355d04a2a9eaac5548458d8e8c",
+      "chunk-cb4b577ab4ab56fceba946faf29a43fd",
+      "chunk-ea8834e456266a90dc1fcf85576cb3fe",
+      "chunk-bdcf1715979a7e31cc08a2fbd03306f3",
+      "chunk-4be9a68c3dc47aaf5018803479dc6e00",
+      "chunk-f13c4bf957696002d1910106b96f51e7",
+      "chunk-4893f0b02c584c1055b59d8cddfca8df",
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-6d5111c9032a1e5655f2f7c4cc2070ee",
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-29018601b2284d1aa80189393eacf3d8",
+      "chunk-580e95c1b11fd2d0ea198e331b32c67a",
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202",
+      "chunk-87e6df0c0d226b569e5364963e932ff2",
+      "chunk-d595e972f89f1931b8d54930d4b17946",
+      "chunk-727c8eddde5cc81ee945e9ee3490be7d",
+      "chunk-9462b7987d4d746e2aac0436a0a4dbdc",
+      "chunk-4c6f7bae29996027737c7dc965ea0239",
+      "chunk-3dc7cce2d8eeb05148bc616ed780f9d7",
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830",
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-55cf21cdfe6a7d01c11ae694b1df98ab",
+      "chunk-059bca7035caffc2433e27299fca0d41",
+      "chunk-5cea5a27625da5eaf2ed54677b84c475",
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a",
+      "chunk-de4b17af1dc6345e9c18bb4d685e5cd3",
+      "chunk-6d1058d7d75178b661f062c47165b429",
+      "chunk-e53e612c21ad6906f953d1210c4c26fd",
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1",
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9",
+      "chunk-7e02b7aa698b9c023dac6aead366390a",
+      "chunk-c4669401a25e46edf555bbf250bc4127",
+      "chunk-4bef1521e74775fe8d5345e4a9c44136",
+      "chunk-3170620e5eb165738cb05be72d4b8b50",
+      "chunk-951a269034b4853c739e0abb73cea1ec",
+      "chunk-40942147d12ab66861c4b495682d2956",
+      "chunk-3d6779a3859e0dd92a32b8ad4c053249",
+      "chunk-f5350205eff95686e2d7e508eaad3d46",
+      "chunk-1c39d0dc24314adb4b141e1be91cc8f5",
+      "chunk-275d0d0d6031917eae1cfaf8af3c59c8",
+      "chunk-5dfe898b208e0b540d94452dbdd95b76",
+      "chunk-25eb93c68ce1a37ae6e09b271db64dc9",
+      "chunk-0d83e4b1b6da9dc117ae28a90210106b",
+      "chunk-7a3e9f59ce00e66857aaef789613c67b",
+      "chunk-b34a445fab14b4a4b486d155f86027e4",
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731",
+      "chunk-01aeeeb798b9aab4ffc902eff4bb0950",
+      "chunk-a20ace79fc5f25359e9a594473e62c1f",
+      "chunk-4fa58a4b8ae6497e3096ccd2ed086335",
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e",
+      "chunk-0ebca51f221351bbffa5a9080a5b5abb",
+      "chunk-326fc9fc709f7b8db1a373ea928e6d23",
+      "chunk-ea18676d1d1af3aabd7f601118711a45",
+      "chunk-ec18c1f537afc62ad981842e36062fbd",
+      "chunk-f7ec5a71104b40f4aee23b0b819defd7",
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5",
+      "chunk-a51ce8efe7fb626ad33e30bcecf33e03",
+      "chunk-2d184c338f85fe7058330bddbcdf8218",
+      "chunk-3ed7183dd79953837ed2e625c7bb3d7d",
+      "chunk-dc3d1352b9f1d69327fd060352c55300",
+      "chunk-a0af414c8f4b7cd2e2ada0f0299d7b13",
+      "chunk-355d53d98836023fb3aa20ca11c32b0e",
+      "chunk-ffaca78eb6868f9e95a50be2442dc893",
+      "chunk-110c497b4e4b6476affbf75d09757d59",
+      "chunk-d8d714f2f9238839c80286e2a797981a",
+      "chunk-5fe8375d52689cccf79f112601918c4b",
+      "chunk-3d0de3cfb0812e7e673b81664adb026d",
+      "chunk-b6e7dbcfc5670f79a9245c5d92791573",
+      "chunk-f9fbb97e7adfb216e5a3795818ed68fa",
+      "chunk-40b687f7b9c6aed4085522238850e57e",
+      "chunk-7c597454311510ecdf008379fa792c9d",
+      "chunk-b1f524a5c7b8dbc47f938daa19271972",
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9",
+      "chunk-592b1517d4a24451fbe41b4f720dddd7",
+      "chunk-51f93bf2d58b81a5311e2cb2ecaf430d",
+      "chunk-ab39c851397ecf371b7115af2855a908",
+      "chunk-f698fdece6c3a255ea99377dbea011b6",
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9",
+      "chunk-0f77e06e37ecfbf52dbc7414eed19f39",
+      "chunk-1a1fc7a8b60bff365d2d131c98e7308c",
+      "chunk-e42300356554f95180733e6c9a5e6ad8",
+      "chunk-e1e59bd045467f10e8decfe40ce94095",
+      "chunk-ea4509d09fc0b696632138b9785ecf72",
+      "chunk-bb4b72e5d37677b9ad7a3ad5c540d804",
+      "chunk-0af2b2ff693fc69321fb689063551953",
+      "chunk-3bc458dd28316bb4e7070e39b19c5b38",
+      "chunk-fb41292c4ded4903f8bc597010d71497",
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21",
+      "chunk-cb91369f464ed519ed771389796ff36c",
+      "chunk-e9e3ee337079a2ad4117c08435d5a020"
+    ],
+    "count": 101,
+    "update_time": 1773880354,
+    "_id": "NIST CSWP 29"
+  },
+  "February 26, 2024": {
+    "chunk_ids": [
+      "chunk-78d7272f17d4adab91f99606404c911f",
+      "chunk-6632abeaa757531b99f060efde3a5149",
+      "chunk-3dc7cce2d8eeb05148bc616ed780f9d7",
+      "chunk-53d74513f9b4bf4e857dc587f365cfcf",
+      "chunk-40942147d12ab66861c4b495682d2956",
+      "chunk-1c39d0dc24314adb4b141e1be91cc8f5",
+      "chunk-f698fdece6c3a255ea99377dbea011b6",
+      "chunk-0f77e06e37ecfbf52dbc7414eed19f39",
+      "chunk-7e02b7aa698b9c023dac6aead366390a",
+      "chunk-8748963043426f14c1527712ec159b5e",
+      "chunk-3c43d68ed955fe5d7c6f31a375e45322"
+    ],
+    "count": 11,
+    "update_time": 1773880350,
+    "_id": "February 26, 2024"
+  },
+  "Noah Carter": {
+    "chunk_ids": [
+      "chunk-78d7272f17d4adab91f99606404c911f",
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75",
+      "chunk-677447a4356867486f88700f12794eb7",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb",
+      "chunk-431d81acdf3085b24870b661be16b4f1",
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731",
+      "chunk-4fa58a4b8ae6497e3096ccd2ed086335",
+      "chunk-0ada8334c40c41430fa9296968b88ece",
+      "chunk-f13c4bf957696002d1910106b96f51e7",
+      "chunk-4c6f7bae29996027737c7dc965ea0239",
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9",
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 13,
+    "update_time": 1773880164,
+    "_id": "Noah Carter"
+  },
+  "World Athletics Championship": {
+    "chunk_ids": [
+      "chunk-78d7272f17d4adab91f99606404c911f",
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75",
+      "chunk-027f4189bd6b5dfed068ce73fa4bf7fa",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-677447a4356867486f88700f12794eb7",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb",
+      "chunk-431d81acdf3085b24870b661be16b4f1",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-0ada8334c40c41430fa9296968b88ece",
+      "chunk-4c6f7bae29996027737c7dc965ea0239",
+      "chunk-cf2f43ae6609115d347760a621948298",
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731",
+      "chunk-e1e59bd045467f10e8decfe40ce94095",
+      "chunk-4fa58a4b8ae6497e3096ccd2ed086335"
+    ],
+    "count": 15,
+    "update_time": 1773880339,
+    "_id": "World Athletics Championship"
+  },
+  "100m Sprint Record": {
+    "chunk_ids": [
+      "chunk-78d7272f17d4adab91f99606404c911f",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-431d81acdf3085b24870b661be16b4f1"
+    ],
+    "count": 3,
+    "update_time": 1773880309,
+    "_id": "100m Sprint Record"
+  },
+  "NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-3ae9e3476dacda5dbc0b092eee310a64",
+      "chunk-e234621b7f425933aeb1e42b348c4a32",
+      "chunk-3aabc114a079783ccc75385f8a3d0e34",
+      "chunk-4be9a68c3dc47aaf5018803479dc6e00",
+      "chunk-f13c4bf957696002d1910106b96f51e7",
+      "chunk-44d7ecc33923fb7c0e17377dacc68586",
+      "chunk-6d5111c9032a1e5655f2f7c4cc2070ee",
+      "chunk-5cf0ecace48f517f2845c25e229bcaa2",
+      "chunk-6e0d0175165f5302cc1e6ae4c641c34d",
+      "chunk-6632abeaa757531b99f060efde3a5149",
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a",
+      "chunk-2466c4a13bd6306d3a09498f94e8d834",
+      "chunk-5b0ca6812cf2474799c4e95a396ae1df",
+      "chunk-3170620e5eb165738cb05be72d4b8b50",
+      "chunk-3d6779a3859e0dd92a32b8ad4c053249",
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41",
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e",
+      "chunk-326fc9fc709f7b8db1a373ea928e6d23",
+      "chunk-a0af414c8f4b7cd2e2ada0f0299d7b13",
+      "chunk-5fe8375d52689cccf79f112601918c4b",
+      "chunk-e9e3ee337079a2ad4117c08435d5a020",
+      "chunk-701fbd369bbdbe7ae4a94457a4cfdb1e"
+    ],
+    "count": 22,
+    "create_time": 1773879891,
+    "update_time": 1773879891,
+    "_id": "NIST Cybersecurity Framework (CSF)"
+  },
+  "PDF File": {
+    "chunk_ids": [
+      "chunk-3ae9e3476dacda5dbc0b092eee310a64"
+    ],
+    "count": 1,
+    "create_time": 1773879895,
+    "update_time": 1773879895,
+    "_id": "PDF File"
+  },
+  "PyMuPDF Parser": {
+    "chunk_ids": [
+      "chunk-3ae9e3476dacda5dbc0b092eee310a64",
+      "chunk-e234621b7f425933aeb1e42b348c4a32",
+      "chunk-8b193a13851e6929cbb22da5ab360704",
+      "chunk-5cf0ecace48f517f2845c25e229bcaa2",
+      "chunk-6e0d0175165f5302cc1e6ae4c641c34d",
+      "chunk-6632abeaa757531b99f060efde3a5149",
+      "chunk-1d4ee3b9aa47a173ae5b573628fc4788",
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a",
+      "chunk-2466c4a13bd6306d3a09498f94e8d834",
+      "chunk-5b0ca6812cf2474799c4e95a396ae1df",
+      "chunk-3d6779a3859e0dd92a32b8ad4c053249",
+      "chunk-4c8948137c854edf2aec93f9cab81db1",
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9",
+      "chunk-e9e3ee337079a2ad4117c08435d5a020"
+    ],
+    "count": 14,
+    "create_time": 1773879895,
+    "update_time": 1773879895,
+    "_id": "PyMuPDF Parser"
+  },
+  "Glossary": {
+    "chunk_ids": [
+      "chunk-3ae9e3476dacda5dbc0b092eee310a64",
+      "chunk-abdfb552a7b4b7f214088d47b88ea818"
+    ],
+    "count": 2,
+    "create_time": 1773879900,
+    "update_time": 1773879900,
+    "_id": "Glossary"
+  },
+  "source_file": {
+    "chunk_ids": [
+      "chunk-3ae9e3476dacda5dbc0b092eee310a64",
+      "chunk-3170620e5eb165738cb05be72d4b8b50",
+      "chunk-1d9ac9fe725894550271426ef29c312c",
+      "chunk-14fce07db5d5d98da204e5564aa52a02",
+      "chunk-ea8834e456266a90dc1fcf85576cb3fe",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-4bef1521e74775fe8d5345e4a9c44136",
+      "chunk-dc3d1352b9f1d69327fd060352c55300",
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75",
+      "chunk-a2636d7402d8151d1004471fecb137ad",
+      "chunk-ccfb59ab3a3f7d4a7eaefaff0db22791",
+      "chunk-304bdc62134869d004cf1f36e18bcba8",
+      "chunk-845403f5258ee6652ecfcfb89ed85f40",
+      "chunk-cf46d9eb463a9d027228452649d3d4e3",
+      "chunk-2466c4a13bd6306d3a09498f94e8d834",
+      "chunk-701fbd369bbdbe7ae4a94457a4cfdb1e",
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9",
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e",
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5",
+      "chunk-b1f524a5c7b8dbc47f938daa19271972"
+    ],
+    "count": 20,
+    "update_time": 1773880350,
+    "_id": "source_file"
+  },
+  "document_type": {
+    "chunk_ids": [
+      "chunk-3ae9e3476dacda5dbc0b092eee310a64",
+      "chunk-a2636d7402d8151d1004471fecb137ad",
+      "chunk-ccfb59ab3a3f7d4a7eaefaff0db22791",
+      "chunk-3170620e5eb165738cb05be72d4b8b50",
+      "chunk-304bdc62134869d004cf1f36e18bcba8",
+      "chunk-6fd198cb863de8f31f9ae6a2d92b1914",
+      "chunk-53d74513f9b4bf4e857dc587f365cfcf",
+      "chunk-511f83da90a9dc8590c574ff3af20852",
+      "chunk-f13c4bf957696002d1910106b96f51e7",
+      "chunk-845403f5258ee6652ecfcfb89ed85f40",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9",
+      "chunk-4bef1521e74775fe8d5345e4a9c44136",
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41",
+      "chunk-6c34e6e4f53111e1e0df93b233b83242",
+      "chunk-3bc458dd28316bb4e7070e39b19c5b38",
+      "chunk-7c597454311510ecdf008379fa792c9d",
+      "chunk-f698fdece6c3a255ea99377dbea011b6",
+      "chunk-276134a2449ee64e6e5897b460c4688e"
+    ],
+    "count": 19,
+    "update_time": 1773880354,
+    "_id": "document_type"
+  },
+  "The NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-6fd198cb863de8f31f9ae6a2d92b1914",
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94",
+      "chunk-827f48355d04a2a9eaac5548458d8e8c",
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-d2a8cc9c75c9b5a3099bb67ae5079e55",
+      "chunk-4c6f7bae29996027737c7dc965ea0239",
+      "chunk-55cf21cdfe6a7d01c11ae694b1df98ab",
+      "chunk-59ac33326a4521f610fc2ff4cbfef4a2",
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6",
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a",
+      "chunk-bbd18a0ad44dbd415d46c115a340903d",
+      "chunk-25eb93c68ce1a37ae6e09b271db64dc9",
+      "chunk-4fa58a4b8ae6497e3096ccd2ed086335",
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5",
+      "chunk-3ed7183dd79953837ed2e625c7bb3d7d",
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a",
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1",
+      "chunk-8748963043426f14c1527712ec159b5e"
+    ],
+    "count": 19,
+    "update_time": 1773880349,
+    "_id": "The NIST Cybersecurity Framework (CSF)"
+  },
+  "NIST": {
+    "chunk_ids": [
+      "chunk-ef5db71b90df0c19b8c356aeee744fc6",
+      "chunk-bdcf1715979a7e31cc08a2fbd03306f3",
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75",
+      "chunk-7b99d228b63c2a53a2dbaef1c5e77109",
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1",
+      "chunk-7e02b7aa698b9c023dac6aead366390a",
+      "chunk-02223016f864c217915db457dc244cc1",
+      "chunk-56f1498ba6ce64eefdb5e139e2a93c31",
+      "chunk-0a7038b7fceeb3ee037a01a5090cad1e",
+      "chunk-03314f72fe084c6cbbb45e9c54ba4d79",
+      "chunk-1bd8099546d6ba4f3178525229495d88",
+      "chunk-0af2b2ff693fc69321fb689063551953",
+      "chunk-cb91369f464ed519ed771389796ff36c",
+      "chunk-b85f1f3296b3a84e2b5e99897e486e55",
+      "chunk-fa283b24cceb950da35d448426784da4",
+      "chunk-6c34e6e4f53111e1e0df93b233b83242",
+      "chunk-07520e3378ec637954e3df08cc822bf2"
+    ],
+    "count": 17,
+    "create_time": 1773879905,
+    "update_time": 1773879905,
+    "_id": "NIST"
+  },
+  "CSW.PHP.29.pdf": {
+    "chunk_ids": [
+      "chunk-ef5db71b90df0c19b8c356aeee744fc6"
+    ],
+    "count": 1,
+    "create_time": 1773879909,
+    "update_time": 1773879909,
+    "_id": "CSW.PHP.29.pdf"
+  },
+  "NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-ef5db71b90df0c19b8c356aeee744fc6",
+      "chunk-6b64acf47e907c74febec8f45419fe1b",
+      "chunk-fb41292c4ded4903f8bc597010d71497",
+      "chunk-580e95c1b11fd2d0ea198e331b32c67a",
+      "chunk-9462b7987d4d746e2aac0436a0a4dbdc",
+      "chunk-3dc7cce2d8eeb05148bc616ed780f9d7",
+      "chunk-5659a2d45be7952195aa14cef14fb7d0",
+      "chunk-9d7b00744edbdc7a7228592a2da49aab",
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9",
+      "chunk-431d81acdf3085b24870b661be16b4f1",
+      "chunk-86583643b07c1568b52f107766c93525",
+      "chunk-e5b4b647cfc83bd14c03d0b7165619c5",
+      "chunk-03314f72fe084c6cbbb45e9c54ba4d79",
+      "chunk-09e5ce010011a1c01ac378dc9f7c42dd",
+      "chunk-0af2b2ff693fc69321fb689063551953",
+      "chunk-12270c419c1c9d3b9a5113eea36aa55c",
+      "chunk-951a269034b4853c739e0abb73cea1ec",
+      "chunk-b5140bbf92d407fa00cfc9038b05bff6",
+      "chunk-17b50b473f7a6de56879895cc1b30e97",
+      "chunk-f7ec5a71104b40f4aee23b0b819defd7",
+      "chunk-a51ce8efe7fb626ad33e30bcecf33e03",
+      "chunk-355d53d98836023fb3aa20ca11c32b0e",
+      "chunk-3bc458dd28316bb4e7070e39b19c5b38",
+      "chunk-1a1fc7a8b60bff365d2d131c98e7308c",
+      "chunk-9f4c79c195ee275405e879e10588c0c8"
+    ],
+    "count": 25,
+    "update_time": 1773880327,
+    "_id": "NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Carbon-Fiber Spikes": {
+    "chunk_ids": [
+      "chunk-027f4189bd6b5dfed068ce73fa4bf7fa",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-0ada8334c40c41430fa9296968b88ece",
+      "chunk-431d81acdf3085b24870b661be16b4f1",
+      "chunk-cf2f43ae6609115d347760a621948298",
+      "chunk-f13c4bf957696002d1910106b96f51e7",
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75",
+      "chunk-4c6f7bae29996027737c7dc965ea0239",
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9",
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 11,
+    "update_time": 1773880163,
+    "_id": "Carbon-Fiber Spikes"
+  },
+  "Implementation Examples": {
+    "chunk_ids": [
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94",
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75",
+      "chunk-07520e3378ec637954e3df08cc822bf2"
+    ],
+    "count": 3,
+    "update_time": 1773880167,
+    "_id": "Implementation Examples"
+  },
+  "Page 5": {
+    "chunk_ids": [
+      "chunk-5ff07271093466ab167760cb8ac11eda",
+      "chunk-6a3947c70b3ebbaf91b10a9066eeaf10",
+      "chunk-09e5ce010011a1c01ac378dc9f7c42dd",
+      "chunk-0f77e06e37ecfbf52dbc7414eed19f39"
+    ],
+    "count": 4,
+    "create_time": 1773879913,
+    "update_time": 1773879913,
+    "_id": "Page 5"
+  },
+  "Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-e6937a0dea6bdccfd0acd899789297fc",
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1",
+      "chunk-7e02b7aa698b9c023dac6aead366390a",
+      "chunk-56f1498ba6ce64eefdb5e139e2a93c31",
+      "chunk-1bd8099546d6ba4f3178525229495d88",
+      "chunk-abdfb552a7b4b7f214088d47b88ea818",
+      "chunk-6c34e6e4f53111e1e0df93b233b83242",
+      "chunk-07520e3378ec637954e3df08cc822bf2",
+      "chunk-8748963043426f14c1527712ec159b5e",
+      "chunk-51f93bf2d58b81a5311e2cb2ecaf430d",
+      "chunk-bdcf1715979a7e31cc08a2fbd03306f3"
+    ],
+    "count": 11,
+    "update_time": 1773880157,
+    "_id": "Cybersecurity Framework (CSF)"
+  },
+  "PDF": {
+    "chunk_ids": [
+      "chunk-e6937a0dea6bdccfd0acd899789297fc",
+      "chunk-d595e972f89f1931b8d54930d4b17946",
+      "chunk-3dc7cce2d8eeb05148bc616ed780f9d7",
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-55cf21cdfe6a7d01c11ae694b1df98ab",
+      "chunk-059bca7035caffc2433e27299fca0d41",
+      "chunk-fa363d8ef99097ed7573a56ea4881f85",
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6",
+      "chunk-53d74513f9b4bf4e857dc587f365cfcf",
+      "chunk-1bd8099546d6ba4f3178525229495d88",
+      "chunk-6c7a572812b3b9c78377fb00817f0109",
+      "chunk-4bef1521e74775fe8d5345e4a9c44136",
+      "chunk-951a269034b4853c739e0abb73cea1ec",
+      "chunk-40942147d12ab66861c4b495682d2956",
+      "chunk-cb91369f464ed519ed771389796ff36c",
+      "chunk-0d83e4b1b6da9dc117ae28a90210106b",
+      "chunk-ec18c1f537afc62ad981842e36062fbd",
+      "chunk-f7ec5a71104b40f4aee23b0b819defd7",
+      "chunk-a177cbf32383af911fe2113d7af57221",
+      "chunk-ffaca78eb6868f9e95a50be2442dc893",
+      "chunk-110c497b4e4b6476affbf75d09757d59",
+      "chunk-8748963043426f14c1527712ec159b5e",
+      "chunk-276134a2449ee64e6e5897b460c4688e",
+      "chunk-0f77e06e37ecfbf52dbc7414eed19f39",
+      "chunk-e1e59bd045467f10e8decfe40ce94095",
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202",
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9"
+    ],
+    "count": 27,
+    "update_time": 1773880304,
+    "_id": "PDF"
+  },
+  "Page 31": {
+    "chunk_ids": [
+      "chunk-e6937a0dea6bdccfd0acd899789297fc",
+      "chunk-e234621b7f425933aeb1e42b348c4a32",
+      "chunk-ea8834e456266a90dc1fcf85576cb3fe",
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c",
+      "chunk-87e6df0c0d226b569e5364963e932ff2"
+    ],
+    "count": 5,
+    "create_time": 1773879920,
+    "update_time": 1773879920,
+    "_id": "Page 31"
+  },
+  "Quick-Start Guides (QSGs)": {
+    "chunk_ids": [
+      "chunk-6b64acf47e907c74febec8f45419fe1b"
+    ],
+    "count": 1,
+    "create_time": 1773879920,
+    "update_time": 1773879920,
+    "_id": "Quick-Start Guides (QSGs)"
+  },
+  "NIST Cybersecurity Framework QSGs": {
+    "chunk_ids": [
+      "chunk-6b64acf47e907c74febec8f45419fe1b"
+    ],
+    "count": 1,
+    "create_time": 1773879920,
+    "update_time": 1773879920,
+    "_id": "NIST Cybersecurity Framework QSGs"
+  },
+  "CSWP-29 Document": {
+    "chunk_ids": [
+      "chunk-e234621b7f425933aeb1e42b348c4a32"
+    ],
+    "count": 1,
+    "create_time": 1773879920,
+    "update_time": 1773879920,
+    "_id": "CSWP-29 Document"
+  },
+  "title": {
+    "chunk_ids": [
+      "chunk-602aa4ccbd230d5cc27c154e57ecd301",
+      "chunk-a2636d7402d8151d1004471fecb137ad",
+      "chunk-ccfb59ab3a3f7d4a7eaefaff0db22791",
+      "chunk-3170620e5eb165738cb05be72d4b8b50",
+      "chunk-304bdc62134869d004cf1f36e18bcba8",
+      "chunk-0d83e4b1b6da9dc117ae28a90210106b",
+      "chunk-52978ce057f3b7a004200fd6c66d7288",
+      "chunk-cf46d9eb463a9d027228452649d3d4e3",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-ea01d86e7c90396acabcbc9758c9a457",
+      "chunk-ec18c1f537afc62ad981842e36062fbd",
+      "chunk-3d0de3cfb0812e7e673b81664adb026d",
+      "chunk-7c597454311510ecdf008379fa792c9d",
+      "chunk-511f83da90a9dc8590c574ff3af20852",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9",
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e",
+      "chunk-701fbd369bbdbe7ae4a94457a4cfdb1e"
+    ],
+    "count": 19,
+    "update_time": 1773880355,
+    "_id": "title"
+  },
+  "CSF": {
+    "chunk_ids": [
+      "chunk-602aa4ccbd230d5cc27c154e57ecd301",
+      "chunk-bdcf1715979a7e31cc08a2fbd03306f3",
+      "chunk-f13c4bf957696002d1910106b96f51e7"
+    ],
+    "count": 3,
+    "update_time": 1773880160,
+    "_id": "CSF"
+  },
+  "Title: The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-cb4b577ab4ab56fceba946faf29a43fd",
+      "chunk-324e7818307e26fab966afee243e2645",
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c",
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202",
+      "chunk-fa363d8ef99097ed7573a56ea4881f85",
+      "chunk-6c7a572812b3b9c78377fb00817f0109",
+      "chunk-1dc8b3afb371c358a4a849868e65e091",
+      "chunk-25eb93c68ce1a37ae6e09b271db64dc9",
+      "chunk-b320a0226c391d26a3f52ad2ed36770f",
+      "chunk-e1e59bd045467f10e8decfe40ce94095",
+      "chunk-cf46d9eb463a9d027228452649d3d4e3"
+    ],
+    "count": 11,
+    "update_time": 1773880182,
+    "_id": "Title: The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 18 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-3aabc114a079783ccc75385f8a3d0e34"
+    ],
+    "count": 1,
+    "create_time": 1773879924,
+    "update_time": 1773879924,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 18 > NIST CSWP 29"
+  },
+  "NIST<Creature>": {
+    "chunk_ids": [
+      "chunk-86fb78e647fbb8c01867d8ac36fa5c58"
+    ],
+    "count": 1,
+    "create_time": 1773879924,
+    "update_time": 1773879924,
+    "_id": "NIST<Creature>"
+  },
+  "CSF<Event>": {
+    "chunk_ids": [
+      "chunk-86fb78e647fbb8c01867d8ac36fa5c58"
+    ],
+    "count": 1,
+    "create_time": 1773879924,
+    "update_time": 1773879924,
+    "_id": "CSF<Event>"
+  },
+  "PDF<Artifact>": {
+    "chunk_ids": [
+      "chunk-86fb78e647fbb8c01867d8ac36fa5c58"
+    ],
+    "count": 1,
+    "create_time": 1773879924,
+    "update_time": 1773879924,
+    "_id": "PDF<Artifact>"
+  },
+  "PyMuPDF<PersoanlName>": {
+    "chunk_ids": [
+      "chunk-86fb78e647fbb8c01867d8ac36fa5c58"
+    ],
+    "count": 1,
+    "create_time": 1773879924,
+    "update_time": 1773879924,
+    "_id": "PyMuPDF<PersoanlName>"
+  },
+  "NIST.CSWP.29.pdf<Data>": {
+    "chunk_ids": [
+      "chunk-86fb78e647fbb8c01867d8ac36fa5c58"
+    ],
+    "count": 1,
+    "create_time": 1773879924,
+    "update_time": 1773879924,
+    "_id": "NIST.CSWP.29.pdf<Data>"
+  },
+  "February": {
+    "chunk_ids": [
+      "chunk-86fb78e647fbb8c01867d8ac36fa5c58"
+    ],
+    "count": 1,
+    "create_time": 1773879924,
+    "update_time": 1773879924,
+    "_id": "February"
+  },
+  "Title of the Document": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879924,
+    "update_time": 1773879924,
+    "_id": "Title of the Document"
+  },
+  "Page Count": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879925,
+    "update_time": 1773879925,
+    "_id": "Page Count"
+  },
+  "Header Location": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879925,
+    "update_time": 1773879925,
+    "_id": "Header Location"
+  },
+  "Title of the Framework": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879925,
+    "update_time": 1773879925,
+    "_id": "Title of the Framework"
+  },
+  "Continuous Monitoring (DE.CM)": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879925,
+    "update_time": 1773879925,
+    "_id": "Continuous Monitoring (DE.CM)"
+  },
+  "DE.CM-01": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879925,
+    "update_time": 1773879925,
+    "_id": "DE.CM-01"
+  },
+  "DE.CM-02": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879925,
+    "update_time": 1773879925,
+    "_id": "DE.CM-02"
+  },
+  "DE.CM-03": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879925,
+    "update_time": 1773879925,
+    "_id": "DE.CM-03"
+  },
+  "DE.CM-06": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879925,
+    "update_time": 1773879925,
+    "_id": "DE.CM-06"
+  },
+  "DE.CM-09": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879925,
+    "update_time": 1773879925,
+    "_id": "DE.CM-09"
+  },
+  "Adverse Event Analysis (DE.AE)": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879925,
+    "update_time": 1773879925,
+    "_id": "Adverse Event Analysis (DE.AE)"
+  },
+  "DE.AE-02": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879925,
+    "update_time": 1773879925,
+    "_id": "DE.AE-02"
+  },
+  "DE.AE-03": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879925,
+    "update_time": 1773879925,
+    "_id": "DE.AE-03"
+  },
+  "DE.AE-04": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879926,
+    "update_time": 1773879926,
+    "_id": "DE.AE-04"
+  },
+  "DE.AE-06": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879926,
+    "update_time": 1773879926,
+    "_id": "DE.AE-06"
+  },
+  "DE.AE-07": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879926,
+    "update_time": 1773879926,
+    "_id": "DE.AE-07"
+  },
+  "DE.AE-08": {
+    "chunk_ids": [
+      "chunk-8b193a13851e6929cbb22da5ab360704"
+    ],
+    "count": 1,
+    "create_time": 1773879926,
+    "update_time": 1773879926,
+    "_id": "DE.AE-08"
+  },
+  "Supply Chain Risks": {
+    "chunk_ids": [
+      "chunk-bdcf1715979a7e31cc08a2fbd03306f3"
+    ],
+    "count": 1,
+    "create_time": 1773879926,
+    "update_time": 1773879926,
+    "_id": "Supply Chain Risks"
+  },
+  "NIST Cybersecurity Professional Practice (CSWP)": {
+    "chunk_ids": [
+      "chunk-4be9a68c3dc47aaf5018803479dc6e00"
+    ],
+    "count": 1,
+    "create_time": 1773879926,
+    "update_time": 1773879926,
+    "_id": "NIST Cybersecurity Professional Practice (CSWP)"
+  },
+  "Page 15": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7"
+    ],
+    "count": 1,
+    "create_time": 1773879926,
+    "update_time": 1773879926,
+    "_id": "Page 15"
+  },
+  "GOVERN": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7"
+    ],
+    "count": 1,
+    "create_time": 1773879926,
+    "update_time": 1773879926,
+    "_id": "GOVERN"
+  },
+  "source_file: NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7",
+      "chunk-431d81acdf3085b24870b661be16b4f1",
+      "chunk-275d0d0d6031917eae1cfaf8af3c59c8",
+      "chunk-a51ce8efe7fb626ad33e30bcecf33e03",
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1",
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41",
+      "chunk-d827f9927aa7fbb31b262442c5ae0f4e",
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 8,
+    "update_time": 1773880351,
+    "_id": "source_file: NIST.CSWP.29.pdf"
+  },
+  "about cybersecurity expenditures and actions": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7"
+    ],
+    "count": 1,
+    "create_time": 1773879926,
+    "update_time": 1773879926,
+    "_id": "about cybersecurity expenditures and actions"
+  },
+  "Kind: text": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7",
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21",
+      "chunk-e6937a0dea6bdccfd0acd899789297fc",
+      "chunk-cc2c17308d80e7fb4a18acd6cc98aa96",
+      "chunk-324e7818307e26fab966afee243e2645",
+      "chunk-fa363d8ef99097ed7573a56ea4881f85",
+      "chunk-1dc8b3afb371c358a4a849868e65e091",
+      "chunk-cf46d9eb463a9d027228452649d3d4e3",
+      "chunk-5cf0ecace48f517f2845c25e229bcaa2",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a",
+      "chunk-951a269034b4853c739e0abb73cea1ec",
+      "chunk-20e9c76604167c443c2c21b103f77ac4",
+      "chunk-a8938a04f5577d705356ae16434dae2c",
+      "chunk-e1e59bd045467f10e8decfe40ce94095",
+      "chunk-5659a2d45be7952195aa14cef14fb7d0",
+      "chunk-0ada8334c40c41430fa9296968b88ece",
+      "chunk-56f1498ba6ce64eefdb5e139e2a93c31",
+      "chunk-3d6779a3859e0dd92a32b8ad4c053249",
+      "chunk-25eb93c68ce1a37ae6e09b271db64dc9",
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731",
+      "chunk-ab39c851397ecf371b7115af2855a908",
+      "chunk-ea18676d1d1af3aabd7f601118711a45",
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f",
+      "chunk-a51ce8efe7fb626ad33e30bcecf33e03",
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9",
+      "chunk-276134a2449ee64e6e5897b460c4688e"
+    ],
+    "count": 28,
+    "update_time": 1773880354,
+    "_id": "Kind: text"
+  },
+  "PyMuPDF: image_ocr_enabled True": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7"
+    ],
+    "count": 1,
+    "create_time": 1773879927,
+    "update_time": 1773879927,
+    "_id": "PyMuPDF: image_ocr_enabled True"
+  },
+  "PyMuPDF: parser": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7"
+    ],
+    "count": 1,
+    "create_time": 1773879927,
+    "update_time": 1773879927,
+    "_id": "PyMuPDF: parser"
+  },
+  "NIST.CSWP.29.pdf: image_ocr_enabled True": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7"
+    ],
+    "count": 1,
+    "create_time": 1773879927,
+    "update_time": 1773879927,
+    "_id": "NIST.CSWP.29.pdf: image_ocr_enabled True"
+  },
+  "GOVERN: image_ocr_enabled True": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7"
+    ],
+    "count": 1,
+    "create_time": 1773879927,
+    "update_time": 1773879927,
+    "_id": "GOVERN: image_ocr_enabled True"
+  },
+  "Tokyo Olympics": {
+    "chunk_ids": [
+      "chunk-f13c4bf957696002d1910106b96f51e7"
+    ],
+    "count": 1,
+    "create_time": 1773879927,
+    "update_time": 1773879927,
+    "_id": "Tokyo Olympics"
+  },
+  "Organizational Profiles": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75"
+    ],
+    "count": 1,
+    "create_time": 1773879927,
+    "update_time": 1773879927,
+    "_id": "Organizational Profiles"
+  },
+  "CSF Tiers": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75"
+    ],
+    "count": 1,
+    "create_time": 1773879927,
+    "update_time": 1773879927,
+    "_id": "CSF Tiers"
+  },
+  "Quick-Start Guides": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75"
+    ],
+    "count": 1,
+    "create_time": 1773879927,
+    "update_time": 1773879927,
+    "_id": "Quick-Start Guides"
+  },
+  "Community Profiles": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75",
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5"
+    ],
+    "count": 2,
+    "update_time": 1773880343,
+    "_id": "Community Profiles"
+  },
+  "Tokyo": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75",
+      "chunk-4c6f7bae29996027737c7dc965ea0239",
+      "chunk-78d7272f17d4adab91f99606404c911f",
+      "chunk-027f4189bd6b5dfed068ce73fa4bf7fa",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-677447a4356867486f88700f12794eb7",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb",
+      "chunk-431d81acdf3085b24870b661be16b4f1"
+    ],
+    "count": 9,
+    "update_time": 1773879944,
+    "_id": "Tokyo"
+  },
+  "parser": {
+    "chunk_ids": [
+      "chunk-a2636d7402d8151d1004471fecb137ad",
+      "chunk-ccfb59ab3a3f7d4a7eaefaff0db22791",
+      "chunk-3170620e5eb165738cb05be72d4b8b50",
+      "chunk-304bdc62134869d004cf1f36e18bcba8",
+      "chunk-52978ce057f3b7a004200fd6c66d7288",
+      "chunk-4aac65a4923c5272ea41ff8304d7c75d",
+      "chunk-ea8834e456266a90dc1fcf85576cb3fe",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c",
+      "chunk-e142782c0b1f1e12e441bc558839e38e",
+      "chunk-cc2c17308d80e7fb4a18acd6cc98aa96",
+      "chunk-d595e972f89f1931b8d54930d4b17946",
+      "chunk-4c6f7bae29996027737c7dc965ea0239",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-0ada8334c40c41430fa9296968b88ece",
+      "chunk-fa363d8ef99097ed7573a56ea4881f85",
+      "chunk-c965943ec6a06c27434a4a334ed22b27",
+      "chunk-dba679cd2a87fd4be3fe1a3614ca9bc6",
+      "chunk-6bc48c91d9bf95547aba1636fc17956f",
+      "chunk-cb91369f464ed519ed771389796ff36c",
+      "chunk-1dc8b3afb371c358a4a849868e65e091",
+      "chunk-0d83e4b1b6da9dc117ae28a90210106b",
+      "chunk-7a3e9f59ce00e66857aaef789613c67b",
+      "chunk-ec18c1f537afc62ad981842e36062fbd",
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5",
+      "chunk-3d0de3cfb0812e7e673b81664adb026d",
+      "chunk-ab39c851397ecf371b7115af2855a908",
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9",
+      "chunk-276134a2449ee64e6e5897b460c4688e",
+      "chunk-511f83da90a9dc8590c574ff3af20852",
+      "chunk-6fd198cb863de8f31f9ae6a2d92b1914",
+      "chunk-827f48355d04a2a9eaac5548458d8e8c",
+      "chunk-14fce07db5d5d98da204e5564aa52a02",
+      "chunk-cf46d9eb463a9d027228452649d3d4e3",
+      "chunk-7394049c069819ca015b82ca0e5bf283",
+      "chunk-ea01d86e7c90396acabcbc9758c9a457",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb",
+      "chunk-7c597454311510ecdf008379fa792c9d",
+      "chunk-12db774bd5c9cc8da814ea35cc060ba9",
+      "chunk-51f93bf2d58b81a5311e2cb2ecaf430d",
+      "chunk-0f77e06e37ecfbf52dbc7414eed19f39",
+      "chunk-5cf0ecace48f517f2845c25e229bcaa2",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-2466c4a13bd6306d3a09498f94e8d834",
+      "chunk-701fbd369bbdbe7ae4a94457a4cfdb1e",
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9",
+      "chunk-c4669401a25e46edf555bbf250bc4127",
+      "chunk-aef7be31870c204c67a1af7b8c5d4e7c",
+      "chunk-bb4b72e5d37677b9ad7a3ad5c540d804"
+    ],
+    "count": 50,
+    "update_time": 1773880355,
+    "_id": "parser"
+  },
+  "CSF_2.0_Title": {
+    "chunk_ids": [
+      "chunk-a2636d7402d8151d1004471fecb137ad"
+    ],
+    "count": 1,
+    "create_time": 1773879927,
+    "update_time": 1773879927,
+    "_id": "CSF_2.0_Title"
+  },
+  "Fig. 5": {
+    "chunk_ids": [
+      "chunk-44d7ecc33923fb7c0e17377dacc68586",
+      "chunk-0ada8334c40c41430fa9296968b88ece"
+    ],
+    "count": 2,
+    "update_time": 1773880263,
+    "_id": "Fig. 5"
+  },
+  "Carter": {
+    "chunk_ids": [
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 2,
+    "create_time": 1773879928,
+    "update_time": 1773879928,
+    "_id": "Carter"
+  },
+  "NIST.CSWP.29": {
+    "chunk_ids": [
+      "chunk-677447a4356867486f88700f12794eb7",
+      "chunk-5cea5a27625da5eaf2ed54677b84c475",
+      "chunk-6bc48c91d9bf95547aba1636fc17956f"
+    ],
+    "count": 3,
+    "update_time": 1773880274,
+    "_id": "NIST.CSWP.29"
+  },
+  "Page 15 of NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-677447a4356867486f88700f12794eb7"
+    ],
+    "count": 1,
+    "create_time": 1773879928,
+    "update_time": 1773879928,
+    "_id": "Page 15 of NIST.CSWP.29.pdf"
+  },
+  "Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations (SP 800-161r1)": {
+    "chunk_ids": [
+      "chunk-d2a8cc9c75c9b5a3099bb67ae5079e55"
+    ],
+    "count": 1,
+    "create_time": 1773879929,
+    "update_time": 1773879929,
+    "_id": "Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations (SP 800-161r1)"
+  },
+  "Risks from emerging technologies (including AI)": {
+    "chunk_ids": [
+      "chunk-d2a8cc9c75c9b5a3099bb67ae5079e55"
+    ],
+    "count": 1,
+    "create_time": 1773879929,
+    "update_time": 1773879929,
+    "_id": "Risks from emerging technologies (including AI)"
+  },
+  "NIST Artificial Intelligence Risk Management Framework (AI RMF)": {
+    "chunk_ids": [
+      "chunk-d2a8cc9c75c9b5a3099bb67ae5079e55"
+    ],
+    "count": 1,
+    "create_time": 1773879929,
+    "update_time": 1773879929,
+    "_id": "NIST Artificial Intelligence Risk Management Framework (AI RMF)"
+  },
+  "RECOVER (RC)": {
+    "chunk_ids": [
+      "chunk-580e95c1b11fd2d0ea198e331b32c67a",
+      "chunk-d147d5dfbfdf4bd8d26f6d9188fe2f02"
+    ],
+    "count": 2,
+    "update_time": 1773880332,
+    "_id": "RECOVER (RC)"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 7 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-cc2c17308d80e7fb4a18acd6cc98aa96"
+    ],
+    "count": 1,
+    "create_time": 1773879930,
+    "update_time": 1773879930,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 7 > NIST CSWP 29"
+  },
+  "Page 19": {
+    "chunk_ids": [
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202"
+    ],
+    "count": 1,
+    "create_time": 1773879930,
+    "update_time": 1773879930,
+    "_id": "Page 19"
+  },
+  "CSF Quick Start Guide": {
+    "chunk_ids": [
+      "chunk-87e6df0c0d226b569e5364963e932ff2"
+    ],
+    "count": 1,
+    "create_time": 1773879930,
+    "update_time": 1773879930,
+    "_id": "CSF Quick Start Guide"
+  },
+  "32 Pages": {
+    "chunk_ids": [
+      "chunk-d595e972f89f1931b8d54930d4b17946",
+      "chunk-b5140bbf92d407fa00cfc9038b05bff6"
+    ],
+    "count": 2,
+    "create_time": 1773879930,
+    "update_time": 1773879930,
+    "_id": "32 Pages"
+  },
+  "page_count": {
+    "chunk_ids": [
+      "chunk-ccfb59ab3a3f7d4a7eaefaff0db22791",
+      "chunk-1bd8099546d6ba4f3178525229495d88",
+      "chunk-3170620e5eb165738cb05be72d4b8b50",
+      "chunk-304bdc62134869d004cf1f36e18bcba8",
+      "chunk-52978ce057f3b7a004200fd6c66d7288",
+      "chunk-4aac65a4923c5272ea41ff8304d7c75d",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-e142782c0b1f1e12e441bc558839e38e",
+      "chunk-845403f5258ee6652ecfcfb89ed85f40",
+      "chunk-4c6f7bae29996027737c7dc965ea0239",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-0ada8334c40c41430fa9296968b88ece",
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6",
+      "chunk-dba679cd2a87fd4be3fe1a3614ca9bc6",
+      "chunk-4bef1521e74775fe8d5345e4a9c44136",
+      "chunk-cb91369f464ed519ed771389796ff36c",
+      "chunk-cf2f43ae6609115d347760a621948298",
+      "chunk-0d83e4b1b6da9dc117ae28a90210106b",
+      "chunk-7a3e9f59ce00e66857aaef789613c67b",
+      "chunk-01aeeeb798b9aab4ffc902eff4bb0950",
+      "chunk-2dab67331bbdc08faa7f97b5bd736e6c",
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4",
+      "chunk-276134a2449ee64e6e5897b460c4688e",
+      "chunk-0f77e06e37ecfbf52dbc7414eed19f39",
+      "chunk-6fd198cb863de8f31f9ae6a2d92b1914",
+      "chunk-ea8834e456266a90dc1fcf85576cb3fe",
+      "chunk-cf46d9eb463a9d027228452649d3d4e3",
+      "chunk-7394049c069819ca015b82ca0e5bf283",
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c",
+      "chunk-ea01d86e7c90396acabcbc9758c9a457",
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731",
+      "chunk-110c497b4e4b6476affbf75d09757d59",
+      "chunk-7c597454311510ecdf008379fa792c9d",
+      "chunk-12db774bd5c9cc8da814ea35cc060ba9",
+      "chunk-51f93bf2d58b81a5311e2cb2ecaf430d",
+      "chunk-511f83da90a9dc8590c574ff3af20852",
+      "chunk-a2636d7402d8151d1004471fecb137ad",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-5cf0ecace48f517f2845c25e229bcaa2",
+      "chunk-6632abeaa757531b99f060efde3a5149",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb",
+      "chunk-03314f72fe084c6cbbb45e9c54ba4d79",
+      "chunk-1dc8b3afb371c358a4a849868e65e091",
+      "chunk-ec18c1f537afc62ad981842e36062fbd",
+      "chunk-3bc458dd28316bb4e7070e39b19c5b38"
+    ],
+    "count": 46,
+    "update_time": 1773880348,
+    "_id": "page_count"
+  },
+  "image_ocr_enabled": {
+    "chunk_ids": [
+      "chunk-ccfb59ab3a3f7d4a7eaefaff0db22791",
+      "chunk-3170620e5eb165738cb05be72d4b8b50",
+      "chunk-304bdc62134869d004cf1f36e18bcba8",
+      "chunk-2d184c338f85fe7058330bddbcdf8218",
+      "chunk-52978ce057f3b7a004200fd6c66d7288",
+      "chunk-ea8834e456266a90dc1fcf85576cb3fe",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-7394049c069819ca015b82ca0e5bf283",
+      "chunk-845403f5258ee6652ecfcfb89ed85f40",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a",
+      "chunk-0ada8334c40c41430fa9296968b88ece",
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6",
+      "chunk-ea01d86e7c90396acabcbc9758c9a457",
+      "chunk-12270c419c1c9d3b9a5113eea36aa55c",
+      "chunk-40942147d12ab66861c4b495682d2956",
+      "chunk-1dc8b3afb371c358a4a849868e65e091",
+      "chunk-01aeeeb798b9aab4ffc902eff4bb0950",
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5",
+      "chunk-3d0de3cfb0812e7e673b81664adb026d",
+      "chunk-3c43d68ed955fe5d7c6f31a375e45322",
+      "chunk-276134a2449ee64e6e5897b460c4688e",
+      "chunk-0f77e06e37ecfbf52dbc7414eed19f39",
+      "chunk-14fce07db5d5d98da204e5564aa52a02",
+      "chunk-cf46d9eb463a9d027228452649d3d4e3",
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c",
+      "chunk-0af2b2ff693fc69321fb689063551953",
+      "chunk-ffaca78eb6868f9e95a50be2442dc893",
+      "chunk-7c597454311510ecdf008379fa792c9d",
+      "chunk-4564cb8a99fed5101a1ffbf03b124246",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-09e5ce010011a1c01ac378dc9f7c42dd",
+      "chunk-3bc458dd28316bb4e7070e39b19c5b38",
+      "chunk-f13c4bf957696002d1910106b96f51e7",
+      "chunk-b1f524a5c7b8dbc47f938daa19271972",
+      "chunk-4893f0b02c584c1055b59d8cddfca8df",
+      "chunk-7b99d228b63c2a53a2dbaef1c5e77109",
+      "chunk-c4669401a25e46edf555bbf250bc4127",
+      "chunk-110c497b4e4b6476affbf75d09757d59",
+      "chunk-701fbd369bbdbe7ae4a94457a4cfdb1e",
+      "chunk-a2636d7402d8151d1004471fecb137ad",
+      "chunk-5cf0ecace48f517f2845c25e229bcaa2",
+      "chunk-53d74513f9b4bf4e857dc587f365cfcf",
+      "chunk-1bd8099546d6ba4f3178525229495d88",
+      "chunk-cb91369f464ed519ed771389796ff36c",
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb",
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41",
+      "chunk-40b687f7b9c6aed4085522238850e57e",
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 51,
+    "update_time": 1773880351,
+    "_id": "image_ocr_enabled"
+  },
+  "World Athletics Federation": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239",
+      "chunk-431d81acdf3085b24870b661be16b4f1",
+      "chunk-cf2f43ae6609115d347760a621948298",
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731",
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 5,
+    "update_time": 1773880255,
+    "_id": "World Athletics Federation"
+  },
+  "NIST CSWP 29 Document": {
+    "chunk_ids": [
+      "chunk-6632abeaa757531b99f060efde3a5149",
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 2,
+    "update_time": 1773880351,
+    "_id": "NIST CSWP 29 Document"
+  },
+  "Appendix A. CSF Core": {
+    "chunk_ids": [
+      "chunk-3dc7cce2d8eeb05148bc616ed780f9d7"
+    ],
+    "count": 1,
+    "create_time": 1773879931,
+    "update_time": 1773879931,
+    "_id": "Appendix A. CSF Core"
+  },
+  "NIST CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-59ac33326a4521f610fc2ff4cbfef4a2",
+      "chunk-059bca7035caffc2433e27299fca0d41",
+      "chunk-20e9c76604167c443c2c21b103f77ac4",
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a"
+    ],
+    "count": 5,
+    "update_time": 1773880261,
+    "_id": "NIST CSWP.29.pdf"
+  },
+  "Profiles": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773879932,
+    "update_time": 1773879932,
+    "_id": "Profiles"
+  },
+  "Manager and Practitioner": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773879932,
+    "update_time": 1773879932,
+    "_id": "Manager and Practitioner"
+  },
+  "System Level": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773879932,
+    "update_time": 1773879932,
+    "_id": "System Level"
+  },
+  "Risk Register": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830",
+      "chunk-1d4ee3b9aa47a173ae5b573628fc4788"
+    ],
+    "count": 2,
+    "create_time": 1773879933,
+    "update_time": 1773879933,
+    "_id": "Risk Register"
+  },
+  "Progress Report": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773879933,
+    "update_time": 1773879933,
+    "_id": "Progress Report"
+  },
+  "Risk Appetite Communication": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773879933,
+    "update_time": 1773879933,
+    "_id": "Risk Appetite Communication"
+  },
+  "Lower-Level Risk Management Programs Integration": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773879933,
+    "update_time": 1773879933,
+    "_id": "Lower-Level Risk Management Programs Integration"
+  },
+  "title: The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-5659a2d45be7952195aa14cef14fb7d0",
+      "chunk-951a269034b4853c739e0abb73cea1ec",
+      "chunk-d827f9927aa7fbb31b262442c5ae0f4e"
+    ],
+    "count": 4,
+    "update_time": 1773880342,
+    "_id": "title: The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Page 29": {
+    "chunk_ids": [
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-9d7b00744edbdc7a7228592a2da49aab",
+      "chunk-ea01d86e7c90396acabcbc9758c9a457",
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21",
+      "chunk-2ed19a7b79b8df489f094aebeaf9f831"
+    ],
+    "count": 5,
+    "create_time": 1773879934,
+    "update_time": 1773879934,
+    "_id": "Page 29"
+  },
+  "Page 7": {
+    "chunk_ids": [
+      "chunk-55cf21cdfe6a7d01c11ae694b1df98ab",
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 2,
+    "update_time": 1773880267,
+    "_id": "Page 7"
+  },
+  "Header": {
+    "chunk_ids": [
+      "chunk-55cf21cdfe6a7d01c11ae694b1df98ab",
+      "chunk-304bdc62134869d004cf1f36e18bcba8",
+      "chunk-52978ce057f3b7a004200fd6c66d7288",
+      "chunk-4aac65a4923c5272ea41ff8304d7c75d",
+      "chunk-14fce07db5d5d98da204e5564aa52a02",
+      "chunk-4564cb8a99fed5101a1ffbf03b124246",
+      "chunk-cb4b577ab4ab56fceba946faf29a43fd",
+      "chunk-4893f0b02c584c1055b59d8cddfca8df",
+      "chunk-7394049c069819ca015b82ca0e5bf283",
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202",
+      "chunk-87e6df0c0d226b569e5364963e932ff2",
+      "chunk-ea01d86e7c90396acabcbc9758c9a457",
+      "chunk-53d74513f9b4bf4e857dc587f365cfcf",
+      "chunk-6d1058d7d75178b661f062c47165b429",
+      "chunk-1bd8099546d6ba4f3178525229495d88",
+      "chunk-09e5ce010011a1c01ac378dc9f7c42dd",
+      "chunk-0af2b2ff693fc69321fb689063551953",
+      "chunk-40942147d12ab66861c4b495682d2956",
+      "chunk-d147d5dfbfdf4bd8d26f6d9188fe2f02",
+      "chunk-2ed19a7b79b8df489f094aebeaf9f831",
+      "chunk-bc30dc20b9aa4ed3a4cab559d49a5b1a",
+      "chunk-f37e358d90041c5f4b84b269dadb281f",
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731",
+      "chunk-110c497b4e4b6476affbf75d09757d59",
+      "chunk-d8d714f2f9238839c80286e2a797981a",
+      "chunk-7c597454311510ecdf008379fa792c9d",
+      "chunk-12db774bd5c9cc8da814ea35cc060ba9",
+      "chunk-51f93bf2d58b81a5311e2cb2ecaf430d",
+      "chunk-de226951c463af74dc9833ddd3cec4ee",
+      "chunk-07520e3378ec637954e3df08cc822bf2",
+      "chunk-6fd198cb863de8f31f9ae6a2d92b1914",
+      "chunk-827f48355d04a2a9eaac5548458d8e8c",
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c",
+      "chunk-e142782c0b1f1e12e441bc558839e38e",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-3a1c2f94461354c30294c3c0828925fa",
+      "chunk-5cf0ecace48f517f2845c25e229bcaa2",
+      "chunk-d595e972f89f1931b8d54930d4b17946",
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a",
+      "chunk-7b99d228b63c2a53a2dbaef1c5e77109",
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb",
+      "chunk-6c7a572812b3b9c78377fb00817f0109",
+      "chunk-ceb137526967bd0732398451dacbefdf",
+      "chunk-7a3e9f59ce00e66857aaef789613c67b",
+      "chunk-01aeeeb798b9aab4ffc902eff4bb0950",
+      "chunk-dc3d1352b9f1d69327fd060352c55300",
+      "chunk-e53e05b54db72f81a1e33fa6ac9c1e19",
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9",
+      "chunk-276134a2449ee64e6e5897b460c4688e",
+      "chunk-3bc458dd28316bb4e7070e39b19c5b38",
+      "chunk-e234621b7f425933aeb1e42b348c4a32",
+      "chunk-602aa4ccbd230d5cc27c154e57ecd301",
+      "chunk-845403f5258ee6652ecfcfb89ed85f40",
+      "chunk-ccfb59ab3a3f7d4a7eaefaff0db22791",
+      "chunk-02223016f864c217915db457dc244cc1",
+      "chunk-b85f1f3296b3a84e2b5e99897e486e55",
+      "chunk-1d9ac9fe725894550271426ef29c312c",
+      "chunk-e42300356554f95180733e6c9a5e6ad8",
+      "chunk-86fb78e647fbb8c01867d8ac36fa5c58",
+      "chunk-f13c4bf957696002d1910106b96f51e7",
+      "chunk-580e95c1b11fd2d0ea198e331b32c67a",
+      "chunk-7e02b7aa698b9c023dac6aead366390a",
+      "chunk-5dfe898b208e0b540d94452dbdd95b76",
+      "chunk-b1f524a5c7b8dbc47f938daa19271972",
+      "chunk-f698fdece6c3a255ea99377dbea011b6",
+      "chunk-6bc48c91d9bf95547aba1636fc17956f",
+      "chunk-2466c4a13bd6306d3a09498f94e8d834",
+      "chunk-86583643b07c1568b52f107766c93525",
+      "chunk-355d53d98836023fb3aa20ca11c32b0e",
+      "chunk-4bef1521e74775fe8d5345e4a9c44136",
+      "chunk-ab39c851397ecf371b7115af2855a908",
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e",
+      "chunk-ec18c1f537afc62ad981842e36062fbd",
+      "chunk-3ed7183dd79953837ed2e625c7bb3d7d",
+      "chunk-a0af414c8f4b7cd2e2ada0f0299d7b13",
+      "chunk-1a1497d01e433b4c62c0be4ed37b11e3"
+    ],
+    "count": 79,
+    "update_time": 1773880353,
+    "_id": "Header"
+  },
+  "CSF 2.0 Reference Tool": {
+    "chunk_ids": [
+      "chunk-59ac33326a4521f610fc2ff4cbfef4a2"
+    ],
+    "count": 1,
+    "create_time": 1773879935,
+    "update_time": 1773879935,
+    "_id": "CSF 2.0 Reference Tool"
+  },
+  "https://doi.org/10.6028/NIST.CSWP.29": {
+    "chunk_ids": [
+      "chunk-5659a2d45be7952195aa14cef14fb7d0"
+    ],
+    "count": 1,
+    "create_time": 1773879935,
+    "update_time": 1773879935,
+    "_id": "https://doi.org/10.6028/NIST.CSWP.29"
+  },
+  "NIST Cybersecurity Framework": {
+    "chunk_ids": [
+      "chunk-1d4ee3b9aa47a173ae5b573628fc4788",
+      "chunk-00f479e9eb2ff034e22aa902245379cf",
+      "chunk-d827f9927aa7fbb31b262442c5ae0f4e",
+      "chunk-73b24cb66636c88831195301bd0a13fb"
+    ],
+    "count": 4,
+    "create_time": 1773879935,
+    "update_time": 1773879935,
+    "_id": "NIST Cybersecurity Framework"
+  },
+  "Page 16": {
+    "chunk_ids": [
+      "chunk-1d4ee3b9aa47a173ae5b573628fc4788"
+    ],
+    "count": 1,
+    "create_time": 1773879935,
+    "update_time": 1773879935,
+    "_id": "Page 16"
+  },
+  "Line of Business or Operating Division": {
+    "chunk_ids": [
+      "chunk-1d4ee3b9aa47a173ae5b573628fc4788"
+    ],
+    "count": 1,
+    "create_time": 1773879936,
+    "update_time": 1773879936,
+    "_id": "Line of Business or Operating Division"
+  },
+  "Table 2": {
+    "chunk_ids": [
+      "chunk-00f479e9eb2ff034e22aa902245379cf"
+    ],
+    "count": 1,
+    "create_time": 1773879936,
+    "update_time": 1773879936,
+    "_id": "Table 2"
+  },
+  "Optical Character Recognition (OCR)": {
+    "chunk_ids": [
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a"
+    ],
+    "count": 1,
+    "create_time": 1773879936,
+    "update_time": 1773879936,
+    "_id": "Optical Character Recognition (OCR)"
+  },
+  "CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-7b99d228b63c2a53a2dbaef1c5e77109",
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6",
+      "chunk-0ebca51f221351bbffa5a9080a5b5abb",
+      "chunk-fa283b24cceb950da35d448426784da4",
+      "chunk-d8d714f2f9238839c80286e2a797981a"
+    ],
+    "count": 5,
+    "create_time": 1773879936,
+    "update_time": 1773879936,
+    "_id": "CSWP.29.pdf"
+  },
+  "Page 32": {
+    "chunk_ids": [
+      "chunk-5cea5a27625da5eaf2ed54677b84c475",
+      "chunk-6bc48c91d9bf95547aba1636fc17956f"
+    ],
+    "count": 2,
+    "create_time": 1773879936,
+    "update_time": 1773879936,
+    "_id": "Page 32"
+  },
+  "Artificial Intelligence Risks": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834"
+    ],
+    "count": 1,
+    "create_time": 1773879936,
+    "update_time": 1773879936,
+    "_id": "Artificial Intelligence Risks"
+  },
+  "NIST Cswp.29.pdf": {
+    "chunk_ids": [
+      "chunk-9d7b00744edbdc7a7228592a2da49aab",
+      "chunk-bbd18a0ad44dbd415d46c115a340903d",
+      "chunk-b5140bbf92d407fa00cfc9038b05bff6",
+      "chunk-bc30dc20b9aa4ed3a4cab559d49a5b1a"
+    ],
+    "count": 4,
+    "create_time": 1773879936,
+    "update_time": 1773879936,
+    "_id": "NIST Cswp.29.pdf"
+  },
+  "Cybersecurity Framework(CSF)": {
+    "chunk_ids": [
+      "chunk-17f9881b2fb0f1c1ceef3445deb9bc4f"
+    ],
+    "count": 1,
+    "create_time": 1773879936,
+    "update_time": 1773879936,
+    "_id": "Cybersecurity Framework(CSF)"
+  },
+  "PyMuPDF Version 1.2.0": {
+    "chunk_ids": [
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6"
+    ],
+    "count": 1,
+    "create_time": 1773879936,
+    "update_time": 1773879936,
+    "_id": "PyMuPDF Version 1.2.0"
+  },
+  "The NIST Cybersecurity Framework (CSF) 20": {
+    "chunk_ids": [
+      "chunk-c965943ec6a06c27434a4a334ed22b27"
+    ],
+    "count": 1,
+    "create_time": 1773879936,
+    "update_time": 1773879936,
+    "_id": "The NIST Cybersecurity Framework (CSF) 20"
+  },
+  "NIST Cybersecurity Specialized Practitioner Exam (CSWP)": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773879937,
+    "update_time": 1773879937,
+    "_id": "NIST Cybersecurity Specialized Practitioner Exam (CSWP)"
+  },
+  "Roles, Responsibilities, and Authorities": {
+    "chunk_ids": [
+      "chunk-de4b17af1dc6345e9c18bb4d685e5cd3"
+    ],
+    "count": 1,
+    "create_time": 1773879937,
+    "update_time": 1773879937,
+    "_id": "Roles, Responsibilities, and Authorities"
+  },
+  "Experimental Procedures Manual": {
+    "chunk_ids": [
+      "chunk-6bc48c91d9bf95547aba1636fc17956f"
+    ],
+    "count": 1,
+    "create_time": 1773879937,
+    "update_time": 1773879937,
+    "_id": "Experimental Procedures Manual"
+  },
+  "Page 4": {
+    "chunk_ids": [
+      "chunk-53d74513f9b4bf4e857dc587f365cfcf"
+    ],
+    "count": 1,
+    "create_time": 1773879937,
+    "update_time": 1773879937,
+    "_id": "Page 4"
+  },
+  "NIST CSWP 29.pdf": {
+    "chunk_ids": [
+      "chunk-bbd18a0ad44dbd415d46c115a340903d"
+    ],
+    "count": 1,
+    "create_time": 1773879937,
+    "update_time": 1773879937,
+    "_id": "NIST CSWP 29.pdf"
+  },
+  "NIST_CSWP_29": {
+    "chunk_ids": [
+      "chunk-02223016f864c217915db457dc244cc1"
+    ],
+    "count": 1,
+    "create_time": 1773879937,
+    "update_time": 1773879937,
+    "_id": "NIST_CSWP_29"
+  },
+  "Cybersecurity Framework Core": {
+    "chunk_ids": [
+      "chunk-41db6094ad592f0dccdd54c40a045eeb"
+    ],
+    "count": 1,
+    "create_time": 1773879937,
+    "update_time": 1773879937,
+    "_id": "Cybersecurity Framework Core"
+  },
+  "NIST Cybersecurity Framework@nist.gov": {
+    "chunk_ids": [
+      "chunk-0a7038b7fceeb3ee037a01a5090cad1e"
+    ],
+    "count": 1,
+    "create_time": 1773879937,
+    "update_time": 1773879937,
+    "_id": "NIST Cybersecurity Framework@nist.gov"
+  },
+  "CSWP 29": {
+    "chunk_ids": [
+      "chunk-03314f72fe084c6cbbb45e9c54ba4d79",
+      "chunk-b85f1f3296b3a84e2b5e99897e486e55"
+    ],
+    "count": 2,
+    "update_time": 1773880332,
+    "_id": "CSWP 29"
+  },
+  "Freedom of Information Act (FOIA)": {
+    "chunk_ids": [
+      "chunk-1bd8099546d6ba4f3178525229495d88"
+    ],
+    "count": 1,
+    "create_time": 1773879937,
+    "update_time": 1773879937,
+    "_id": "Freedom of Information Act (FOIA)"
+  },
+  "Image OCR Integration": {
+    "chunk_ids": [
+      "chunk-09e5ce010011a1c01ac378dc9f7c42dd"
+    ],
+    "count": 1,
+    "create_time": 1773879937,
+    "update_time": 1773879937,
+    "_id": "Image OCR Integration"
+  },
+  "NIST resources that describe the mutual relationship between cybersecurity risk management and ERM include:": {
+    "chunk_ids": [
+      "chunk-6c7a572812b3b9c78377fb00817f0109"
+    ],
+    "count": 1,
+    "create_time": 1773879937,
+    "update_time": 1773879937,
+    "_id": "NIST resources that describe the mutual relationship between cybersecurity risk management and ERM include:"
+  },
+  "CSW": {
+    "chunk_ids": [
+      "chunk-0af2b2ff693fc69321fb689063551953"
+    ],
+    "count": 1,
+    "create_time": 1773879937,
+    "update_time": 1773879937,
+    "_id": "CSW"
+  },
+  "CSW.PDF": {
+    "chunk_ids": [
+      "chunk-0af2b2ff693fc69321fb689063551953"
+    ],
+    "count": 1,
+    "create_time": 1773879937,
+    "update_time": 1773879937,
+    "_id": "CSW.PDF"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 9 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-c4669401a25e46edf555bbf250bc4127",
+      "chunk-25eb93c68ce1a37ae6e09b271db64dc9"
+    ],
+    "count": 2,
+    "update_time": 1773880333,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 9 > NIST CSWP 29"
+  },
+  "Event Horizon": {
+    "chunk_ids": [
+      "chunk-c4669401a25e46edf555bbf250bc4127",
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9"
+    ],
+    "count": 2,
+    "create_time": 1773879937,
+    "update_time": 1773879937,
+    "_id": "Event Horizon"
+  },
+  "Black Hole": {
+    "chunk_ids": [
+      "chunk-c4669401a25e46edf555bbf250bc4127"
+    ],
+    "count": 1,
+    "create_time": 1773879938,
+    "update_time": 1773879938,
+    "_id": "Black Hole"
+  },
+  "True": {
+    "chunk_ids": [
+      "chunk-12270c419c1c9d3b9a5113eea36aa55c",
+      "chunk-b5140bbf92d407fa00cfc9038b05bff6",
+      "chunk-73b24cb66636c88831195301bd0a13fb",
+      "chunk-6df9f1b0cef4c18b6c32ef41a1ed7ea9"
+    ],
+    "count": 4,
+    "update_time": 1773880306,
+    "_id": "True"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21",
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41"
+    ],
+    "count": 2,
+    "update_time": 1773880335,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29 > NIST CSWP 29"
+  },
+  "SP 800-221": {
+    "chunk_ids": [
+      "chunk-cb91369f464ed519ed771389796ff36c"
+    ],
+    "count": 1,
+    "create_time": 1773879938,
+    "update_time": 1773879938,
+    "_id": "SP 800-221"
+  },
+  "Cybersecurity; Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-e2400c989d96885c83045f36afcc0df3"
+    ],
+    "count": 1,
+    "create_time": 1773879938,
+    "update_time": 1773879938,
+    "_id": "Cybersecurity; Cybersecurity Framework (CSF)"
+  },
+  "Cybersecurity risk governance;": {
+    "chunk_ids": [
+      "chunk-e2400c989d96885c83045f36afcc0df3"
+    ],
+    "count": 1,
+    "create_time": 1773879938,
+    "update_time": 1773879938,
+    "_id": "Cybersecurity risk governance;"
+  },
+  "Cybersecurity risk management;": {
+    "chunk_ids": [
+      "chunk-e2400c989d96885c83045f36afcc0df3"
+    ],
+    "count": 1,
+    "create_time": 1773879938,
+    "update_time": 1773879938,
+    "_id": "Cybersecurity risk management;"
+  },
+  "Enterprise risk management;": {
+    "chunk_ids": [
+      "chunk-e2400c989d96885c83045f36afcc0df3"
+    ],
+    "count": 1,
+    "create_time": 1773879938,
+    "update_time": 1773879938,
+    "_id": "Enterprise risk management;"
+  },
+  "Profiles;": {
+    "chunk_ids": [
+      "chunk-e2400c989d96885c83045f36afcc0df3"
+    ],
+    "count": 1,
+    "create_time": 1773879938,
+    "update_time": 1773879938,
+    "_id": "Profiles;"
+  },
+  "Tiers;": {
+    "chunk_ids": [
+      "chunk-e2400c989d96885c83045f36afcc0df3"
+    ],
+    "count": 1,
+    "create_time": 1773879938,
+    "update_time": 1773879938,
+    "_id": "Tiers;"
+  },
+  "Information and Communications Technology (ICT) Risk Outcomes:": {
+    "chunk_ids": [
+      "chunk-275d0d0d6031917eae1cfaf8af3c59c8"
+    ],
+    "count": 1,
+    "create_time": 1773879938,
+    "update_time": 1773879938,
+    "_id": "Information and Communications Technology (ICT) Risk Outcomes:"
+  },
+  "Page 9": {
+    "chunk_ids": [
+      "chunk-d147d5dfbfdf4bd8d26f6d9188fe2f02"
+    ],
+    "count": 1,
+    "create_time": 1773879938,
+    "update_time": 1773879938,
+    "_id": "Page 9"
+  },
+  "Detected Cybersecurity Incidents": {
+    "chunk_ids": [
+      "chunk-d147d5dfbfdf4bd8d26f6d9188fe2f02"
+    ],
+    "count": 1,
+    "create_time": 1773879938,
+    "update_time": 1773879938,
+    "_id": "Detected Cybersecurity Incidents"
+  },
+  "Identity Management": {
+    "chunk_ids": [
+      "chunk-b85f1f3296b3a84e2b5e99897e486e55"
+    ],
+    "count": 1,
+    "create_time": 1773879938,
+    "update_time": 1773879938,
+    "_id": "Identity Management"
+  },
+  "Authentication": {
+    "chunk_ids": [
+      "chunk-b85f1f3296b3a84e2b5e99897e486e55"
+    ],
+    "count": 1,
+    "create_time": 1773879939,
+    "update_time": 1773879939,
+    "_id": "Authentication"
+  },
+  "Access Control": {
+    "chunk_ids": [
+      "chunk-b85f1f3296b3a84e2b5e99897e486e55"
+    ],
+    "count": 1,
+    "create_time": 1773879939,
+    "update_time": 1773879939,
+    "_id": "Access Control"
+  },
+  "CSWP": {
+    "chunk_ids": [
+      "chunk-b85f1f3296b3a84e2b5e99897e486e55"
+    ],
+    "count": 1,
+    "create_time": 1773879939,
+    "update_time": 1773879939,
+    "_id": "CSWP"
+  },
+  "Page 17": {
+    "chunk_ids": [
+      "chunk-5dfe898b208e0b540d94452dbdd95b76"
+    ],
+    "count": 1,
+    "create_time": 1773879939,
+    "update_time": 1773879939,
+    "_id": "Page 17"
+  },
+  "SP 800-37": {
+    "chunk_ids": [
+      "chunk-5dfe898b208e0b540d94452dbdd95b76"
+    ],
+    "count": 1,
+    "create_time": 1773879939,
+    "update_time": 1773879939,
+    "_id": "SP 800-37"
+  },
+  "SP 800-30": {
+    "chunk_ids": [
+      "chunk-5dfe898b208e0b540d94452dbdd95b76"
+    ],
+    "count": 1,
+    "create_time": 1773879939,
+    "update_time": 1773879939,
+    "_id": "SP 800-30"
+  },
+  "Fig. 6": {
+    "chunk_ids": [
+      "chunk-5dfe898b208e0b540d94452dbdd95b76",
+      "chunk-0ada8334c40c41430fa9296968b88ece"
+    ],
+    "count": 2,
+    "update_time": 1773880263,
+    "_id": "Fig. 6"
+  },
+  "NIST.CSWP.20.pdf": {
+    "chunk_ids": [
+      "chunk-2ed19a7b79b8df489f094aebeaf9f831"
+    ],
+    "count": 1,
+    "create_time": 1773879939,
+    "update_time": 1773879939,
+    "_id": "NIST.CSWP.20.pdf"
+  },
+  "Cybersecurity information": {
+    "chunk_ids": [
+      "chunk-f37e358d90041c5f4b84b269dadb281f"
+    ],
+    "count": 1,
+    "create_time": 1773879939,
+    "update_time": 1773879939,
+    "_id": "Cybersecurity information"
+  },
+  "The organization": {
+    "chunk_ids": [
+      "chunk-f37e358d90041c5f4b84b269dadb281f",
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41",
+      "chunk-3ed7183dd79953837ed2e625c7bb3d7d",
+      "chunk-0af2b2ff693fc69321fb689063551953"
+    ],
+    "count": 4,
+    "update_time": 1773880322,
+    "_id": "The organization"
+  },
+  "DataSecurity": {
+    "chunk_ids": [
+      "chunk-4c8948137c854edf2aec93f9cab81db1"
+    ],
+    "count": 1,
+    "create_time": 1773879939,
+    "update_time": 1773879939,
+    "_id": "DataSecurity"
+  },
+  "NIST_Cybersecurity_Framework_2.0": {
+    "chunk_ids": [
+      "chunk-4c8948137c854edf2aec93f9cab81db1"
+    ],
+    "count": 1,
+    "create_time": 1773879939,
+    "update_time": 1773879939,
+    "_id": "NIST_Cybersecurity_Framework_2.0"
+  },
+  "NIST CSF website": {
+    "chunk_ids": [
+      "chunk-cf2f43ae6609115d347760a621948298"
+    ],
+    "count": 1,
+    "create_time": 1773879939,
+    "update_time": 1773879939,
+    "_id": "NIST CSF website"
+  },
+  "Page Count: 32": {
+    "chunk_ids": [
+      "chunk-0d83e4b1b6da9dc117ae28a90210106b",
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 2,
+    "update_time": 1773880273,
+    "_id": "Page Count: 32"
+  },
+  "NIST Cybersecurity Framework (CSF) 2.0 Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 18 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-0d83e4b1b6da9dc117ae28a90210106b"
+    ],
+    "count": 1,
+    "create_time": 1773879939,
+    "update_time": 1773879939,
+    "_id": "NIST Cybersecurity Framework (CSF) 2.0 Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 18 > NIST CSWP 29"
+  },
+  "text": {
+    "chunk_ids": [
+      "chunk-0d83e4b1b6da9dc117ae28a90210106b",
+      "chunk-02223016f864c217915db457dc244cc1",
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e"
+    ],
+    "count": 3,
+    "update_time": 1773880308,
+    "_id": "text"
+  },
+  "Suppliers": {
+    "chunk_ids": [
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41"
+    ],
+    "count": 1,
+    "create_time": 1773879940,
+    "update_time": 1773879940,
+    "_id": "Suppliers"
+  },
+  "Products and Services": {
+    "chunk_ids": [
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41"
+    ],
+    "count": 1,
+    "create_time": 1773879940,
+    "update_time": 1773879940,
+    "_id": "Products and Services"
+  },
+  "The organization's risk management practices": {
+    "chunk_ids": [
+      "chunk-01aeeeb798b9aab4ffc902eff4bb0950"
+    ],
+    "count": 1,
+    "create_time": 1773879940,
+    "update_time": 1773879940,
+    "_id": "The organization's risk management practices"
+  },
+  "Page 18": {
+    "chunk_ids": [
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e"
+    ],
+    "count": 1,
+    "create_time": 1773879940,
+    "update_time": 1773879940,
+    "_id": "Page 18"
+  },
+  "Privacy Events": {
+    "chunk_ids": [
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e"
+    ],
+    "count": 1,
+    "create_time": 1773879940,
+    "update_time": 1773879940,
+    "_id": "Privacy Events"
+  },
+  "Individuals": {
+    "chunk_ids": [
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e"
+    ],
+    "count": 1,
+    "create_time": 1773879940,
+    "update_time": 1773879940,
+    "_id": "Individuals"
+  },
+  "The NIST Cybersecurity Framework (CSF) 2.0 Header": {
+    "chunk_ids": [
+      "chunk-a8938a04f5577d705356ae16434dae2c"
+    ],
+    "count": 1,
+    "create_time": 1773879940,
+    "update_time": 1773879940,
+    "_id": "The NIST Cybersecurity Framework (CSF) 2.0 Header"
+  },
+  "Profile": {
+    "chunk_ids": [
+      "chunk-ea18676d1d1af3aabd7f601118711a45"
+    ],
+    "count": 1,
+    "create_time": 1773879940,
+    "update_time": 1773879940,
+    "_id": "Profile"
+  },
+  "Adverse Event Analysis": {
+    "chunk_ids": [
+      "chunk-ec18c1f537afc62ad981842e36062fbd"
+    ],
+    "count": 1,
+    "create_time": 1773879940,
+    "update_time": 1773879940,
+    "_id": "Adverse Event Analysis"
+  },
+  "CSW.P.29.pdf": {
+    "chunk_ids": [
+      "chunk-ec18c1f537afc62ad981842e36062fbd"
+    ],
+    "count": 1,
+    "create_time": 1773879940,
+    "update_time": 1773879940,
+    "_id": "CSW.P.29.pdf"
+  },
+  "Certified Cybersecurity Professional (CSWP)": {
+    "chunk_ids": [
+      "chunk-ec18c1f537afc62ad981842e36062fbd"
+    ],
+    "count": 1,
+    "create_time": 1773879940,
+    "update_time": 1773879940,
+    "_id": "Certified Cybersecurity Professional (CSWP)"
+  },
+  "Page 20": {
+    "chunk_ids": [
+      "chunk-f7ec5a71104b40f4aee23b0b819defd7",
+      "chunk-ffaca78eb6868f9e95a50be2442dc893",
+      "chunk-59ac33326a4521f610fc2ff4cbfef4a2"
+    ],
+    "count": 3,
+    "update_time": 1773880259,
+    "_id": "Page 20"
+  },
+  "Incident Management": {
+    "chunk_ids": [
+      "chunk-f7ec5a71104b40f4aee23b0b819defd7"
+    ],
+    "count": 1,
+    "create_time": 1773879940,
+    "update_time": 1773879940,
+    "_id": "Incident Management"
+  },
+  "PyMuPDF PDF File": {
+    "chunk_ids": [
+      "chunk-a51ce8efe7fb626ad33e30bcecf33e03"
+    ],
+    "count": 1,
+    "create_time": 1773879940,
+    "update_time": 1773879940,
+    "_id": "PyMuPDF PDF File"
+  },
+  "Senior cybersecurity and non-cybersecurity executives": {
+    "chunk_ids": [
+      "chunk-3ed7183dd79953837ed2e625c7bb3d7d"
+    ],
+    "count": 1,
+    "create_time": 1773879940,
+    "update_time": 1773879940,
+    "_id": "Senior cybersecurity and non-cybersecurity executives"
+  },
+  "Title of Document": {
+    "chunk_ids": [
+      "chunk-a0af414c8f4b7cd2e2ada0f0299d7b13"
+    ],
+    "count": 1,
+    "create_time": 1773879941,
+    "update_time": 1773879941,
+    "_id": "Title of Document"
+  },
+  "PDF Document": {
+    "chunk_ids": [
+      "chunk-a0af414c8f4b7cd2e2ada0f0299d7b13"
+    ],
+    "count": 1,
+    "create_time": 1773879941,
+    "update_time": 1773879941,
+    "_id": "PDF Document"
+  },
+  "Cybersecurity Functions, Categories, and Subcategories": {
+    "chunk_ids": [
+      "chunk-355d53d98836023fb3aa20ca11c32b0e"
+    ],
+    "count": 1,
+    "create_time": 1773879941,
+    "update_time": 1773879941,
+    "_id": "Cybersecurity Functions, Categories, and Subcategories"
+  },
+  "NIST Cybersecurity Framework 2.0": {
+    "chunk_ids": [
+      "chunk-355d53d98836023fb3aa20ca11c32b0e"
+    ],
+    "count": 1,
+    "create_time": 1773879941,
+    "update_time": 1773879941,
+    "_id": "NIST Cybersecurity Framework 2.0"
+  },
+  "CSWP-29 Certification Page 10 Image": {
+    "chunk_ids": [
+      "chunk-355d53d98836023fb3aa20ca11c32b0e"
+    ],
+    "count": 1,
+    "create_time": 1773879941,
+    "update_time": 1773879941,
+    "_id": "CSWP-29 Certification Page 10 Image"
+  },
+  "List of Figures": {
+    "chunk_ids": [
+      "chunk-110c497b4e4b6476affbf75d09757d59",
+      "chunk-b6e7dbcfc5670f79a9245c5d92791573",
+      "chunk-ea4509d09fc0b696632138b9785ecf72"
+    ],
+    "count": 3,
+    "create_time": 1773879941,
+    "update_time": 1773879941,
+    "_id": "List of Figures"
+  },
+  "Community Profile": {
+    "chunk_ids": [
+      "chunk-5fe8375d52689cccf79f112601918c4b",
+      "chunk-e42300356554f95180733e6c9a5e6ad8",
+      "chunk-e6937a0dea6bdccfd0acd899789297fc"
+    ],
+    "count": 3,
+    "update_time": 1773880117,
+    "_id": "Community Profile"
+  },
+  "Organizational Profile": {
+    "chunk_ids": [
+      "chunk-5fe8375d52689cccf79f112601918c4b",
+      "chunk-f698fdece6c3a255ea99377dbea011b6"
+    ],
+    "count": 2,
+    "create_time": 1773879941,
+    "update_time": 1773879941,
+    "_id": "Organizational Profile"
+  },
+  "Fig. 3": {
+    "chunk_ids": [
+      "chunk-5fe8375d52689cccf79f112601918c4b",
+      "chunk-0ada8334c40c41430fa9296968b88ece"
+    ],
+    "count": 2,
+    "update_time": 1773880263,
+    "_id": "Fig. 3"
+  },
+  "Incident Recovery Plan Execution": {
+    "chunk_ids": [
+      "chunk-3d0de3cfb0812e7e673b81664adb026d"
+    ],
+    "count": 1,
+    "create_time": 1773879941,
+    "update_time": 1773879941,
+    "_id": "Incident Recovery Plan Execution"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4",
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 2,
+    "create_time": 1773879941,
+    "update_time": 1773879941,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29"
+  },
+  "The organization risk strategy": {
+    "chunk_ids": [
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4"
+    ],
+    "count": 1,
+    "create_time": 1773879941,
+    "update_time": 1773879941,
+    "_id": "The organization risk strategy"
+  },
+  "NIST<Creature|organization|NaturalObject|Other|Organization": {
+    "chunk_ids": [
+      "chunk-e53e05b54db72f81a1e33fa6ac9c1e19"
+    ],
+    "count": 1,
+    "create_time": 1773879941,
+    "update_time": 1773879941,
+    "_id": "NIST<Creature|organization|NaturalObject|Other|Organization"
+  },
+  "Page 11": {
+    "chunk_ids": [
+      "chunk-40b687f7b9c6aed4085522238850e57e"
+    ],
+    "count": 1,
+    "create_time": 1773879941,
+    "update_time": 1773879941,
+    "_id": "Page 11"
+  },
+  "CSF 2.0": {
+    "chunk_ids": [
+      "chunk-73b24cb66636c88831195301bd0a13fb"
+    ],
+    "count": 1,
+    "create_time": 1773879941,
+    "update_time": 1773879941,
+    "_id": "CSF 2.0"
+  },
+  "Page 1": {
+    "chunk_ids": [
+      "chunk-73b24cb66636c88831195301bd0a13fb"
+    ],
+    "count": 1,
+    "create_time": 1773879941,
+    "update_time": 1773879941,
+    "_id": "Page 1"
+  },
+  "Page 12": {
+    "chunk_ids": [
+      "chunk-f698fdece6c3a255ea99377dbea011b6",
+      "chunk-1a1497d01e433b4c62c0be4ed37b11e3",
+      "chunk-e9e3ee337079a2ad4117c08435d5a020"
+    ],
+    "count": 3,
+    "update_time": 1773880355,
+    "_id": "Page 12"
+  },
+  "Advanced Cybersecurity Technologies": {
+    "chunk_ids": [
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9"
+    ],
+    "count": 1,
+    "create_time": 1773879942,
+    "update_time": 1773879942,
+    "_id": "Advanced Cybersecurity Technologies"
+  },
+  "Organizational Adaptation": {
+    "chunk_ids": [
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9"
+    ],
+    "count": 1,
+    "create_time": 1773879942,
+    "update_time": 1773879942,
+    "_id": "Organizational Adaptation"
+  },
+  "Evolving Threats": {
+    "chunk_ids": [
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9"
+    ],
+    "count": 1,
+    "create_time": 1773879942,
+    "update_time": 1773879942,
+    "_id": "Evolving Threats"
+  },
+  "NIST Cswp 29": {
+    "chunk_ids": [
+      "chunk-1a1497d01e433b4c62c0be4ed37b11e3"
+    ],
+    "count": 1,
+    "create_time": 1773879942,
+    "update_time": 1773879942,
+    "_id": "NIST Cswp 29"
+  },
+  "Partial (Tier 1)": {
+    "chunk_ids": [
+      "chunk-1a1497d01e433b4c62c0be4ed37b11e3"
+    ],
+    "count": 1,
+    "create_time": 1773879942,
+    "update_time": 1773879942,
+    "_id": "Partial (Tier 1)"
+  },
+  "Risk Informed (Tier 2)": {
+    "chunk_ids": [
+      "chunk-1a1497d01e433b4c62c0be4ed37b11e3"
+    ],
+    "count": 1,
+    "create_time": 1773879942,
+    "update_time": 1773879942,
+    "_id": "Risk Informed (Tier 2)"
+  },
+  "Repeatable (Tier 3)": {
+    "chunk_ids": [
+      "chunk-1a1497d01e433b4c62c0be4ed37b11e3"
+    ],
+    "count": 1,
+    "create_time": 1773879942,
+    "update_time": 1773879942,
+    "_id": "Repeatable (Tier 3)"
+  },
+  "Adaptive (Tier 4)": {
+    "chunk_ids": [
+      "chunk-1a1497d01e433b4c62c0be4ed37b11e3"
+    ],
+    "count": 1,
+    "create_time": 1773879942,
+    "update_time": 1773879942,
+    "_id": "Adaptive (Tier 4)"
+  },
+  "Appendix B": {
+    "chunk_ids": [
+      "chunk-1a1497d01e433b4c62c0be4ed37b11e3",
+      "chunk-00f479e9eb2ff034e22aa902245379cf",
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 3,
+    "update_time": 1773880270,
+    "_id": "Appendix B"
+  },
+  "Asset Management (ID.AM)": {
+    "chunk_ids": [
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 1,
+    "create_time": 1773879943,
+    "update_time": 1773879943,
+    "_id": "Asset Management (ID.AM)"
+  },
+  "ID.AM-01": {
+    "chunk_ids": [
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 1,
+    "create_time": 1773879943,
+    "update_time": 1773879943,
+    "_id": "ID.AM-01"
+  },
+  "ID.AM-02": {
+    "chunk_ids": [
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 1,
+    "create_time": 1773879943,
+    "update_time": 1773879943,
+    "_id": "ID.AM-02"
+  },
+  "ID.AM-03": {
+    "chunk_ids": [
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 1,
+    "create_time": 1773879943,
+    "update_time": 1773879943,
+    "_id": "ID.AM-03"
+  },
+  "ID.AM-04": {
+    "chunk_ids": [
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 1,
+    "create_time": 1773879943,
+    "update_time": 1773879943,
+    "_id": "ID.AM-04"
+  },
+  "ID.AM-05": {
+    "chunk_ids": [
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 1,
+    "create_time": 1773879943,
+    "update_time": 1773879943,
+    "_id": "ID.AM-05"
+  },
+  "ID.AM-07": {
+    "chunk_ids": [
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 1,
+    "create_time": 1773879943,
+    "update_time": 1773879943,
+    "_id": "ID.AM-07"
+  },
+  "ID.AM-08": {
+    "chunk_ids": [
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 1,
+    "create_time": 1773879944,
+    "update_time": 1773879944,
+    "_id": "ID.AM-08"
+  },
+  "Risk Assessment (ID.RA)": {
+    "chunk_ids": [
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 1,
+    "create_time": 1773879944,
+    "update_time": 1773879944,
+    "_id": "Risk Assessment (ID.RA)"
+  },
+  "ID.RA-01": {
+    "chunk_ids": [
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 1,
+    "create_time": 1773879944,
+    "update_time": 1773879944,
+    "_id": "ID.RA-01"
+  },
+  "Parsed Assets/NIST.CSWP.29_page_4_img_4.png": {
+    "chunk_ids": [
+      "chunk-ea4509d09fc0b696632138b9785ecf72"
+    ],
+    "count": 1,
+    "create_time": 1773879944,
+    "update_time": 1773879944,
+    "_id": "Parsed Assets/NIST.CSWP.29_page_4_img_4.png"
+  },
+  "Core": {
+    "chunk_ids": [
+      "chunk-a1685ea14462551d4e0ca8c4ebd817b7"
+    ],
+    "count": 1,
+    "create_time": 1773879944,
+    "update_time": 1773879944,
+    "_id": "Core"
+  },
+  "page": {
+    "chunk_ids": [
+      "chunk-a1685ea14462551d4e0ca8c4ebd817b7",
+      "chunk-845403f5258ee6652ecfcfb89ed85f40",
+      "chunk-6bc48c91d9bf95547aba1636fc17956f",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb"
+    ],
+    "count": 4,
+    "update_time": 1773880309,
+    "_id": "page"
+  },
+  "Subcategory": {
+    "chunk_ids": [
+      "chunk-a1685ea14462551d4e0ca8c4ebd817b7"
+    ],
+    "count": 1,
+    "create_time": 1773879944,
+    "update_time": 1773879944,
+    "_id": "Subcategory"
+  },
+  "Control": {
+    "chunk_ids": [
+      "chunk-a1685ea14462551d4e0ca8c4ebd817b7"
+    ],
+    "count": 1,
+    "create_time": 1773879944,
+    "update_time": 1773879944,
+    "_id": "Control"
+  },
+  "SP 800-53": {
+    "chunk_ids": [
+      "chunk-a1685ea14462551d4e0ca8c4ebd817b7",
+      "chunk-5dfe898b208e0b540d94452dbdd95b76"
+    ],
+    "count": 2,
+    "update_time": 1773880333,
+    "_id": "SP 800-53"
+  },
+  "Appendix C": {
+    "chunk_ids": [
+      "chunk-3ae9e3476dacda5dbc0b092eee310a64",
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 2,
+    "update_time": 1773880271,
+    "_id": "Appendix C"
+  },
+  "Kind": {
+    "chunk_ids": [
+      "chunk-4aac65a4923c5272ea41ff8304d7c75d",
+      "chunk-4564cb8a99fed5101a1ffbf03b124246",
+      "chunk-cb4b577ab4ab56fceba946faf29a43fd",
+      "chunk-4893f0b02c584c1055b59d8cddfca8df",
+      "chunk-4b4f557b83cdbcb0aae797dc04ef0cde",
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c",
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202",
+      "chunk-87e6df0c0d226b569e5364963e932ff2",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb",
+      "chunk-0af2b2ff693fc69321fb689063551953",
+      "chunk-cf2f43ae6609115d347760a621948298",
+      "chunk-01aeeeb798b9aab4ffc902eff4bb0950",
+      "chunk-dc3d1352b9f1d69327fd060352c55300",
+      "chunk-d8d714f2f9238839c80286e2a797981a",
+      "chunk-7c597454311510ecdf008379fa792c9d",
+      "chunk-51f93bf2d58b81a5311e2cb2ecaf430d",
+      "chunk-ab39c851397ecf371b7115af2855a908",
+      "chunk-b320a0226c391d26a3f52ad2ed36770f",
+      "chunk-6fd198cb863de8f31f9ae6a2d92b1914",
+      "chunk-827f48355d04a2a9eaac5548458d8e8c",
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6",
+      "chunk-7394049c069819ca015b82ca0e5bf283",
+      "chunk-e142782c0b1f1e12e441bc558839e38e",
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-d595e972f89f1931b8d54930d4b17946",
+      "chunk-6bc48c91d9bf95547aba1636fc17956f",
+      "chunk-09e5ce010011a1c01ac378dc9f7c42dd",
+      "chunk-40942147d12ab66861c4b495682d2956",
+      "chunk-b34a445fab14b4a4b486d155f86027e4",
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5",
+      "chunk-40b687f7b9c6aed4085522238850e57e",
+      "chunk-e234621b7f425933aeb1e42b348c4a32",
+      "chunk-602aa4ccbd230d5cc27c154e57ecd301",
+      "chunk-845403f5258ee6652ecfcfb89ed85f40",
+      "chunk-ccfb59ab3a3f7d4a7eaefaff0db22791",
+      "chunk-ea01d86e7c90396acabcbc9758c9a457",
+      "chunk-02223016f864c217915db457dc244cc1",
+      "chunk-ceb137526967bd0732398451dacbefdf",
+      "chunk-304bdc62134869d004cf1f36e18bcba8",
+      "chunk-b85f1f3296b3a84e2b5e99897e486e55",
+      "chunk-1d9ac9fe725894550271426ef29c312c",
+      "chunk-e53e05b54db72f81a1e33fa6ac9c1e19",
+      "chunk-e42300356554f95180733e6c9a5e6ad8",
+      "chunk-f13c4bf957696002d1910106b96f51e7",
+      "chunk-f7ec5a71104b40f4aee23b0b819defd7",
+      "chunk-110c497b4e4b6476affbf75d09757d59",
+      "chunk-f698fdece6c3a255ea99377dbea011b6",
+      "chunk-cf46d9eb463a9d027228452649d3d4e3",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-0ada8334c40c41430fa9296968b88ece",
+      "chunk-2466c4a13bd6306d3a09498f94e8d834",
+      "chunk-c965943ec6a06c27434a4a334ed22b27",
+      "chunk-53d74513f9b4bf4e857dc587f365cfcf",
+      "chunk-1bd8099546d6ba4f3178525229495d88",
+      "chunk-7e02b7aa698b9c023dac6aead366390a",
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e",
+      "chunk-86583643b07c1568b52f107766c93525",
+      "chunk-3bc458dd28316bb4e7070e39b19c5b38",
+      "chunk-cb91369f464ed519ed771389796ff36c",
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41",
+      "chunk-6c34e6e4f53111e1e0df93b233b83242",
+      "chunk-ec18c1f537afc62ad981842e36062fbd",
+      "chunk-a0af414c8f4b7cd2e2ada0f0299d7b13",
+      "chunk-355d53d98836023fb3aa20ca11c32b0e",
+      "chunk-07520e3378ec637954e3df08cc822bf2",
+      "chunk-b1f524a5c7b8dbc47f938daa19271972"
+    ],
+    "count": 66,
+    "update_time": 1773880349,
+    "_id": "Kind"
+  },
+  "Examples": {
+    "chunk_ids": [
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94"
+    ],
+    "count": 1,
+    "create_time": 1773880097,
+    "update_time": 1773880097,
+    "_id": "Examples"
+  },
+  "Example Verbs": {
+    "chunk_ids": [
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94"
+    ],
+    "count": 1,
+    "create_time": 1773880098,
+    "update_time": 1773880098,
+    "_id": "Example Verbs"
+  },
+  "achieve Outcomes": {
+    "chunk_ids": [
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94"
+    ],
+    "count": 1,
+    "create_time": 1773880098,
+    "update_time": 1773880098,
+    "_id": "achieve Outcomes"
+  },
+  "CSWP 20": {
+    "chunk_ids": [
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94"
+    ],
+    "count": 1,
+    "create_time": 1773880099,
+    "update_time": 1773880099,
+    "_id": "CSWP 20"
+  },
+  "NIST.CSWP.20": {
+    "chunk_ids": [
+      "chunk-1006bc0fb3f33493a9bb69116ebeeb94"
+    ],
+    "count": 1,
+    "create_time": 1773880099,
+    "update_time": 1773880099,
+    "_id": "NIST.CSWP.20"
+  },
+  "Image OCR enabled": {
+    "chunk_ids": [
+      "chunk-e6937a0dea6bdccfd0acd899789297fc",
+      "chunk-cb4b577ab4ab56fceba946faf29a43fd"
+    ],
+    "count": 2,
+    "update_time": 1773880138,
+    "_id": "Image OCR enabled"
+  },
+  "Organizations": {
+    "chunk_ids": [
+      "chunk-e6937a0dea6bdccfd0acd899789297fc"
+    ],
+    "count": 1,
+    "create_time": 1773880118,
+    "update_time": 1773880118,
+    "_id": "Organizations"
+  },
+  "Target Profile": {
+    "chunk_ids": [
+      "chunk-e6937a0dea6bdccfd0acd899789297fc",
+      "chunk-ea18676d1d1af3aabd7f601118711a45",
+      "chunk-1a1497d01e433b4c62c0be4ed37b11e3"
+    ],
+    "count": 3,
+    "update_time": 1773880354,
+    "_id": "Target Profile"
+  },
+  "Header Page 14": {
+    "chunk_ids": [
+      "chunk-6b64acf47e907c74febec8f45419fe1b"
+    ],
+    "count": 1,
+    "create_time": 1773880119,
+    "update_time": 1773880119,
+    "_id": "Header Page 14"
+  },
+  "Kind Text": {
+    "chunk_ids": [
+      "chunk-6b64acf47e907c74febec8f45419fe1b"
+    ],
+    "count": 1,
+    "create_time": 1773880119,
+    "update_time": 1773880119,
+    "_id": "Kind Text"
+  },
+  "email suggestions": {
+    "chunk_ids": [
+      "chunk-6b64acf47e907c74febec8f45419fe1b"
+    ],
+    "count": 1,
+    "create_time": 1773880120,
+    "update_time": 1773880120,
+    "_id": "email suggestions"
+  },
+  "cybersecurity management reference": {
+    "chunk_ids": [
+      "chunk-6b64acf47e907c74febec8f45419fe1b"
+    ],
+    "count": 1,
+    "create_time": 1773880120,
+    "update_time": 1773880120,
+    "_id": "cybersecurity management reference"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-6a3947c70b3ebbaf91b10a9066eeaf10",
+      "chunk-324e7818307e26fab966afee243e2645",
+      "chunk-ab39c851397ecf371b7115af2855a908"
+    ],
+    "count": 3,
+    "update_time": 1773880351,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29"
+  },
+  "image_ocr_enabled: True": {
+    "chunk_ids": [
+      "chunk-6a3947c70b3ebbaf91b10a9066eeaf10",
+      "chunk-324e7818307e26fab966afee243e2645",
+      "chunk-5659a2d45be7952195aa14cef14fb7d0",
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f",
+      "chunk-951a269034b4853c739e0abb73cea1ec",
+      "chunk-d827f9927aa7fbb31b262442c5ae0f4e"
+    ],
+    "count": 6,
+    "update_time": 1773880342,
+    "_id": "image_ocr_enabled: True"
+  },
+  "Taxonomy": {
+    "chunk_ids": [
+      "chunk-e234621b7f425933aeb1e42b348c4a32"
+    ],
+    "count": 1,
+    "create_time": 1773880136,
+    "update_time": 1773880136,
+    "_id": "Taxonomy"
+  },
+  "High-Level Outcomes": {
+    "chunk_ids": [
+      "chunk-e234621b7f425933aeb1e42b348c4a32"
+    ],
+    "count": 1,
+    "create_time": 1773880136,
+    "update_time": 1773880136,
+    "_id": "High-Level Outcomes"
+  },
+  "Functions": {
+    "chunk_ids": [
+      "chunk-e234621b7f425933aeb1e42b348c4a32"
+    ],
+    "count": 1,
+    "create_time": 1773880136,
+    "update_time": 1773880136,
+    "_id": "Functions"
+  },
+  "Categories": {
+    "chunk_ids": [
+      "chunk-e234621b7f425933aeb1e42b348c4a32"
+    ],
+    "count": 1,
+    "create_time": 1773880137,
+    "update_time": 1773880137,
+    "_id": "Categories"
+  },
+  "Subcategories": {
+    "chunk_ids": [
+      "chunk-e234621b7f425933aeb1e42b348c4a32"
+    ],
+    "count": 1,
+    "create_time": 1773880137,
+    "update_time": 1773880137,
+    "_id": "Subcategories"
+  },
+  "NIST.CSF_29_PDF.pdf": {
+    "chunk_ids": [
+      "chunk-cb4b577ab4ab56fceba946faf29a43fd"
+    ],
+    "count": 1,
+    "create_time": 1773880138,
+    "update_time": 1773880138,
+    "_id": "NIST.CSF_29_PDF.pdf"
+  },
+  "Supply Chain Risk Management (SCRM)": {
+    "chunk_ids": [
+      "chunk-3aabc114a079783ccc75385f8a3d0e34"
+    ],
+    "count": 1,
+    "create_time": 1773880138,
+    "update_time": 1773880138,
+    "_id": "Supply Chain Risk Management (SCRM)"
+  },
+  "Cybersecurity SCRM (C-SCRM)": {
+    "chunk_ids": [
+      "chunk-3aabc114a079783ccc75385f8a3d0e34"
+    ],
+    "count": 1,
+    "create_time": 1773880139,
+    "update_time": 1773880139,
+    "_id": "Cybersecurity SCRM (C-SCRM)"
+  },
+  "Outcome Focus: Purely Cybersecurity vs. Supply Chain Management": {
+    "chunk_ids": [
+      "chunk-3aabc114a079783ccc75385f8a3d0e34"
+    ],
+    "count": 1,
+    "create_time": 1773880139,
+    "update_time": 1773880139,
+    "_id": "Outcome Focus: Purely Cybersecurity vs. Supply Chain Management"
+  },
+  "PDF<Data>": {
+    "chunk_ids": [
+      "chunk-86fb78e647fbb8c01867d8ac36fa5c58"
+    ],
+    "count": 1,
+    "create_time": 1773880155,
+    "update_time": 1773880155,
+    "_id": "PDF<Data>"
+  },
+  "Kind<Data>": {
+    "chunk_ids": [
+      "chunk-86fb78e647fbb8c01867d8ac36fa5c58"
+    ],
+    "count": 1,
+    "create_time": 1773880155,
+    "update_time": 1773880155,
+    "_id": "Kind<Data>"
+  },
+  "Location": {
+    "chunk_ids": [
+      "chunk-86fb78e647fbb8c01867d8ac36fa5c58",
+      "chunk-4fa58a4b8ae6497e3096ccd2ed086335"
+    ],
+    "count": 2,
+    "update_time": 1773880339,
+    "_id": "Location"
+  },
+  "process: text": {
+    "chunk_ids": [
+      "chunk-324e7818307e26fab966afee243e2645"
+    ],
+    "count": 1,
+    "create_time": 1773880156,
+    "update_time": 1773880156,
+    "_id": "process: text"
+  },
+  "parser: PyMuPDF": {
+    "chunk_ids": [
+      "chunk-324e7818307e26fab966afee243e2645",
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f",
+      "chunk-5659a2d45be7952195aa14cef14fb7d0",
+      "chunk-951a269034b4853c739e0abb73cea1ec"
+    ],
+    "count": 4,
+    "update_time": 1773880329,
+    "_id": "parser: PyMuPDF"
+  },
+  "Title: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-324e7818307e26fab966afee243e2645"
+    ],
+    "count": 1,
+    "create_time": 1773880157,
+    "update_time": 1773880157,
+    "_id": "Title: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29"
+  },
+  "Process: text": {
+    "chunk_ids": [
+      "chunk-324e7818307e26fab966afee243e2645"
+    ],
+    "count": 1,
+    "create_time": 1773880157,
+    "update_time": 1773880157,
+    "_id": "Process: text"
+  },
+  "Parser: PyMuPDF": {
+    "chunk_ids": [
+      "chunk-324e7818307e26fab966afee243e2645"
+    ],
+    "count": 1,
+    "create_time": 1773880157,
+    "update_time": 1773880157,
+    "_id": "Parser: PyMuPDF"
+  },
+  "Technology Ecosystem": {
+    "chunk_ids": [
+      "chunk-bdcf1715979a7e31cc08a2fbd03306f3"
+    ],
+    "count": 1,
+    "create_time": 1773880157,
+    "update_time": 1773880157,
+    "_id": "Technology Ecosystem"
+  },
+  "Privacy Risk Assessment Methodology (PRAM)": {
+    "chunk_ids": [
+      "chunk-bdcf1715979a7e31cc08a2fbd03306f3"
+    ],
+    "count": 1,
+    "create_time": 1773880157,
+    "update_time": 1773880157,
+    "_id": "Privacy Risk Assessment Methodology (PRAM)"
+  },
+  "Document Processing Methodology": {
+    "chunk_ids": [
+      "chunk-bdcf1715979a7e31cc08a2fbd03306f3"
+    ],
+    "count": 1,
+    "create_time": 1773880158,
+    "update_time": 1773880158,
+    "_id": "Document Processing Methodology"
+  },
+  "used to parse NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-4be9a68c3dc47aaf5018803479dc6e00"
+    ],
+    "count": 1,
+    "create_time": 1773880159,
+    "update_time": 1773880159,
+    "_id": "used to parse NIST.CSWP.29.pdf"
+  },
+  "enabled OCR on the source file": {
+    "chunk_ids": [
+      "chunk-4be9a68c3dc47aaf5018803479dc6e00"
+    ],
+    "count": 1,
+    "create_time": 1773880159,
+    "update_time": 1773880159,
+    "_id": "enabled OCR on the source file"
+  },
+  "Parser": {
+    "chunk_ids": [
+      "chunk-4893f0b02c584c1055b59d8cddfca8df"
+    ],
+    "count": 1,
+    "create_time": 1773880165,
+    "update_time": 1773880165,
+    "_id": "Parser"
+  },
+  "Page 6": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75"
+    ],
+    "count": 1,
+    "create_time": 1773880166,
+    "update_time": 1773880166,
+    "_id": "Page 6"
+  },
+  "CSF Core's Outcomes": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75"
+    ],
+    "count": 1,
+    "create_time": 1773880167,
+    "update_time": 1773880167,
+    "_id": "CSF Core's Outcomes"
+  },
+  "Organizational Profile Templates": {
+    "chunk_ids": [
+      "chunk-ef0c2be3ac1a640a1e4f1a6297267b75"
+    ],
+    "count": 1,
+    "create_time": 1773880167,
+    "update_time": 1773880167,
+    "_id": "Organizational Profile Templates"
+  },
+  "page_18": {
+    "chunk_ids": [
+      "chunk-fb41292c4ded4903f8bc597010d71497"
+    ],
+    "count": 1,
+    "create_time": 1773880178,
+    "update_time": 1773880178,
+    "_id": "page_18"
+  },
+  "image_summary": {
+    "chunk_ids": [
+      "chunk-fb41292c4ded4903f8bc597010d71497",
+      "chunk-c965943ec6a06c27434a4a334ed22b27",
+      "chunk-41db6094ad592f0dccdd54c40a045eeb",
+      "chunk-b6e7dbcfc5670f79a9245c5d92791573",
+      "chunk-40b687f7b9c6aed4085522238850e57e"
+    ],
+    "count": 5,
+    "update_time": 1773880348,
+    "_id": "image_summary"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4": {
+    "chunk_ids": [
+      "chunk-cf46d9eb463a9d027228452649d3d4e3"
+    ],
+    "count": 1,
+    "create_time": 1773880198,
+    "update_time": 1773880198,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 6 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-6d5111c9032a1e5655f2f7c4cc2070ee"
+    ],
+    "count": 1,
+    "create_time": 1773880202,
+    "update_time": 1773880202,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 6 > NIST CSWP 29"
+  },
+  "Understand, Assess, Prioritize, and Communicate Cybersecurity Risks": {
+    "chunk_ids": [
+      "chunk-6d5111c9032a1e5655f2f7c4cc2070ee"
+    ],
+    "count": 1,
+    "create_time": 1773880202,
+    "update_time": 1773880202,
+    "_id": "Understand, Assess, Prioritize, and Communicate Cybersecurity Risks"
+  },
+  "regulation": {
+    "chunk_ids": [
+      "chunk-b73552e0583c94de6a1ae7ce97f9941c"
+    ],
+    "count": 1,
+    "create_time": 1773880203,
+    "update_time": 1773880203,
+    "_id": "regulation"
+  },
+  "Title": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-b5140bbf92d407fa00cfc9038b05bff6"
+    ],
+    "count": 2,
+    "update_time": 1773880333,
+    "_id": "Title"
+  },
+  "RESPOND (RS)": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4",
+      "chunk-d147d5dfbfdf4bd8d26f6d9188fe2f02"
+    ],
+    "count": 2,
+    "update_time": 1773880332,
+    "_id": "RESPOND (RS)"
+  },
+  "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880216,
+    "update_time": 1773880216,
+    "_id": "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)"
+  },
+  "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-01": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880217,
+    "update_time": 1773880217,
+    "_id": "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-01"
+  },
+  "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-02": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880217,
+    "update_time": 1773880217,
+    "_id": "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-02"
+  },
+  "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-03": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880218,
+    "update_time": 1773880218,
+    "_id": "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-03"
+  },
+  "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-04": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880218,
+    "update_time": 1773880218,
+    "_id": "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-04"
+  },
+  "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-05": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880219,
+    "update_time": 1773880219,
+    "_id": "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-05"
+  },
+  "INCIDENT ANALYSIS (RS.AN)": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880219,
+    "update_time": 1773880219,
+    "_id": "INCIDENT ANALYSIS (RS.AN)"
+  },
+  "INCIDENT ANALYSIS (RS.AN)-03": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880219,
+    "update_time": 1773880219,
+    "_id": "INCIDENT ANALYSIS (RS.AN)-03"
+  },
+  "INCIDENT ANALYSIS (RS.AN)-06": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880220,
+    "update_time": 1773880220,
+    "_id": "INCIDENT ANALYSIS (RS.AN)-06"
+  },
+  "INCIDENT ANALYSIS (RS.AN)-07": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880220,
+    "update_time": 1773880220,
+    "_id": "INCIDENT ANALYSIS (RS.AN)-07"
+  },
+  "INCIDENT ANALYSIS (RS.AN)-08": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880220,
+    "update_time": 1773880220,
+    "_id": "INCIDENT ANALYSIS (RS.AN)-08"
+  },
+  "RESPONSE AND COMMUNICATION (RS.CO)": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880221,
+    "update_time": 1773880221,
+    "_id": "RESPONSE AND COMMUNICATION (RS.CO)"
+  },
+  "RESPONSE AND COMMUNICATION (RS.CO)-02": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880221,
+    "update_time": 1773880221,
+    "_id": "RESPONSE AND COMMUNICATION (RS.CO)-02"
+  },
+  "RESPONSE AND COMMUNICATION (RS.CO)-03": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880221,
+    "update_time": 1773880221,
+    "_id": "RESPONSE AND COMMUNICATION (RS.CO)-03"
+  },
+  "INCIDENT MITIGATION (RS.MI)": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880221,
+    "update_time": 1773880221,
+    "_id": "INCIDENT MITIGATION (RS.MI)"
+  },
+  "INCIDENT MITIGATION (RS.MI)-01": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880221,
+    "update_time": 1773880221,
+    "_id": "INCIDENT MITIGATION (RS.MI)-01"
+  },
+  "INCIDENT MITIGATION (RS.MI)-02": {
+    "chunk_ids": [
+      "chunk-ba7b2d86ee394df6f581db52e93726f4"
+    ],
+    "count": 1,
+    "create_time": 1773880221,
+    "update_time": 1773880221,
+    "_id": "INCIDENT MITIGATION (RS.MI)-02"
+  },
+  "path": {
+    "chunk_ids": [
+      "chunk-845403f5258ee6652ecfcfb89ed85f40",
+      "chunk-c965943ec6a06c27434a4a334ed22b27",
+      "chunk-b6e7dbcfc5670f79a9245c5d92791573"
+    ],
+    "count": 3,
+    "update_time": 1773880346,
+    "_id": "path"
+  },
+  "RC.RP": {
+    "chunk_ids": [
+      "chunk-580e95c1b11fd2d0ea198e331b32c67a",
+      "chunk-3d0de3cfb0812e7e673b81664adb026d"
+    ],
+    "count": 2,
+    "update_time": 1773880346,
+    "_id": "RC.RP"
+  },
+  "RC.RP-01": {
+    "chunk_ids": [
+      "chunk-580e95c1b11fd2d0ea198e331b32c67a"
+    ],
+    "count": 1,
+    "create_time": 1773880248,
+    "update_time": 1773880248,
+    "_id": "RC.RP-01"
+  },
+  "AI": {
+    "chunk_ids": [
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202"
+    ],
+    "count": 1,
+    "create_time": 1773880249,
+    "update_time": 1773880249,
+    "_id": "AI"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0": {
+    "chunk_ids": [
+      "chunk-e5e301f0e25e3c41d4681d4c01fb9202",
+      "chunk-a248dcfc17282d26bafbf027f779165f",
+      "chunk-1dc8b3afb371c358a4a849868e65e091"
+    ],
+    "count": 3,
+    "update_time": 1773880331,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0"
+  },
+  "Preparation for Organizational Profiles": {
+    "chunk_ids": [
+      "chunk-9462b7987d4d746e2aac0436a0a4dbdc"
+    ],
+    "count": 1,
+    "create_time": 1773880251,
+    "update_time": 1773880251,
+    "_id": "Preparation for Organizational Profiles"
+  },
+  "Closing Gaps": {
+    "chunk_ids": [
+      "chunk-9462b7987d4d746e2aac0436a0a4dbdc"
+    ],
+    "count": 1,
+    "create_time": 1773880252,
+    "update_time": 1773880252,
+    "_id": "Closing Gaps"
+  },
+  "Information Gathering": {
+    "chunk_ids": [
+      "chunk-9462b7987d4d746e2aac0436a0a4dbdc"
+    ],
+    "count": 1,
+    "create_time": 1773880252,
+    "update_time": 1773880252,
+    "_id": "Information Gathering"
+  },
+  "Preparing to create and use Organizational Profiles": {
+    "chunk_ids": [
+      "chunk-9462b7987d4d746e2aac0436a0a4dbdc"
+    ],
+    "count": 1,
+    "create_time": 1773880252,
+    "update_time": 1773880252,
+    "_id": "Preparing to create and use Organizational Profiles"
+  },
+  "Collaboration with Practitioners": {
+    "chunk_ids": [
+      "chunk-9462b7987d4d746e2aac0436a0a4dbdc"
+    ],
+    "count": 1,
+    "create_time": 1773880253,
+    "update_time": 1773880253,
+    "_id": "Collaboration with Practitioners"
+  },
+  "Risk-Informed Profile Creation": {
+    "chunk_ids": [
+      "chunk-9462b7987d4d746e2aac0436a0a4dbdc"
+    ],
+    "count": 1,
+    "create_time": 1773880253,
+    "update_time": 1773880253,
+    "_id": "Risk-Informed Profile Creation"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 28 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880254,
+    "update_time": 1773880254,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 28 > NIST CSWP 29"
+  },
+  "document_title": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880254,
+    "update_time": 1773880254,
+    "_id": "document_title"
+  },
+  "RC.RP-02: Recovery actions are selected, scoped, prioritized, and performed": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880254,
+    "update_time": 1773880254,
+    "_id": "RC.RP-02: Recovery actions are selected, scoped, prioritized, and performed"
+  },
+  "framework_element": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880254,
+    "update_time": 1773880254,
+    "_id": "framework_element"
+  },
+  "RC.RP-03: The integrity of backups and other restoration assets is verified before using them for restoration": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880254,
+    "update_time": 1773880254,
+    "_id": "RC.RP-03: The integrity of backups and other restoration assets is verified before using them for restoration"
+  },
+  "RC.RP-04: Critical mission functions and cybersecurity risk management are considered to establish post-incident operational norms": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880255,
+    "update_time": 1773880255,
+    "_id": "RC.RP-04: Critical mission functions and cybersecurity risk management are considered to establish post-incident operational norms"
+  },
+  "RC.RP-05: The integrity of restored assets is verified, systems and services are restored, and normal operating status is confirmed": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880255,
+    "update_time": 1773880255,
+    "_id": "RC.RP-05: The integrity of restored assets is verified, systems and services are restored, and normal operating status is confirmed"
+  },
+  "RC.RP-06: The end of incident recovery is declared based on criteria, and incident-related documentation is completed": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880255,
+    "update_time": 1773880255,
+    "_id": "RC.RP-06: The end of incident recovery is declared based on criteria, and incident-related documentation is completed"
+  },
+  "RC.CO-03: Recovery activities and progress in restoring operational capabilities are communicated to designated internal and external stakeholders": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880255,
+    "update_time": 1773880255,
+    "_id": "RC.CO-03: Recovery activities and progress in restoring operational capabilities are communicated to designated internal and external stakeholders"
+  },
+  "RC.CO-04: Public updates on incident recovery are shared using approved methods and messaging": {
+    "chunk_ids": [
+      "chunk-4c6f7bae29996027737c7dc965ea0239"
+    ],
+    "count": 1,
+    "create_time": 1773880255,
+    "update_time": 1773880255,
+    "_id": "RC.CO-04: Public updates on incident recovery are shared using approved methods and messaging"
+  },
+  "prioritized": {
+    "chunk_ids": [
+      "chunk-a248dcfc17282d26bafbf027f779165f"
+    ],
+    "count": 1,
+    "create_time": 1773880256,
+    "update_time": 1773880256,
+    "_id": "prioritized"
+  },
+  "GOVERN Function": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773880256,
+    "update_time": 1773880256,
+    "_id": "GOVERN Function"
+  },
+  "Executive Discussions": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773880256,
+    "update_time": 1773880256,
+    "_id": "Executive Discussions"
+  },
+  "Governance Discussions": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773880257,
+    "update_time": 1773880257,
+    "_id": "Governance Discussions"
+  },
+  "Security Priorities Establishment": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773880257,
+    "update_time": 1773880257,
+    "_id": "Security Priorities Establishment"
+  },
+  "Cybersecurity Risk Management Integration": {
+    "chunk_ids": [
+      "chunk-b5ac88eb3e3961d9905a0f3ea5bf5830"
+    ],
+    "count": 1,
+    "create_time": 1773880257,
+    "update_time": 1773880257,
+    "_id": "Cybersecurity Risk Management Integration"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29": {
+    "chunk_ids": [
+      "chunk-9c5c7e07a24d3b8e7a967c1e2c70db81",
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21"
+    ],
+    "count": 2,
+    "update_time": 1773880328,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29"
+  },
+  "PDF document": {
+    "chunk_ids": [
+      "chunk-59ac33326a4521f610fc2ff4cbfef4a2"
+    ],
+    "count": 1,
+    "create_time": 1773880259,
+    "update_time": 1773880259,
+    "_id": "PDF document"
+  },
+  "Website": {
+    "chunk_ids": [
+      "chunk-59ac33326a4521f610fc2ff4cbfef4a2"
+    ],
+    "count": 1,
+    "create_time": 1773880259,
+    "update_time": 1773880259,
+    "_id": "Website"
+  },
+  "PDF format": {
+    "chunk_ids": [
+      "chunk-59ac33326a4521f610fc2ff4cbfef4a2"
+    ],
+    "count": 1,
+    "create_time": 1773880259,
+    "update_time": 1773880259,
+    "_id": "PDF format"
+  },
+  "Legacy Format": {
+    "chunk_ids": [
+      "chunk-59ac33326a4521f610fc2ff4cbfef4a2"
+    ],
+    "count": 1,
+    "create_time": 1773880259,
+    "update_time": 1773880259,
+    "_id": "Legacy Format"
+  },
+  "document_type: PDF": {
+    "chunk_ids": [
+      "chunk-5659a2d45be7952195aa14cef14fb7d0",
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f"
+    ],
+    "count": 2,
+    "update_time": 1773880343,
+    "_id": "document_type: PDF"
+  },
+  "page_count: 32": {
+    "chunk_ids": [
+      "chunk-5659a2d45be7952195aa14cef14fb7d0",
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f",
+      "chunk-951a269034b4853c739e0abb73cea1ec",
+      "chunk-d827f9927aa7fbb31b262442c5ae0f4e"
+    ],
+    "count": 4,
+    "update_time": 1773880342,
+    "_id": "page_count: 32"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 1": {
+    "chunk_ids": [
+      "chunk-5659a2d45be7952195aa14cef14fb7d0"
+    ],
+    "count": 1,
+    "create_time": 1773880260,
+    "update_time": 1773880260,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 1"
+  },
+  "managers": {
+    "chunk_ids": [
+      "chunk-1d4ee3b9aa47a173ae5b573628fc4788"
+    ],
+    "count": 1,
+    "create_time": 1773880260,
+    "update_time": 1773880260,
+    "_id": "managers"
+  },
+  "managers focus on": {
+    "chunk_ids": [
+      "chunk-1d4ee3b9aa47a173ae5b573628fc4788"
+    ],
+    "count": 1,
+    "create_time": 1773880261,
+    "update_time": 1773880261,
+    "_id": "managers focus on"
+  },
+  "common services and controls": {
+    "chunk_ids": [
+      "chunk-1d4ee3b9aa47a173ae5b573628fc4788"
+    ],
+    "count": 1,
+    "create_time": 1773880261,
+    "update_time": 1773880261,
+    "_id": "common services and controls"
+  },
+  "expressed in the Target Profile": {
+    "chunk_ids": [
+      "chunk-1d4ee3b9aa47a173ae5b573628fc4788"
+    ],
+    "count": 1,
+    "create_time": 1773880261,
+    "update_time": 1773880261,
+    "_id": "expressed in the Target Profile"
+  },
+  "Tier": {
+    "chunk_ids": [
+      "chunk-00f479e9eb2ff034e22aa902245379cf"
+    ],
+    "count": 1,
+    "create_time": 1773880261,
+    "update_time": 1773880261,
+    "_id": "Tier"
+  },
+  "government, academia, and nonprofit organizations": {
+    "chunk_ids": [
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a"
+    ],
+    "count": 1,
+    "create_time": 1773880261,
+    "update_time": 1773880261,
+    "_id": "government, academia, and nonprofit organizations"
+  },
+  "governmental policies and mandates": {
+    "chunk_ids": [
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a"
+    ],
+    "count": 1,
+    "create_time": 1773880262,
+    "update_time": 1773880262,
+    "_id": "governmental policies and mandates"
+  },
+  "country-specific guidelines": {
+    "chunk_ids": [
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a"
+    ],
+    "count": 1,
+    "create_time": 1773880262,
+    "update_time": 1773880262,
+    "_id": "country-specific guidelines"
+  },
+  "other resources": {
+    "chunk_ids": [
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a"
+    ],
+    "count": 1,
+    "create_time": 1773880262,
+    "update_time": 1773880262,
+    "_id": "other resources"
+  },
+  "enterprise-level ICT risk management": {
+    "chunk_ids": [
+      "chunk-0fc3ee5b64dc4bd0233d867af22d889a"
+    ],
+    "count": 1,
+    "create_time": 1773880262,
+    "update_time": 1773880262,
+    "_id": "enterprise-level ICT risk management"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-0ada8334c40c41430fa9296968b88ece"
+    ],
+    "count": 1,
+    "create_time": 1773880262,
+    "update_time": 1773880262,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29"
+  },
+  "Fig. 1": {
+    "chunk_ids": [
+      "chunk-0ada8334c40c41430fa9296968b88ece"
+    ],
+    "count": 1,
+    "create_time": 1773880262,
+    "update_time": 1773880262,
+    "_id": "Fig. 1"
+  },
+  "Fig. 2": {
+    "chunk_ids": [
+      "chunk-0ada8334c40c41430fa9296968b88ece"
+    ],
+    "count": 1,
+    "create_time": 1773880262,
+    "update_time": 1773880262,
+    "_id": "Fig. 2"
+  },
+  "Fig. 4": {
+    "chunk_ids": [
+      "chunk-0ada8334c40c41430fa9296968b88ece"
+    ],
+    "count": 1,
+    "create_time": 1773880263,
+    "update_time": 1773880263,
+    "_id": "Fig. 4"
+  },
+  "NIST CSWP 29 Header": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834"
+    ],
+    "count": 1,
+    "create_time": 1773880264,
+    "update_time": 1773880264,
+    "_id": "NIST CSWP 29 Header"
+  },
+  "NIST CSWP 29 Kind": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834"
+    ],
+    "count": 1,
+    "create_time": 1773880264,
+    "update_time": 1773880264,
+    "_id": "NIST CSWP 29 Kind"
+  },
+  "Practitioners Focus on Implementing Target State": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834"
+    ],
+    "count": 1,
+    "create_time": 1773880264,
+    "update_time": 1773880264,
+    "_id": "Practitioners Focus on Implementing Target State"
+  },
+  "NIST CSWP 29 ICT Risks Mentioned": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834"
+    ],
+    "count": 1,
+    "create_time": 1773880264,
+    "update_time": 1773880264,
+    "_id": "NIST CSWP 29 ICT Risks Mentioned"
+  },
+  "kind of ICT risks": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834"
+    ],
+    "count": 1,
+    "create_time": 1773880264,
+    "update_time": 1773880264,
+    "_id": "kind of ICT risks"
+  },
+  "Other Types of Risk": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834"
+    ],
+    "count": 1,
+    "create_time": 1773880264,
+    "update_time": 1773880264,
+    "_id": "Other Types of Risk"
+  },
+  "NIST CSWP 29 ICT Risks Integration Needed": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834"
+    ],
+    "count": 1,
+    "create_time": 1773880264,
+    "update_time": 1773880264,
+    "_id": "NIST CSWP 29 ICT Risks Integration Needed"
+  },
+  "Other Risk Programs": {
+    "chunk_ids": [
+      "chunk-2466c4a13bd6306d3a09498f94e8d834"
+    ],
+    "count": 1,
+    "create_time": 1773880264,
+    "update_time": 1773880264,
+    "_id": "Other Risk Programs"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 8 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-fa363d8ef99097ed7573a56ea4881f85"
+    ],
+    "count": 1,
+    "create_time": 1773880264,
+    "update_time": 1773880264,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 8 > NIST CSWP 29"
+  },
+  "header": {
+    "chunk_ids": [
+      "chunk-9e11f6b3f6a66a3301eb64bc576725e6",
+      "chunk-cb91369f464ed519ed771389796ff36c"
+    ],
+    "count": 2,
+    "create_time": 1773880265,
+    "update_time": 1773880265,
+    "_id": "header"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 20 > Page 1": {
+    "chunk_ids": [
+      "chunk-c965943ec6a06c27434a4a334ed22b27"
+    ],
+    "count": 1,
+    "create_time": 1773880266,
+    "update_time": 1773880266,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 20 > Page 1"
+  },
+  "Kind: image": {
+    "chunk_ids": [
+      "chunk-c965943ec6a06c27434a4a334ed22b27"
+    ],
+    "count": 1,
+    "create_time": 1773880266,
+    "update_time": 1773880266,
+    "_id": "Kind: image"
+  },
+  "ERM": {
+    "chunk_ids": [
+      "chunk-dba679cd2a87fd4be3fe1a3614ca9bc6"
+    ],
+    "count": 1,
+    "create_time": 1773880266,
+    "update_time": 1773880266,
+    "_id": "ERM"
+  },
+  "ICT_integration": {
+    "chunk_ids": [
+      "chunk-dba679cd2a87fd4be3fe1a3614ca9bc6"
+    ],
+    "count": 1,
+    "create_time": 1773880266,
+    "update_time": 1773880266,
+    "_id": "ICT_integration"
+  },
+  "page_16": {
+    "chunk_ids": [
+      "chunk-dba679cd2a87fd4be3fe1a3614ca9bc6"
+    ],
+    "count": 1,
+    "create_time": 1773880267,
+    "update_time": 1773880267,
+    "_id": "page_16"
+  },
+  "Section 2": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880268,
+    "update_time": 1773880268,
+    "_id": "Section 2"
+  },
+  "Section 3": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880269,
+    "update_time": 1773880269,
+    "_id": "Section 3"
+  },
+  "Section 4": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880269,
+    "update_time": 1773880269,
+    "_id": "Section 4"
+  },
+  "Section 5": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880270,
+    "update_time": 1773880270,
+    "_id": "Section 5"
+  },
+  "Appendix A": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880270,
+    "update_time": 1773880270,
+    "_id": "Appendix A"
+  },
+  "Source File: NIST.CSWP.29.pdf": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880271,
+    "update_time": 1773880271,
+    "_id": "Source File: NIST.CSWP.29.pdf"
+  },
+  "Document Type: PDF": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880271,
+    "update_time": 1773880271,
+    "_id": "Document Type: PDF"
+  },
+  "Image OCR Enabled: True": {
+    "chunk_ids": [
+      "chunk-b02aab9d01ec97358b87ff349bbe6c7a"
+    ],
+    "count": 1,
+    "create_time": 1773880273,
+    "update_time": 1773880273,
+    "_id": "Image OCR Enabled: True"
+  },
+  "CSW.P.29": {
+    "chunk_ids": [
+      "chunk-6bc48c91d9bf95547aba1636fc17956f"
+    ],
+    "count": 1,
+    "create_time": 1773880273,
+    "update_time": 1773880273,
+    "_id": "CSW.P.29"
+  },
+  "Source_file": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880274,
+    "update_time": 1773880274,
+    "_id": "Source_file"
+  },
+  "Document_type": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880275,
+    "update_time": 1773880275,
+    "_id": "Document_type"
+  },
+  "Image_OCR_enabled": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880275,
+    "update_time": 1773880275,
+    "_id": "Image_OCR_enabled"
+  },
+  "National Institute of Standards and Technology (2024)": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880275,
+    "update_time": 1773880275,
+    "_id": "National Institute of Standards and Technology (2024)"
+  },
+  "Publication_date": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880275,
+    "update_time": 1773880275,
+    "_id": "Publication_date"
+  },
+  "National_Institute_of_Standards_and_Technology (2024)": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880275,
+    "update_time": 1773880275,
+    "_id": "National_Institute_of_Standards_and_Technology (2024)"
+  },
+  "Document_reference": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880275,
+    "update_time": 1773880275,
+    "_id": "Document_reference"
+  },
+  "Parser_type": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880276,
+    "update_time": 1773880276,
+    "_id": "Parser_type"
+  },
+  "doi:10.6028/NIST.CSWP.29": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880276,
+    "update_time": 1773880276,
+    "_id": "doi:10.6028/NIST.CSWP.29"
+  },
+  "pyMuPDF": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880276,
+    "update_time": 1773880276,
+    "_id": "pyMuPDF"
+  },
+  "Page_source": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880276,
+    "update_time": 1773880276,
+    "_id": "Page_source"
+  },
+  "Page_number": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880300,
+    "update_time": 1773880300,
+    "_id": "Page_number"
+  },
+  "Page_OCR_enabled": {
+    "chunk_ids": [
+      "chunk-4dd323a57a5e201dbbabc38ad150d0a1"
+    ],
+    "count": 1,
+    "create_time": 1773880301,
+    "update_time": 1773880301,
+    "_id": "Page_OCR_enabled"
+  },
+  "page_29": {
+    "chunk_ids": [
+      "chunk-02223016f864c217915db457dc244cc1"
+    ],
+    "count": 1,
+    "create_time": 1773880308,
+    "update_time": 1773880308,
+    "_id": "page_29"
+  },
+  "page_8_img_1.png": {
+    "chunk_ids": [
+      "chunk-41db6094ad592f0dccdd54c40a045eeb"
+    ],
+    "count": 1,
+    "create_time": 1773880309,
+    "update_time": 1773880309,
+    "_id": "page_8_img_1.png"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-56f1498ba6ce64eefdb5e139e2a93c31",
+      "chunk-03314f72fe084c6cbbb45e9c54ba4d79",
+      "chunk-ec18c1f537afc62ad981842e36062fbd",
+      "chunk-dc3d1352b9f1d69327fd060352c55300",
+      "chunk-3d0de3cfb0812e7e673b81664adb026d"
+    ],
+    "count": 5,
+    "update_time": 1773880346,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29"
+  },
+  "cybersecurity information": {
+    "chunk_ids": [
+      "chunk-86583643b07c1568b52f107766c93525"
+    ],
+    "count": 1,
+    "create_time": 1773880310,
+    "update_time": 1773880310,
+    "_id": "cybersecurity information"
+  },
+  "organization may not have processes that enable": {
+    "chunk_ids": [
+      "chunk-86583643b07c1568b52f107766c93525"
+    ],
+    "count": 1,
+    "create_time": 1773880310,
+    "update_time": 1773880310,
+    "_id": "organization may not have processes that enable"
+  },
+  "cybersecurity": {
+    "chunk_ids": [
+      "chunk-86583643b07c1568b52f107766c93525"
+    ],
+    "count": 1,
+    "create_time": 1773880318,
+    "update_time": 1773880318,
+    "_id": "cybersecurity"
+  },
+  "to be shared within the organization.": {
+    "chunk_ids": [
+      "chunk-86583643b07c1568b52f107766c93525"
+    ],
+    "count": 1,
+    "create_time": 1773880318,
+    "update_time": 1773880318,
+    "_id": "to be shared within the organization."
+  },
+  "All comments are subject to release under the Freedom of Information Act (FOIA)": {
+    "chunk_ids": [
+      "chunk-1bd8099546d6ba4f3178525229495d88"
+    ],
+    "count": 1,
+    "create_time": 1773880320,
+    "update_time": 1773880320,
+    "_id": "All comments are subject to release under the Freedom of Information Act (FOIA)"
+  },
+  "FOIA_accessibility": {
+    "chunk_ids": [
+      "chunk-1bd8099546d6ba4f3178525229495d88"
+    ],
+    "count": 1,
+    "create_time": 1773880320,
+    "update_time": 1773880320,
+    "_id": "FOIA_accessibility"
+  },
+  "format": {
+    "chunk_ids": [
+      "chunk-1bd8099546d6ba4f3178525229495d88"
+    ],
+    "count": 1,
+    "create_time": 1773880320,
+    "update_time": 1773880320,
+    "_id": "format"
+  },
+  "OCR_enabled": {
+    "chunk_ids": [
+      "chunk-1bd8099546d6ba4f3178525229495d88"
+    ],
+    "count": 1,
+    "create_time": 1773880321,
+    "update_time": 1773880321,
+    "_id": "OCR_enabled"
+  },
+  "cybersecurity risks association": {
+    "chunk_ids": [
+      "chunk-0af2b2ff693fc69321fb689063551953"
+    ],
+    "count": 1,
+    "create_time": 1773880321,
+    "update_time": 1773880321,
+    "_id": "cybersecurity risks association"
+  },
+  "DETECT (DE)": {
+    "chunk_ids": [
+      "chunk-c4669401a25e46edf555bbf250bc4127"
+    ],
+    "count": 1,
+    "create_time": 1773880324,
+    "update_time": 1773880324,
+    "_id": "DETECT (DE)"
+  },
+  "Function: DETECT (DE)": {
+    "chunk_ids": [
+      "chunk-c4669401a25e46edf555bbf250bc4127"
+    ],
+    "count": 1,
+    "create_time": 1773880324,
+    "update_time": 1773880324,
+    "_id": "Function: DETECT (DE)"
+  },
+  "NIST C.SWP.29": {
+    "chunk_ids": [
+      "chunk-4bef1521e74775fe8d5345e4a9c44136"
+    ],
+    "count": 1,
+    "create_time": 1773880326,
+    "update_time": 1773880326,
+    "_id": "NIST C.SWP.29"
+  },
+  "Observable Universe": {
+    "chunk_ids": [
+      "chunk-c4669401a25e46edf555bbf250bc4127"
+    ],
+    "count": 1,
+    "create_time": 1773880326,
+    "update_time": 1773880326,
+    "_id": "Observable Universe"
+  },
+  "Asset Management": {
+    "chunk_ids": [
+      "chunk-4bef1521e74775fe8d5345e4a9c44136"
+    ],
+    "count": 1,
+    "create_time": 1773880327,
+    "update_time": 1773880327,
+    "_id": "Asset Management"
+  },
+  "ID.AM": {
+    "chunk_ids": [
+      "chunk-4bef1521e74775fe8d5345e4a9c44136"
+    ],
+    "count": 1,
+    "create_time": 1773880327,
+    "update_time": 1773880327,
+    "_id": "ID.AM"
+  },
+  "IR 8286A": {
+    "chunk_ids": [
+      "chunk-ceb137526967bd0732398451dacbefdf"
+    ],
+    "count": 1,
+    "create_time": 1773880327,
+    "update_time": 1773880327,
+    "_id": "IR 8286A"
+  },
+  "IR 8286B": {
+    "chunk_ids": [
+      "chunk-ceb137526967bd0732398451dacbefdf"
+    ],
+    "count": 1,
+    "create_time": 1773880327,
+    "update_time": 1773880327,
+    "_id": "IR 8286B"
+  },
+  "IR 8286C": {
+    "chunk_ids": [
+      "chunk-ceb137526967bd0732398451dacbefdf"
+    ],
+    "count": 1,
+    "create_time": 1773880328,
+    "update_time": 1773880328,
+    "_id": "IR 8286C"
+  },
+  "management approval": {
+    "chunk_ids": [
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21"
+    ],
+    "count": 1,
+    "create_time": 1773880328,
+    "update_time": 1773880328,
+    "_id": "management approval"
+  },
+  "risk management practices approval": {
+    "chunk_ids": [
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21"
+    ],
+    "count": 1,
+    "create_time": 1773880328,
+    "update_time": 1773880328,
+    "_id": "risk management practices approval"
+  },
+  "management_approval": {
+    "chunk_ids": [
+      "chunk-935c10fdfa34dde95aa7737c7e0e8c21"
+    ],
+    "count": 1,
+    "create_time": 1773880328,
+    "update_time": 1773880328,
+    "_id": "management_approval"
+  },
+  "improvement opportunities": {
+    "chunk_ids": [
+      "chunk-3170620e5eb165738cb05be72d4b8b50"
+    ],
+    "count": 1,
+    "create_time": 1773880328,
+    "update_time": 1773880328,
+    "_id": "improvement opportunities"
+  },
+  "NIST Cybersecurity Framework (PR)": {
+    "chunk_ids": [
+      "chunk-3170620e5eb165738cb05be72d4b8b50"
+    ],
+    "count": 1,
+    "create_time": 1773880329,
+    "update_time": 1773880329,
+    "_id": "NIST Cybersecurity Framework (PR)"
+  },
+  "PROTECT Function": {
+    "chunk_ids": [
+      "chunk-3170620e5eb165738cb05be72d4b8b50"
+    ],
+    "count": 1,
+    "create_time": 1773880329,
+    "update_time": 1773880329,
+    "_id": "PROTECT Function"
+  },
+  "The Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 17 > NIST CSWP 29 > Oversight": {
+    "chunk_ids": [
+      "chunk-cb91369f464ed519ed771389796ff36c"
+    ],
+    "count": 1,
+    "create_time": 1773880329,
+    "update_time": 1773880329,
+    "_id": "The Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 17 > NIST CSWP 29 > Oversight"
+  },
+  "Kind::text": {
+    "chunk_ids": [
+      "chunk-cb91369f464ed519ed771389796ff36c"
+    ],
+    "count": 1,
+    "create_time": 1773880330,
+    "update_time": 1773880330,
+    "_id": "Kind::text"
+  },
+  "NIR 8286D": {
+    "chunk_ids": [
+      "chunk-cb91369f464ed519ed771389796ff36c"
+    ],
+    "count": 1,
+    "create_time": 1773880330,
+    "update_time": 1773880330,
+    "_id": "NIR 8286D"
+  },
+  "document_usage": {
+    "chunk_ids": [
+      "chunk-cb91369f464ed519ed771389796ff36c"
+    ],
+    "count": 1,
+    "create_time": 1773880330,
+    "update_time": 1773880330,
+    "_id": "document_usage"
+  },
+  "activities and protection needs": {
+    "chunk_ids": [
+      "chunk-3d6779a3859e0dd92a32b8ad4c053249"
+    ],
+    "count": 1,
+    "create_time": 1773880330,
+    "update_time": 1773880330,
+    "_id": "activities and protection needs"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29 > NIST CSWP 29 > The prioritization of cybersecurity": {
+    "chunk_ids": [
+      "chunk-3d6779a3859e0dd92a32b8ad4c053249"
+    ],
+    "count": 1,
+    "create_time": 1773880331,
+    "update_time": 1773880331,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29 > NIST CSWP 29 > The prioritization of cybersecurity"
+  },
+  "DETTECT Function": {
+    "chunk_ids": [
+      "chunk-f5350205eff95686e2d7e508eaad3d46"
+    ],
+    "count": 1,
+    "create_time": 1773880331,
+    "update_time": 1773880331,
+    "_id": "DETTECT Function"
+  },
+  "RESPOND Function": {
+    "chunk_ids": [
+      "chunk-f5350205eff95686e2d7e508eaad3d46"
+    ],
+    "count": 1,
+    "create_time": 1773880331,
+    "update_time": 1773880331,
+    "_id": "RESPOND Function"
+  },
+  "RECOVER Function": {
+    "chunk_ids": [
+      "chunk-f5350205eff95686e2d7e508eaad3d46"
+    ],
+    "count": 1,
+    "create_time": 1773880331,
+    "update_time": 1773880331,
+    "_id": "RECOVER Function"
+  },
+  "DETECT": {
+    "chunk_ids": [
+      "chunk-d147d5dfbfdf4bd8d26f6d9188fe2f02"
+    ],
+    "count": 1,
+    "create_time": 1773880332,
+    "update_time": 1773880332,
+    "_id": "DETECT"
+  },
+  "organizational_level": {
+    "chunk_ids": [
+      "chunk-1dc8b3afb371c358a4a849868e65e091"
+    ],
+    "count": 1,
+    "create_time": 1773880332,
+    "update_time": 1773880332,
+    "_id": "organizational_level"
+  },
+  "RESPOND": {
+    "chunk_ids": [
+      "chunk-d147d5dfbfdf4bd8d26f6d9188fe2f02"
+    ],
+    "count": 1,
+    "create_time": 1773880332,
+    "update_time": 1773880332,
+    "_id": "RESPOND"
+  },
+  "RECOVER": {
+    "chunk_ids": [
+      "chunk-d147d5dfbfdf4bd8d26f6d9188fe2f02"
+    ],
+    "count": 1,
+    "create_time": 1773880332,
+    "update_time": 1773880332,
+    "_id": "RECOVER"
+  },
+  "objectives and programs": {
+    "chunk_ids": [
+      "chunk-2ed19a7b79b8df489f094aebeaf9f831"
+    ],
+    "count": 1,
+    "create_time": 1773880333,
+    "update_time": 1773880333,
+    "_id": "objectives and programs"
+  },
+  "external assets": {
+    "chunk_ids": [
+      "chunk-2ed19a7b79b8df489f094aebeaf9f831"
+    ],
+    "count": 1,
+    "create_time": 1773880333,
+    "update_time": 1773880333,
+    "_id": "external assets"
+  },
+  "reoccurring assessments": {
+    "chunk_ids": [
+      "chunk-2ed19a7b79b8df489f094aebeaf9f831"
+    ],
+    "count": 1,
+    "create_time": 1773880333,
+    "update_time": 1773880333,
+    "_id": "reoccurring assessments"
+  },
+  "Figure 2": {
+    "chunk_ids": [
+      "chunk-25eb93c68ce1a37ae6e09b271db64dc9"
+    ],
+    "count": 1,
+    "create_time": 1773880334,
+    "update_time": 1773880334,
+    "_id": "Figure 2"
+  },
+  "Document_Type": {
+    "chunk_ids": [
+      "chunk-4c8948137c854edf2aec93f9cab81db1"
+    ],
+    "count": 1,
+    "create_time": 1773880334,
+    "update_time": 1773880334,
+    "_id": "Document_Type"
+  },
+  "Page_Count": {
+    "chunk_ids": [
+      "chunk-4c8948137c854edf2aec93f9cab81db1"
+    ],
+    "count": 1,
+    "create_time": 1773880334,
+    "update_time": 1773880334,
+    "_id": "Page_Count"
+  },
+  "Image_OCR_Engagement": {
+    "chunk_ids": [
+      "chunk-4c8948137c854edf2aec93f9cab81db1"
+    ],
+    "count": 1,
+    "create_time": 1773880335,
+    "update_time": 1773880335,
+    "_id": "Image_OCR_Engagement"
+  },
+  "Header_Reference": {
+    "chunk_ids": [
+      "chunk-4c8948137c854edf2aec93f9cab81db1"
+    ],
+    "count": 1,
+    "create_time": 1773880335,
+    "update_time": 1773880335,
+    "_id": "Header_Reference"
+  },
+  "organization": {
+    "chunk_ids": [
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41"
+    ],
+    "count": 1,
+    "create_time": 1773880335,
+    "update_time": 1773880335,
+    "_id": "organization"
+  },
+  "suppliers": {
+    "chunk_ids": [
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41"
+    ],
+    "count": 1,
+    "create_time": 1773880335,
+    "update_time": 1773880335,
+    "_id": "suppliers"
+  },
+  "acquisition process": {
+    "chunk_ids": [
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41"
+    ],
+    "count": 1,
+    "create_time": 1773880335,
+    "update_time": 1773880335,
+    "_id": "acquisition process"
+  },
+  "associated with its suppliers and the products and services it acquires and uses": {
+    "chunk_ids": [
+      "chunk-9729c8c1d6541456d51571ac5dbf3d41"
+    ],
+    "count": 1,
+    "create_time": 1773880336,
+    "update_time": 1773880336,
+    "_id": "associated with its suppliers and the products and services it acquires and uses"
+  },
+  "Fig. 2. CSF Functions": {
+    "chunk_ids": [
+      "chunk-7a3e9f59ce00e66857aaef789613c67b"
+    ],
+    "count": 1,
+    "create_time": 1773880337,
+    "update_time": 1773880337,
+    "_id": "Fig. 2. CSF Functions"
+  },
+  "Each Function": {
+    "chunk_ids": [
+      "chunk-7a3e9f59ce00e66857aaef789613c67b"
+    ],
+    "count": 1,
+    "create_time": 1773880337,
+    "update_time": 1773880337,
+    "_id": "Each Function"
+  },
+  "document content": {
+    "chunk_ids": [
+      "chunk-7a3e9f59ce00e66857aaef789613c67b"
+    ],
+    "count": 1,
+    "create_time": 1773880337,
+    "update_time": 1773880337,
+    "_id": "document content"
+  },
+  "name": {
+    "chunk_ids": [
+      "chunk-7a3e9f59ce00e66857aaef789613c67b"
+    ],
+    "count": 1,
+    "create_time": 1773880337,
+    "update_time": 1773880337,
+    "_id": "name"
+  },
+  "PR.PS": {
+    "chunk_ids": [
+      "chunk-b34a445fab14b4a4b486d155f86027e4"
+    ],
+    "count": 1,
+    "create_time": 1773880337,
+    "update_time": 1773880337,
+    "_id": "PR.PS"
+  },
+  "data breach": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880338,
+    "update_time": 1773880338,
+    "_id": "data breach"
+  },
+  "Privacy Risks": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880338,
+    "update_time": 1773880338,
+    "_id": "Privacy Risks"
+  },
+  "privacy risks": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880338,
+    "update_time": 1773880338,
+    "_id": "privacy risks"
+  },
+  "confidentiality": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880338,
+    "update_time": 1773880338,
+    "_id": "confidentiality"
+  },
+  "integrity": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880338,
+    "update_time": 1773880338,
+    "_id": "integrity"
+  },
+  "availability": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880338,
+    "update_time": 1773880338,
+    "_id": "availability"
+  },
+  "identity theft": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880338,
+    "update_time": 1773880338,
+    "_id": "identity theft"
+  },
+  "data loss": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880339,
+    "update_time": 1773880339,
+    "_id": "data loss"
+  },
+  "system disruption": {
+    "chunk_ids": [
+      "chunk-e1f73b34e292a88a9bf8a1f4c05da731"
+    ],
+    "count": 1,
+    "create_time": 1773880339,
+    "update_time": 1773880339,
+    "_id": "system disruption"
+  },
+  "data_processing": {
+    "chunk_ids": [
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e"
+    ],
+    "count": 1,
+    "create_time": 1773880339,
+    "update_time": 1773880339,
+    "_id": "data_processing"
+  },
+  "dignity_type_effects": {
+    "chunk_ids": [
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e"
+    ],
+    "count": 1,
+    "create_time": 1773880339,
+    "update_time": 1773880339,
+    "_id": "dignity_type_effects"
+  },
+  "privacy_events": {
+    "chunk_ids": [
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e"
+    ],
+    "count": 1,
+    "create_time": 1773880339,
+    "update_time": 1773880339,
+    "_id": "privacy_events"
+  },
+  "tangible_harms": {
+    "chunk_ids": [
+      "chunk-53d2c96376b3ade38af88a24dd1c8d3e"
+    ],
+    "count": 1,
+    "create_time": 1773880340,
+    "update_time": 1773880340,
+    "_id": "tangible_harms"
+  },
+  "DE.CM": {
+    "chunk_ids": [
+      "chunk-6c34e6e4f53111e1e0df93b233b83242"
+    ],
+    "count": 1,
+    "create_time": 1773880340,
+    "update_time": 1773880340,
+    "_id": "DE.CM"
+  },
+  "organizational cybersecurity practices": {
+    "chunk_ids": [
+      "chunk-326fc9fc709f7b8db1a373ea928e6d23"
+    ],
+    "count": 1,
+    "create_time": 1773880340,
+    "update_time": 1773880340,
+    "_id": "organizational cybersecurity practices"
+  },
+  "Current Profile": {
+    "chunk_ids": [
+      "chunk-ea18676d1d1af3aabd7f601118711a45",
+      "chunk-1a1497d01e433b4c62c0be4ed37b11e3"
+    ],
+    "count": 2,
+    "update_time": 1773880354,
+    "_id": "Current Profile"
+  },
+  "Profile Type": {
+    "chunk_ids": [
+      "chunk-ea18676d1d1af3aabd7f601118711a45"
+    ],
+    "count": 1,
+    "create_time": 1773880340,
+    "update_time": 1773880340,
+    "_id": "Profile Type"
+  },
+  "Core Outcomes": {
+    "chunk_ids": [
+      "chunk-ea18676d1d1af3aabd7f601118711a45"
+    ],
+    "count": 1,
+    "create_time": 1773880341,
+    "update_time": 1773880341,
+    "_id": "Core Outcomes"
+  },
+  "Desired Outcomes": {
+    "chunk_ids": [
+      "chunk-ea18676d1d1af3aabd7f601118711a45"
+    ],
+    "count": 1,
+    "create_time": 1773880341,
+    "update_time": 1773880341,
+    "_id": "Desired Outcomes"
+  },
+  "DE.AE": {
+    "chunk_ids": [
+      "chunk-ec18c1f537afc62ad981842e36062fbd"
+    ],
+    "count": 1,
+    "create_time": 1773880341,
+    "update_time": 1773880341,
+    "_id": "DE.AE"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-d827f9927aa7fbb31b262442c5ae0f4e"
+    ],
+    "count": 1,
+    "create_time": 1773880342,
+    "update_time": 1773880342,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2 > NIST CSWP 29"
+  },
+  "title: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2": {
+    "chunk_ids": [
+      "chunk-d827f9927aa7fbb31b262442c5ae0f4e"
+    ],
+    "count": 1,
+    "create_time": 1773880342,
+    "update_time": 1773880342,
+    "_id": "title: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-b0d420b959e87d461560a9c0e18c5b9f"
+    ],
+    "count": 1,
+    "create_time": 1773880342,
+    "update_time": 1773880342,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2": {
+    "chunk_ids": [
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5"
+    ],
+    "count": 1,
+    "create_time": 1773880344,
+    "update_time": 1773880344,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2"
+  },
+  "cyberframework@nist.gov": {
+    "chunk_ids": [
+      "chunk-f30c6b17055366ece55bbe7e8a50f9d5"
+    ],
+    "count": 1,
+    "create_time": 1773880344,
+    "update_time": 1773880344,
+    "_id": "cyberframework@nist.gov"
+  },
+  "Header: text": {
+    "chunk_ids": [
+      "chunk-a51ce8efe7fb626ad33e30bcecf33e03"
+    ],
+    "count": 1,
+    "create_time": 1773880344,
+    "update_time": 1773880344,
+    "_id": "Header: text"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 3 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-9f4c79c195ee275405e879e10588c0c8"
+    ],
+    "count": 1,
+    "create_time": 1773880344,
+    "update_time": 1773880344,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 3 > NIST CSWP 29"
+  },
+  "to changes in risk.": {
+    "chunk_ids": [
+      "chunk-a51ce8efe7fb626ad33e30bcecf33e03"
+    ],
+    "count": 1,
+    "create_time": 1773880344,
+    "update_time": 1773880344,
+    "_id": "to changes in risk."
+  },
+  "the NIST Cybersecurity Framework (CSF)": {
+    "chunk_ids": [
+      "chunk-3ed7183dd79953837ed2e625c7bb3d7d"
+    ],
+    "count": 1,
+    "create_time": 1773880344,
+    "update_time": 1773880344,
+    "_id": "the NIST Cybersecurity Framework (CSF)"
+  },
+  "Image Summary": {
+    "chunk_ids": [
+      "chunk-355d53d98836023fb3aa20ca11c32b0e"
+    ],
+    "count": 1,
+    "create_time": 1773880345,
+    "update_time": 1773880345,
+    "_id": "Image Summary"
+  },
+  "Page 10": {
+    "chunk_ids": [
+      "chunk-355d53d98836023fb3aa20ca11c32b0e"
+    ],
+    "count": 1,
+    "create_time": 1773880345,
+    "update_time": 1773880345,
+    "_id": "Page 10"
+  },
+  "NIST.CSWP.29_page_10_img_1.png": {
+    "chunk_ids": [
+      "chunk-355d53d98836023fb3aa20ca11c32b0e"
+    ],
+    "count": 1,
+    "create_time": 1773880345,
+    "update_time": 1773880345,
+    "_id": "NIST.CSWP.29_page_10_img_1.png"
+  },
+  "image path": {
+    "chunk_ids": [
+      "chunk-355d53d98836023fb3aa20ca11c32b0e"
+    ],
+    "count": 1,
+    "create_time": 1773880345,
+    "update_time": 1773880345,
+    "_id": "image path"
+  },
+  "OCR Text: Cybersecurity G &": {
+    "chunk_ids": [
+      "chunk-355d53d98836023fb3aa20ca11c32b0e"
+    ],
+    "count": 1,
+    "create_time": 1773880345,
+    "update_time": 1773880345,
+    "_id": "OCR Text: Cybersecurity G &"
+  },
+  "kind": {
+    "chunk_ids": [
+      "chunk-3d0de3cfb0812e7e673b81664adb026d",
+      "chunk-b1f524a5c7b8dbc47f938daa19271972"
+    ],
+    "count": 2,
+    "update_time": 1773880350,
+    "_id": "kind"
+  },
+  "Quick Start Guides": {
+    "chunk_ids": [
+      "chunk-07520e3378ec637954e3df08cc822bf2"
+    ],
+    "count": 1,
+    "create_time": 1773880347,
+    "update_time": 1773880347,
+    "_id": "Quick Start Guides"
+  },
+  "cybersecurity risks associated with suppliers and products/services": {
+    "chunk_ids": [
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4"
+    ],
+    "count": 1,
+    "create_time": 1773880347,
+    "update_time": 1773880347,
+    "_id": "cybersecurity risks associated with suppliers and products/services"
+  },
+  "Personnel formally acting on the risks": {
+    "chunk_ids": [
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4"
+    ],
+    "count": 1,
+    "create_time": 1773880347,
+    "update_time": 1773880347,
+    "_id": "Personnel formally acting on the risks"
+  },
+  "the organization risk strategy": {
+    "chunk_ids": [
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4"
+    ],
+    "count": 1,
+    "create_time": 1773880347,
+    "update_time": 1773880347,
+    "_id": "the organization risk strategy"
+  },
+  "written agreements to communicate baseline requirements": {
+    "chunk_ids": [
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4"
+    ],
+    "count": 1,
+    "create_time": 1773880347,
+    "update_time": 1773880347,
+    "_id": "written agreements to communicate baseline requirements"
+  },
+  "governance structures (e.g., risk councils)": {
+    "chunk_ids": [
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4"
+    ],
+    "count": 1,
+    "create_time": 1773880347,
+    "update_time": 1773880347,
+    "_id": "governance structures (e.g., risk councils)"
+  },
+  "policy implementation and monitoring": {
+    "chunk_ids": [
+      "chunk-dfb3a7d4b32d998ffb32b71d4d518ed4"
+    ],
+    "count": 1,
+    "create_time": 1773880348,
+    "update_time": 1773880348,
+    "_id": "policy implementation and monitoring"
+  },
+  "Incident Recovery Communication": {
+    "chunk_ids": [
+      "chunk-e53e05b54db72f81a1e33fa6ac9c1e19"
+    ],
+    "count": 1,
+    "create_time": 1773880348,
+    "update_time": 1773880348,
+    "_id": "Incident Recovery Communication"
+  },
+  "Image OCR": {
+    "chunk_ids": [
+      "chunk-73b24cb66636c88831195301bd0a13fb"
+    ],
+    "count": 1,
+    "create_time": 1773880348,
+    "update_time": 1773880348,
+    "_id": "Image OCR"
+  },
+  "Introduction to Online Resources That Supplement the CSF": {
+    "chunk_ids": [
+      "chunk-8748963043426f14c1527712ec159b5e"
+    ],
+    "count": 1,
+    "create_time": 1773880349,
+    "update_time": 1773880349,
+    "_id": "Introduction to Online Resources That Supplement the CSF"
+  },
+  "Page 30": {
+    "chunk_ids": [
+      "chunk-b1f524a5c7b8dbc47f938daa19271972"
+    ],
+    "count": 1,
+    "create_time": 1773880349,
+    "update_time": 1773880349,
+    "_id": "Page 30"
+  },
+  "reference date, February 26, 2024": {
+    "chunk_ids": [
+      "chunk-3c43d68ed955fe5d7c6f31a375e45322"
+    ],
+    "count": 1,
+    "create_time": 1773880350,
+    "update_time": 1773880350,
+    "_id": "reference date, February 26, 2024"
+  },
+  "Cybersecurity Risk Management": {
+    "chunk_ids": [
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 1,
+    "create_time": 1773880350,
+    "update_time": 1773880350,
+    "_id": "Cybersecurity Risk Management"
+  },
+  "Organizational Culture": {
+    "chunk_ids": [
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 1,
+    "create_time": 1773880351,
+    "update_time": 1773880351,
+    "_id": "Organizational Culture"
+  },
+  "Organizational Systems and Networks": {
+    "chunk_ids": [
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 1,
+    "create_time": 1773880351,
+    "update_time": 1773880351,
+    "_id": "Organizational Systems and Networks"
+  },
+  "Continuous Awareness": {
+    "chunk_ids": [
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 1,
+    "create_time": 1773880351,
+    "update_time": 1773880351,
+    "_id": "Continuous Awareness"
+  },
+  "Accounting for Changes": {
+    "chunk_ids": [
+      "chunk-7b2ec81c9db8de5e80241030d36a77f9"
+    ],
+    "count": 1,
+    "create_time": 1773880351,
+    "update_time": 1773880351,
+    "_id": "Accounting for Changes"
+  },
+  "content_kind": {
+    "chunk_ids": [
+      "chunk-ab39c851397ecf371b7115af2855a908"
+    ],
+    "count": 1,
+    "create_time": 1773880351,
+    "update_time": 1773880351,
+    "_id": "content_kind"
+  },
+  "The organization adapts its cybersecurity practices": {
+    "chunk_ids": [
+      "chunk-b320a0226c391d26a3f52ad2ed36770f"
+    ],
+    "count": 1,
+    "create_time": 1773880352,
+    "update_time": 1773880352,
+    "_id": "The organization adapts its cybersecurity practices"
+  },
+  "based on previous and current cybersecurity activities": {
+    "chunk_ids": [
+      "chunk-b320a0226c391d26a3f52ad2ed36770f"
+    ],
+    "count": 1,
+    "create_time": 1773880352,
+    "update_time": 1773880352,
+    "_id": "based on previous and current cybersecurity activities"
+  },
+  "Scope": {
+    "chunk_ids": [
+      "chunk-f698fdece6c3a255ea99377dbea011b6"
+    ],
+    "count": 1,
+    "create_time": 1773880353,
+    "update_time": 1773880353,
+    "_id": "Scope"
+  },
+  "includes lessons learned and predictive indicators": {
+    "chunk_ids": [
+      "chunk-b320a0226c391d26a3f52ad2ed36770f"
+    ],
+    "count": 1,
+    "create_time": 1773880353,
+    "update_time": 1773880353,
+    "_id": "includes lessons learned and predictive indicators"
+  },
+  "incorporates": {
+    "chunk_ids": [
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9"
+    ],
+    "count": 1,
+    "create_time": 1773880353,
+    "update_time": 1773880353,
+    "_id": "incorporates"
+  },
+  "responds to": {
+    "chunk_ids": [
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9"
+    ],
+    "count": 1,
+    "create_time": 1773880353,
+    "update_time": 1773880353,
+    "_id": "responds to"
+  },
+  "resolves": {
+    "chunk_ids": [
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9"
+    ],
+    "count": 1,
+    "create_time": 1773880353,
+    "update_time": 1773880353,
+    "_id": "resolves"
+  },
+  "text content": {
+    "chunk_ids": [
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9"
+    ],
+    "count": 1,
+    "create_time": 1773880353,
+    "update_time": 1773880353,
+    "_id": "text content"
+  },
+  "image OCR enabled": {
+    "chunk_ids": [
+      "chunk-525996cd68eb04d57d90b7c23e0a2eb9"
+    ],
+    "count": 1,
+    "create_time": 1773880353,
+    "update_time": 1773880353,
+    "_id": "image OCR enabled"
+  },
+  "Figure 4": {
+    "chunk_ids": [
+      "chunk-1a1497d01e433b4c62c0be4ed37b11e3"
+    ],
+    "count": 1,
+    "create_time": 1773880354,
+    "update_time": 1773880354,
+    "_id": "Figure 4"
+  },
+  "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 23 > NIST CSWP 29": {
+    "chunk_ids": [
+      "chunk-276134a2449ee64e6e5897b460c4688e",
+      "chunk-e1e59bd045467f10e8decfe40ce94095"
+    ],
+    "count": 2,
+    "update_time": 1773880354,
+    "_id": "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 23 > NIST CSWP 29"
+  }
+}

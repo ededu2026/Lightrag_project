@@ -1,0 +1,68 @@
+name: lightrag-project
+
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: lightrag-project-ollama
+    env_file:
+      - .env
+    entrypoint: ["/bin/sh", "/app/scripts/start_ollama.sh"]
+    tty: true
+    stdin_open: true
+    ports:
+      - "11434:11434"
+    volumes:
+      - .:/app
+      - ollama-data:/root/.ollama
+    healthcheck:
+      test: ["CMD", "ollama", "list"]
+      interval: 15s
+      timeout: 10s
+      retries: 10
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: lightrag-project-api
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000
+    env_file:
+      - .env
+    environment:
+      OLLAMA_BASE_URL: http://ollama:11434
+      STELLA_DEVICE: cpu
+      STREAMLIT_SERVER_HEADLESS: "true"
+    depends_on:
+      ollama:
+        condition: service_healthy
+    tty: true
+    stdin_open: true
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+      - hf-cache:/root/.cache/huggingface
+
+  ui:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: lightrag-project-ui
+    command: streamlit run streamlit_app.py --server.address 0.0.0.0 --server.port 8501
+    env_file:
+      - .env
+    environment:
+      API_HTTP_URL: http://api:8000
+      CHAT_WS_URL: ws://api:8000/chat
+      OLLAMA_BASE_URL: http://ollama:11434
+    depends_on:
+      - api
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+      - hf-cache:/root/.cache/huggingface
+
+volumes:
+  hf-cache:
+  ollama-data:

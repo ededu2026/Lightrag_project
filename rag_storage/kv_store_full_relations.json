@@ -1,0 +1,2118 @@
+{
+  "NIST.CSWP.29": {
+    "relation_pairs": [
+      [
+        "Title: The NIST Cybersecurity Framework (CSF) 2.0",
+        "organizational_level"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "title"
+      ],
+      [
+        "CSWP 20",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "GOVERN Function",
+        "NIST CSWP 29"
+      ],
+      [
+        "DataSecurity",
+        "NIST_Cybersecurity_Framework_2.0"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29",
+        "Kind: text"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF)",
+        "improvement opportunities"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2 > NIST CSWP 29",
+        "NIST Cybersecurity Framework"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29",
+        "page_count: 32"
+      ],
+      [
+        "Header",
+        "source_file"
+      ],
+      [
+        "PyMuPDF",
+        "page_count: 32"
+      ],
+      [
+        "Page 20",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "PyMuPDF",
+        "True"
+      ],
+      [
+        "Community Profile",
+        "NIST CSWP 29"
+      ],
+      [
+        "Appendix B",
+        "NIST Cybersecurity Framework"
+      ],
+      [
+        "Desired Outcomes",
+        "Target Profile"
+      ],
+      [
+        "Document Processing Methodology",
+        "PyMuPDF"
+      ],
+      [
+        "Process: text",
+        "Title: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF)",
+        "page_count"
+      ],
+      [
+        "Kind",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29 > NIST CSWP 29",
+        "Kind"
+      ],
+      [
+        "February 26, 2024",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "CSWP 29",
+        "Header"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 1",
+        "Kind: text"
+      ],
+      [
+        "Core Outcomes",
+        "Current Profile"
+      ],
+      [
+        "Kind",
+        "Title of Document"
+      ],
+      [
+        "Kind",
+        "The Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 17 > NIST CSWP 29 > Oversight"
+      ],
+      [
+        "Header",
+        "page"
+      ],
+      [
+        "Advanced Cybersecurity Technologies",
+        "incorporates"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29",
+        "management approval"
+      ],
+      [
+        "Products and Services",
+        "acquisition process"
+      ],
+      [
+        "Implementation Examples",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "CSF<Event>",
+        "Kind<Data>"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "PR.PS"
+      ],
+      [
+        "Kind",
+        "RESPOND (RS)"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF)",
+        "Supply Chain Risk Management (SCRM)"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "page_count"
+      ],
+      [
+        "Kind",
+        "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-05"
+      ],
+      [
+        "High-Level Outcomes",
+        "Taxonomy"
+      ],
+      [
+        "Supply Chain Risks",
+        "Technology Ecosystem"
+      ],
+      [
+        "PyMuPDF Version 1.2.0",
+        "header"
+      ],
+      [
+        "CSW",
+        "image_ocr_enabled"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "external assets",
+        "objectives and programs"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "parser: PyMuPDF"
+      ],
+      [
+        "CSWP.29.pdf",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "Cybersecurity Framework Core",
+        "image_ocr_enabled"
+      ],
+      [
+        "Header",
+        "SP 800-53"
+      ],
+      [
+        "The organization risk strategy",
+        "cybersecurity risks associated with suppliers and products/services"
+      ],
+      [
+        "Header",
+        "NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "Kind: text",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "Kind",
+        "OCR Text: Cybersecurity G &"
+      ],
+      [
+        "CSF Core's Outcomes",
+        "Informative References"
+      ],
+      [
+        "Cybersecurity Risk Management",
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2",
+        "cyberframework@nist.gov"
+      ],
+      [
+        "NIST Cybersecurity Framework",
+        "managers"
+      ],
+      [
+        "Kind",
+        "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-01"
+      ],
+      [
+        "Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations (SP 800-161r1)",
+        "Risks from emerging technologies (including AI)"
+      ],
+      [
+        "Kind",
+        "RESPONSE AND COMMUNICATION (RS.CO)-02"
+      ],
+      [
+        "CSF",
+        "NIST CSWP 29"
+      ],
+      [
+        "NIST CSWP 29",
+        "Security Priorities Establishment"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "RESPOND (RS)"
+      ],
+      [
+        "NIST CSWP 29",
+        "Page 20"
+      ],
+      [
+        "PyMuPDF",
+        "title: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2"
+      ],
+      [
+        "Kind",
+        "NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "Fig. 2. CSF Functions",
+        "document content"
+      ],
+      [
+        "ICT_integration",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF) 2.0",
+        "parser"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF)",
+        "Taxonomy"
+      ],
+      [
+        "Examples",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "image_ocr_enabled",
+        "source_file"
+      ],
+      [
+        "AI",
+        "Title: The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "Cybersecurity Framework (CSF)",
+        "NIST"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF)",
+        "organization"
+      ],
+      [
+        "NIST CSWP 29",
+        "integrity"
+      ],
+      [
+        "RC.RP",
+        "kind"
+      ],
+      [
+        "PyMuPDF",
+        "parser"
+      ],
+      [
+        "Introduction to Online Resources That Supplement the CSF",
+        "PyMuPDF"
+      ],
+      [
+        "Section 5",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "The NIST Cybersecurity Framework (CSF) 2.0 Header"
+      ],
+      [
+        "IR 8286B",
+        "Kind"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "Page Count"
+      ],
+      [
+        "page_count",
+        "title"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "Location",
+        "World Athletics Championship"
+      ],
+      [
+        "NIST CSWP 29",
+        "cybersecurity risks association"
+      ],
+      [
+        "document_type",
+        "source_file"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29",
+        "risk management practices approval"
+      ],
+      [
+        "Community Profile",
+        "Organizations"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29",
+        "management_approval"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "Risks from emerging technologies (including AI)"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 23 > NIST CSWP 29",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF) 2.0",
+        "image_ocr_enabled"
+      ],
+      [
+        "DataSecurity",
+        "PyMuPDF Parser"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0",
+        "Page 19"
+      ],
+      [
+        "PyMuPDF",
+        "image_ocr_enabled"
+      ],
+      [
+        "PyMuPDF",
+        "source_file: NIST.CSWP.29.pdf"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 9 > NIST CSWP 29",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "RC.RP",
+        "RC.RP-01"
+      ],
+      [
+        "NIST Cybersecurity Framework",
+        "managers focus on"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF)",
+        "source_file"
+      ],
+      [
+        "NIST CSWP 29",
+        "page_18"
+      ],
+      [
+        "Section 4",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "Page 29",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "Page_number",
+        "source_file: NIST.CSWP.29.pdf"
+      ],
+      [
+        "parser",
+        "source_file"
+      ],
+      [
+        "Page 20",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29",
+        "Kind"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0",
+        "Kind"
+      ],
+      [
+        "CSW",
+        "Kind"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 7 > NIST CSWP 29",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF)",
+        "source_file"
+      ],
+      [
+        "Header",
+        "image_ocr_enabled"
+      ],
+      [
+        "NIST Cswp.29.pdf",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "image_summary"
+      ],
+      [
+        "Fig. 6",
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29"
+      ],
+      [
+        "Kind",
+        "Title"
+      ],
+      [
+        "NIST CSWP 29",
+        "availability"
+      ],
+      [
+        "Current Profile",
+        "NIST Cswp 29"
+      ],
+      [
+        "All comments are subject to release under the Freedom of Information Act (FOIA)",
+        "page_count"
+      ],
+      [
+        "Kind",
+        "NIST CSWP 29 Kind"
+      ],
+      [
+        "Header",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "Parser"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4",
+        "parser"
+      ],
+      [
+        "February 26, 2024",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "NIST CSWP 29",
+        "National_Institute_of_Standards_and_Technology (2024)"
+      ],
+      [
+        "NIST CSWP 29 Document",
+        "source_file: NIST.CSWP.29.pdf"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF) 2.0",
+        "cybersecurity management reference"
+      ],
+      [
+        "Image OCR enabled",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "Personnel formally acting on the risks",
+        "the organization risk strategy"
+      ],
+      [
+        "Figure 2",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "AI",
+        "NIST CSWP 29"
+      ],
+      [
+        "Document_reference",
+        "doi:10.6028/NIST.CSWP.29"
+      ],
+      [
+        "NIST CSWP 29",
+        "parser"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "OCR_enabled"
+      ],
+      [
+        "RC.CO-03: Recovery activities and progress in restoring operational capabilities are communicated to designated internal and external stakeholders",
+        "framework_element"
+      ],
+      [
+        "Legacy Format",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "Appendix A",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "True",
+        "image_ocr_enabled"
+      ],
+      [
+        "NIST C.SWP.29",
+        "document_type"
+      ],
+      [
+        "NIR 8286D",
+        "header"
+      ],
+      [
+        "PyMuPDF Version 1.2.0",
+        "page_count"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF) 2.0",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "NIST CSWP 29 ICT Risks Integration Needed",
+        "Other Risk Programs"
+      ],
+      [
+        "Kind",
+        "Page 5"
+      ],
+      [
+        "NIST Cybersecurity Framework",
+        "image_ocr_enabled: True"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "source_file"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29",
+        "Kind: text"
+      ],
+      [
+        "Header",
+        "NIST CSWP 29"
+      ],
+      [
+        "Governance Discussions",
+        "NIST CSWP 29"
+      ],
+      [
+        "Control",
+        "SP 800-53"
+      ],
+      [
+        "data_processing",
+        "privacy_events"
+      ],
+      [
+        "INCIDENT ANALYSIS (RS.AN)-08",
+        "Kind"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4",
+        "image_ocr_enabled"
+      ],
+      [
+        "NIST Cybersecurity Framework",
+        "page_count: 32"
+      ],
+      [
+        "Kind",
+        "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-04"
+      ],
+      [
+        "NIST CSWP 29",
+        "System Level"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "image_ocr_enabled: True"
+      ],
+      [
+        "Page 6",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "DE.CM",
+        "Kind"
+      ],
+      [
+        "Kind",
+        "NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "CSF Tiers",
+        "Organizational Profiles"
+      ],
+      [
+        "NIST CSWP 29",
+        "image_ocr_enabled"
+      ],
+      [
+        "IR 8286A",
+        "Kind"
+      ],
+      [
+        "Kind: text",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "PyMuPDF Parser",
+        "image_ocr_enabled"
+      ],
+      [
+        "SP 800-221",
+        "document_usage"
+      ],
+      [
+        "PyMuPDF Parser",
+        "source_file: NIST.CSWP.29.pdf"
+      ],
+      [
+        "CSWP.29.pdf",
+        "PyMuPDF Version 1.2.0"
+      ],
+      [
+        "Page_Count",
+        "PyMuPDF Parser"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "page_count: 32"
+      ],
+      [
+        "Image OCR Enabled: True",
+        "PyMuPDF"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29",
+        "page_count"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0",
+        "page_count"
+      ],
+      [
+        "Page Count: 32",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "Header",
+        "The organization's risk management practices"
+      ],
+      [
+        "page_count: 32",
+        "title: The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "Image Summary",
+        "NIST.CSWP.29_page_10_img_1.png"
+      ],
+      [
+        "Manager and Practitioner",
+        "System Level"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF) 2.0",
+        "Preparation for Organizational Profiles"
+      ],
+      [
+        "Cybersecurity Framework Core",
+        "page_count"
+      ],
+      [
+        "Fig. 2",
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29"
+      ],
+      [
+        "Fig. 5",
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29"
+      ],
+      [
+        "Kind: text",
+        "Title: The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "Header",
+        "Page 15"
+      ],
+      [
+        "document_type",
+        "parser"
+      ],
+      [
+        "PyMuPDF",
+        "enabled OCR on the source file"
+      ],
+      [
+        "NIST CSWP 29",
+        "header"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 28 > NIST CSWP 29",
+        "document_title"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29",
+        "process: text"
+      ],
+      [
+        "Kind",
+        "Practitioners Focus on Implementing Target State"
+      ],
+      [
+        "image_ocr_enabled",
+        "source_file: NIST.CSWP.29.pdf"
+      ],
+      [
+        "Source_file",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF) 2.0",
+        "document_type"
+      ],
+      [
+        "Source File: NIST.CSWP.29.pdf",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "Evolving Threats",
+        "resolves"
+      ],
+      [
+        "Kind",
+        "Title: The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "Header",
+        "Page 18"
+      ],
+      [
+        "availability",
+        "system disruption"
+      ],
+      [
+        "PyMuPDF",
+        "document_type"
+      ],
+      [
+        "Community Profiles",
+        "Organizational Profile Templates"
+      ],
+      [
+        "CSF",
+        "Supply Chain Risks"
+      ],
+      [
+        "Authentication",
+        "Identity Management"
+      ],
+      [
+        "Kind: text",
+        "The NIST Cybersecurity Framework (CSF) 2.0 Header"
+      ],
+      [
+        "Organizations",
+        "Target Profile"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF)",
+        "parser"
+      ],
+      [
+        "Example Verbs",
+        "Implementation Examples"
+      ],
+      [
+        "PDF",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "Kind: text",
+        "to changes in risk."
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF) 2.0",
+        "activities and protection needs"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF)",
+        "governmental policies and mandates"
+      ],
+      [
+        "Header Page 14",
+        "NIST CSWP 29"
+      ],
+      [
+        "document_type",
+        "source_file: NIST.CSWP.29.pdf"
+      ],
+      [
+        "PyMuPDF",
+        "used to parse NIST.CSWP.29.pdf"
+      ],
+      [
+        "Header",
+        "Page 17"
+      ],
+      [
+        "Cybersecurity SCRM (C-SCRM)",
+        "NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "CSF Core's Outcomes",
+        "Implementation Examples"
+      ],
+      [
+        "NIST CSWP 29 ICT Risks Mentioned",
+        "kind of ICT risks"
+      ],
+      [
+        "Functions",
+        "NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "NIST CSWP 29",
+        "RECOVER Function"
+      ],
+      [
+        "Kind: text",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "CSF Core's Outcomes",
+        "Quick-Start Guides"
+      ],
+      [
+        "CSF<Event>",
+        "PDF<Data>"
+      ],
+      [
+        "data breach",
+        "identity theft"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF)",
+        "enterprise-level ICT risk management"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "Title: The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "RC.RP-03: The integrity of backups and other restoration assets is verified before using them for restoration",
+        "framework_element"
+      ],
+      [
+        "page_count",
+        "source_file"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF) 2.0",
+        "page_count"
+      ],
+      [
+        "CSWP.29.pdf",
+        "header"
+      ],
+      [
+        "Section 3",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "CSF<Event>",
+        "NIST<Creature>"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4",
+        "Kind"
+      ],
+      [
+        "NIST Cswp.29.pdf",
+        "Title"
+      ],
+      [
+        "Kind: text",
+        "NIST CSWP.29.pdf"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "page_16"
+      ],
+      [
+        "World Athletics Championship",
+        "World Athletics Federation"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "parser"
+      ],
+      [
+        "Informative References",
+        "NIST"
+      ],
+      [
+        "RC.CO-04: Public updates on incident recovery are shared using approved methods and messaging",
+        "framework_element"
+      ],
+      [
+        "Kind",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "Page_OCR_enabled",
+        "source_file: NIST.CSWP.29.pdf"
+      ],
+      [
+        "NIST CSWP 29",
+        "Risk Appetite Communication"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29",
+        "content_kind"
+      ],
+      [
+        "Document_type",
+        "NIST CSWP 29"
+      ],
+      [
+        "Appendix C",
+        "Glossary"
+      ],
+      [
+        "NIST Cybersecurity Framework",
+        "source_file: NIST.CSWP.29.pdf"
+      ],
+      [
+        "NIST CSWP 29",
+        "confidentiality"
+      ],
+      [
+        "Adverse Event Analysis",
+        "page_count"
+      ],
+      [
+        "RC.RP-02: Recovery actions are selected, scoped, prioritized, and performed",
+        "framework_element"
+      ],
+      [
+        "NIST CSWP 29",
+        "PDF"
+      ],
+      [
+        "Kind",
+        "Page 11"
+      ],
+      [
+        "NIST CSWP 29",
+        "document_type"
+      ],
+      [
+        "INCIDENT ANALYSIS (RS.AN)-06",
+        "Kind"
+      ],
+      [
+        "Privacy Events",
+        "dignity_type_effects"
+      ],
+      [
+        "Kind",
+        "NIST CSWP 29"
+      ],
+      [
+        "Kind: text",
+        "Title: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 6 > NIST CSWP 29",
+        "Understand, Assess, Prioritize, and Communicate Cybersecurity Risks"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "image_ocr_enabled"
+      ],
+      [
+        "NIST<Creature>",
+        "PyMuPDF<PersoanlName>"
+      ],
+      [
+        "Kind: text",
+        "source_file"
+      ],
+      [
+        "INCIDENT MITIGATION (RS.MI)",
+        "Kind"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Page 11",
+        "image_summary"
+      ],
+      [
+        "NIST.CSWP.29_page_10_img_1.png",
+        "image path"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF) 2.0",
+        "PyMuPDF"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29",
+        "NIST CSWP 29"
+      ],
+      [
+        "Kind",
+        "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-02"
+      ],
+      [
+        "ERM",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "Kind",
+        "kind"
+      ],
+      [
+        "Header",
+        "organization may not have processes that enable"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF)",
+        "Subcategories"
+      ],
+      [
+        "Kind",
+        "text"
+      ],
+      [
+        "Implementation Examples",
+        "NIST"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29",
+        "NIST CSWP 29"
+      ],
+      [
+        "source_file",
+        "title"
+      ],
+      [
+        "Header",
+        "page_29"
+      ],
+      [
+        "Each Function",
+        "name"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4",
+        "page_count"
+      ],
+      [
+        "Community Profile",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "data breach",
+        "privacy risks"
+      ],
+      [
+        "NIST CSWP 29",
+        "PyMuPDF"
+      ],
+      [
+        "NIST_Cybersecurity_Framework_2.0",
+        "Page_Count"
+      ],
+      [
+        "Personnel formally acting on the risks",
+        "policy implementation and monitoring"
+      ],
+      [
+        "Privacy Events",
+        "tangible_harms"
+      ],
+      [
+        "Header",
+        "Page 10"
+      ],
+      [
+        "PyMuPDF",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF)",
+        "other resources"
+      ],
+      [
+        "path",
+        "source_file"
+      ],
+      [
+        "Appendix C",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "Profile Type",
+        "Target Profile"
+      ],
+      [
+        "INCIDENT MITIGATION (RS.MI)-02",
+        "Kind"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF) 2.0",
+        "image_ocr_enabled"
+      ],
+      [
+        "Scope",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "NIST",
+        "PyMuPDF"
+      ],
+      [
+        "NIST CSWP 29",
+        "email suggestions"
+      ],
+      [
+        "INCIDENT ANALYSIS (RS.AN)",
+        "Kind"
+      ],
+      [
+        "Header",
+        "Page 14"
+      ],
+      [
+        "Event Horizon",
+        "Observable Universe"
+      ],
+      [
+        "Cybersecurity Framework Core",
+        "page"
+      ],
+      [
+        "Implementation Examples",
+        "NIST.CSWP.20"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "RECOVER (RC)"
+      ],
+      [
+        "NIST Cybersecurity Framework (PR)",
+        "PROTECT Function"
+      ],
+      [
+        "image_ocr_enabled: True",
+        "parser: PyMuPDF"
+      ],
+      [
+        "Page 7",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "DETTECT Function",
+        "NIST CSWP 29"
+      ],
+      [
+        "Header",
+        "Page 12"
+      ],
+      [
+        "Header",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "NIST CSWP 29",
+        "RESPOND Function"
+      ],
+      [
+        "Kind: image",
+        "image_summary"
+      ],
+      [
+        "The organization adapts its cybersecurity practices",
+        "includes lessons learned and predictive indicators"
+      ],
+      [
+        "Black Hole",
+        "Event Horizon"
+      ],
+      [
+        "Figure 2",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "image_ocr_enabled",
+        "page_count"
+      ],
+      [
+        "Community Profiles",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "Categories",
+        "NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "DETECT (DE)",
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 9 > NIST CSWP 29"
+      ],
+      [
+        "NIST CSWP 29",
+        "Supply Chain Risks"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF)",
+        "organizational cybersecurity practices"
+      ],
+      [
+        "Title",
+        "page_count"
+      ],
+      [
+        "CSW.PDF",
+        "cybersecurity risks association"
+      ],
+      [
+        "Document Type: PDF",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "DETECT",
+        "RECOVER"
+      ],
+      [
+        "Parser: PyMuPDF",
+        "Title: The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "Title: The NIST Cybersecurity Framework (CSF) 2.0",
+        "page_count"
+      ],
+      [
+        "Executive Discussions",
+        "NIST CSWP 29"
+      ],
+      [
+        "Document_Type",
+        "NIST_Cybersecurity_Framework_2.0"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF) 2.0",
+        "responds to"
+      ],
+      [
+        "Appendix B",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "Core",
+        "Informative References"
+      ],
+      [
+        "Community Profile",
+        "NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "CSW.P.29",
+        "Header"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF)",
+        "document_type"
+      ],
+      [
+        "image_summary",
+        "page_18"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF)",
+        "Website"
+      ],
+      [
+        "Kind",
+        "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)-03"
+      ],
+      [
+        "confidentiality",
+        "data loss"
+      ],
+      [
+        "CSWP",
+        "NIST"
+      ],
+      [
+        "Parser_type",
+        "pyMuPDF"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 7 > NIST CSWP 29",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "Cybersecurity Framework Core",
+        "page_8_img_1.png"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF) 2.0",
+        "image_ocr_enabled: True"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "image OCR enabled"
+      ],
+      [
+        "NIST CSWP 29",
+        "Page 12"
+      ],
+      [
+        "Kind Text",
+        "NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "IR 8286C",
+        "Kind"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29",
+        "Kind: text"
+      ],
+      [
+        "Kind: text",
+        "parser"
+      ],
+      [
+        "objectives and programs",
+        "reoccurring assessments"
+      ],
+      [
+        "February 26, 2024",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF) 2.0",
+        "page"
+      ],
+      [
+        "DETECT",
+        "RESPOND"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF)",
+        "page_count"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "document_type"
+      ],
+      [
+        "Accounting for Changes",
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29"
+      ],
+      [
+        "NIST Cybersecurity Framework",
+        "title: The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 23 > NIST CSWP 29",
+        "Kind: text"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF) 2.0",
+        "title"
+      ],
+      [
+        "Lower-Level Risk Management Programs Integration",
+        "NIST CSWP 29"
+      ],
+      [
+        "Kind",
+        "RESPOND (RS).RESPONSE MANAGEMENT (RS.MA)"
+      ],
+      [
+        "Header_Reference",
+        "NIST_Cybersecurity_Framework_2.0"
+      ],
+      [
+        "Header",
+        "Kind"
+      ],
+      [
+        "Kind",
+        "PyMuPDF"
+      ],
+      [
+        "Cybersecurity Framework (CSF)",
+        "NIST CSWP 29"
+      ],
+      [
+        "Page_source",
+        "source_file: NIST.CSWP.29.pdf"
+      ],
+      [
+        "Fig. 3",
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29"
+      ],
+      [
+        "NIST CSWP 29",
+        "Privacy Risk Assessment Methodology (PRAM)"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "title: The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29",
+        "Kind: text"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29",
+        "Kind"
+      ],
+      [
+        "Header",
+        "cybersecurity information"
+      ],
+      [
+        "Header",
+        "NIST"
+      ],
+      [
+        "National Institute of Standards and Technology (2024)",
+        "Publication_date"
+      ],
+      [
+        "Header",
+        "Location"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF)",
+        "parser"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 3 > NIST CSWP 29",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "NIST Cybersecurity Framework",
+        "PyMuPDF"
+      ],
+      [
+        "Community Profiles",
+        "NIST"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "PyMuPDF Version 1.2.0"
+      ],
+      [
+        "Header",
+        "title"
+      ],
+      [
+        "Cybersecurity Risk Management Integration",
+        "NIST CSWP 29"
+      ],
+      [
+        "Header",
+        "Incident Recovery Communication"
+      ],
+      [
+        "INCIDENT MITIGATION (RS.MI)-01",
+        "Kind"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29",
+        "Organizational Systems and Networks"
+      ],
+      [
+        "NIST CSWP.29.pdf",
+        "PDF format"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4",
+        "source_file"
+      ],
+      [
+        "Header",
+        "Kind: text"
+      ],
+      [
+        "Header",
+        "to be shared within the organization."
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF) 2.0",
+        "incorporates"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "PyMuPDF"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0",
+        "image_ocr_enabled"
+      ],
+      [
+        "The organization adapts its cybersecurity practices",
+        "based on previous and current cybersecurity activities"
+      ],
+      [
+        "CSW.PDF",
+        "image_ocr_enabled"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29",
+        "Kind: text"
+      ],
+      [
+        "Cybersecurity Framework Core",
+        "Header"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "image_summary",
+        "path"
+      ],
+      [
+        "Page 11",
+        "image_ocr_enabled"
+      ],
+      [
+        "NIST Cswp 29",
+        "Target Profile"
+      ],
+      [
+        "Kind: text",
+        "NIST CSWP 29"
+      ],
+      [
+        "PyMuPDF",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29",
+        "parser: PyMuPDF"
+      ],
+      [
+        "PDF document",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "Header",
+        "ID.AM"
+      ],
+      [
+        "NIST CSWP 29",
+        "Risk Register"
+      ],
+      [
+        "Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations (SP 800-161r1)",
+        "NIST Artificial Intelligence Risk Management Framework (AI RMF)"
+      ],
+      [
+        "Header",
+        "NIST CSWP 29 Header"
+      ],
+      [
+        "NIST CSWP.29.pdf",
+        "Website"
+      ],
+      [
+        "FOIA_accessibility",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "Preparing to create and use Organizational Profiles",
+        "Risk-Informed Profile Creation"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29",
+        "Kind: text"
+      ],
+      [
+        "Header",
+        "page_count"
+      ],
+      [
+        "Cybersecurity Framework (CSF)",
+        "Kind"
+      ],
+      [
+        "Fig. 1",
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29"
+      ],
+      [
+        "Fig. 3",
+        "Organizational Profile"
+      ],
+      [
+        "Function: DETECT (DE)",
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 9 > NIST CSWP 29"
+      ],
+      [
+        "PDF",
+        "image_ocr_enabled"
+      ],
+      [
+        "National_Institute_of_Standards_and_Technology (2024)",
+        "source_file: NIST.CSWP.29.pdf"
+      ],
+      [
+        "Informative References",
+        "Subcategory"
+      ],
+      [
+        "Header",
+        "the NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "Header",
+        "Page 30"
+      ],
+      [
+        "Kind",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "Header",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "format"
+      ],
+      [
+        "SP 800-221",
+        "header"
+      ],
+      [
+        "The organization",
+        "cybersecurity risks association"
+      ],
+      [
+        "Image Summary",
+        "Kind"
+      ],
+      [
+        "Document_Type",
+        "PyMuPDF Parser"
+      ],
+      [
+        "CSWP 29",
+        "Kind"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF)",
+        "government, academia, and nonprofit organizations"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29 > NIST CSWP 29 > The prioritization of cybersecurity",
+        "Kind: text"
+      ],
+      [
+        "February 26, 2024",
+        "Kind"
+      ],
+      [
+        "Kind::text",
+        "The Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 17 > NIST CSWP 29 > Oversight"
+      ],
+      [
+        "NIST CSWP 29",
+        "data loss"
+      ],
+      [
+        "Figure 4",
+        "NIST Cswp 29"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF) 2.0",
+        "page_count"
+      ],
+      [
+        "document_type: PDF",
+        "title: The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "objectives and programs"
+      ],
+      [
+        "Header",
+        "Title of Document"
+      ],
+      [
+        "Image OCR",
+        "True"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29",
+        "kind"
+      ],
+      [
+        "Title: The NIST Cybersecurity Framework (CSF) 2.0",
+        "source_file"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "path"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF)",
+        "PDF File"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "Page 14"
+      ],
+      [
+        "Closing Gaps",
+        "NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "NIST CSWP 29",
+        "Profiles"
+      ],
+      [
+        "Kind",
+        "RESPONSE AND COMMUNICATION (RS.CO)"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF) 2.0",
+        "cybersecurity"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 5 > NIST CSWP 29",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "PROTECT Function",
+        "improvement opportunities"
+      ],
+      [
+        "Title: The NIST Cybersecurity Framework (CSF) 2.0",
+        "image_ocr_enabled: True"
+      ],
+      [
+        "NIST CSWP 29 ICT Risks Mentioned",
+        "Other Types of Risk"
+      ],
+      [
+        "Current Profile",
+        "Profile Type"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29",
+        "document_type: PDF"
+      ],
+      [
+        "INCIDENT ANALYSIS (RS.AN)-07",
+        "Kind"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF)",
+        "Outcome Focus: Purely Cybersecurity vs. Supply Chain Management"
+      ],
+      [
+        "Fig. 6",
+        "Header"
+      ],
+      [
+        "Personnel formally acting on the risks",
+        "written agreements to communicate baseline requirements"
+      ],
+      [
+        "image_ocr_enabled",
+        "title"
+      ],
+      [
+        "page_count",
+        "title: The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 8 > NIST CSWP 29",
+        "Title: The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "header"
+      ],
+      [
+        "Personnel formally acting on the risks",
+        "governance structures (e.g., risk councils)"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 29 > NIST CSWP 29",
+        "image_ocr_enabled"
+      ],
+      [
+        "NIST CSWP 29",
+        "The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 9 > NIST CSWP 29",
+        "NIST CSWP 29"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF) 2.0",
+        "text content"
+      ],
+      [
+        "Header_Reference",
+        "PyMuPDF Parser"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF)",
+        "country-specific guidelines"
+      ],
+      [
+        "Function: DETECT (DE)",
+        "NIST CSWP 29"
+      ],
+      [
+        "Asset Management",
+        "Header"
+      ],
+      [
+        "Continuous Awareness",
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29"
+      ],
+      [
+        "CSF 2.0",
+        "NIST Cybersecurity Framework"
+      ],
+      [
+        "RC.RP-05: The integrity of restored assets is verified, systems and services are restored, and normal operating status is confirmed",
+        "framework_element"
+      ],
+      [
+        "Noah Carter",
+        "World Athletics Championship"
+      ],
+      [
+        "RC.RP-06: The end of incident recovery is declared based on criteria, and incident-related documentation is completed",
+        "framework_element"
+      ],
+      [
+        "Collaboration with Practitioners",
+        "Preparing to create and use Organizational Profiles"
+      ],
+      [
+        "Introduction to Online Resources That Supplement the CSF",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "DE.AE",
+        "Header"
+      ],
+      [
+        "NIST CSWP 29",
+        "system disruption"
+      ],
+      [
+        "The organization",
+        "suppliers"
+      ],
+      [
+        "Kind: text",
+        "document_type"
+      ],
+      [
+        "NIST CSWP 29",
+        "Privacy Risks"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF)",
+        "cyberframework@nist.gov"
+      ],
+      [
+        "NIST.CSWP.29.pdf",
+        "achieve Outcomes"
+      ],
+      [
+        "NIST Artificial Intelligence Risk Management Framework (AI RMF)",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "parser: PyMuPDF",
+        "title: The NIST Cybersecurity Framework (CSF) 2.0"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF) 2.0",
+        "image_summary"
+      ],
+      [
+        "Image_OCR_enabled",
+        "NIST CSWP 29"
+      ],
+      [
+        "Image OCR",
+        "Page 1"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 30 > NIST CSWP 29",
+        "Organizational Culture"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 20 > NIST CSWP 29",
+        "RC.RP"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF) 2.0",
+        "reference date, February 26, 2024"
+      ],
+      [
+        "NIST Cybersecurity Framework (CSF)",
+        "title"
+      ],
+      [
+        "Kind",
+        "RESPONSE AND COMMUNICATION (RS.CO)-03"
+      ],
+      [
+        "Header",
+        "Page 31"
+      ],
+      [
+        "Information Gathering",
+        "Preparing to create and use Organizational Profiles"
+      ],
+      [
+        "Kind",
+        "PDF"
+      ],
+      [
+        "RC.RP-04: Critical mission functions and cybersecurity risk management are considered to establish post-incident operational norms",
+        "framework_element"
+      ],
+      [
+        "Kind",
+        "associated with its suppliers and the products and services it acquires and uses"
+      ],
+      [
+        "Image OCR enabled",
+        "NIST.CSF_29_PDF.pdf"
+      ],
+      [
+        "parser",
+        "title"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF) 2.0",
+        "regulation"
+      ],
+      [
+        "ERM",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 20 > Page 1",
+        "Kind"
+      ],
+      [
+        "The NIST Cybersecurity Framework (CSF) 2.0",
+        "source_file"
+      ],
+      [
+        "NIST Cybersecurity Framework",
+        "Tier"
+      ],
+      [
+        "common services and controls",
+        "expressed in the Target Profile"
+      ],
+      [
+        "INCIDENT ANALYSIS (RS.AN)-03",
+        "Kind"
+      ],
+      [
+        "Kind: text",
+        "prioritized"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 2",
+        "NIST.CSWP.29.pdf"
+      ],
+      [
+        "Header: text",
+        "Kind: text"
+      ],
+      [
+        "Section 2",
+        "The NIST Cybersecurity Framework (CSF)"
+      ],
+      [
+        "Fig. 4",
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 4 > NIST CSWP 29"
+      ],
+      [
+        "Experimental Procedures Manual",
+        "NIST.CSWP.29"
+      ],
+      [
+        "Image_OCR_Engagement",
+        "NIST_Cybersecurity_Framework_2.0"
+      ],
+      [
+        "Header: The NIST Cybersecurity Framework (CSF) 2.0 > Page 14 > NIST CSWP 29",
+        "image_ocr_enabled: True"
+      ],
+      [
+        "100m Sprint Record",
+        "Carbon-Fiber Spikes"
+      ],
+      [
+        "PDF",
+        "document_type"
+      ],
+      [
+        "NIST",
+        "Quick Start Guides"
+      ]
+    ],
+    "count": 527,
+    "create_time": 1773880355,
+    "update_time": 1773880355,
+    "_id": "NIST.CSWP.29"
+  }
+}

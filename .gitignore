@@ -1,0 +1,12 @@
+.env
+.venv/
+.lightrag_project/
+__pycache__/
+.pytest_cache/
+.streamlit/
+.DS_Store
+parsed_assets/
+parsed_assets_test/
+parsed_data_test/
+graph_exports/knowledge_graph.json
+rag_storage/kv_store_llm_response_cache.json
