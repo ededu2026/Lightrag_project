@@ -3,7 +3,7 @@ from __future__ import annotations
 from fastapi import FastAPI, HTTPException, WebSocket, WebSocketDisconnect
 from fastapi.responses import FileResponse, ORJSONResponse
 
-from app.runtime import get_parser, get_store
+from app.runtime import get_parser, get_store, get_workflow
 from app.schemas import AskRequest, AskResponse, ChatPayload
 
 
@@ -13,6 +13,7 @@ app = FastAPI(default_response_class=ORJSONResponse, title="Chat API")
 @app.on_event("startup")
 async def startup() -> None:
     await get_store().initialize()
+    get_workflow()
 
 
 @app.on_event("shutdown")
@@ -27,6 +28,11 @@ def health() -> dict:
         "parsed_dir": str(get_parser().output_dir),
         "ingested": get_store().ready,
     }
+
+
+@app.get("/greeting")
+async def greeting() -> dict:
+    return await get_workflow().greetings()
 
 
 @app.post("/parse")
@@ -74,10 +80,13 @@ async def ingest() -> dict:
 
 @app.post("/ask", response_model=AskResponse)
 async def ask(payload: AskRequest) -> AskResponse:
-    result = await get_store().query(payload.message)
+    history = [item.model_dump() for item in payload.history]
+    result = await get_workflow().invoke(payload.message, history=history)
     return AskResponse(
         answer=result["answer"],
-        intent=result.get("mode", "mix"),
+        intent=result.get("intent", "lightrag_qa"),
+        node=result.get("node", result.get("intent", "lightrag_qa")),
+        path=result.get("path", ["intent_classifier", result.get("intent", "lightrag_qa")]),
         contexts=result.get("contexts", []),
     )
 
@@ -85,27 +94,13 @@ async def ask(payload: AskRequest) -> AskResponse:
 @app.websocket("/chat")
 async def chat(websocket: WebSocket) -> None:
     await websocket.accept()
-    store = get_store()
+    workflow = get_workflow()
     try:
         while True:
             payload = ChatPayload.model_validate_json(await websocket.receive_text())
-            if not store.ready:
-                await websocket.send_json(
-                    {
-                        "type": "error",
-                        "message": "Knowledge base is not ingested yet. Run Parse and Ingest first.",
-                    }
-                )
-                continue
             await websocket.send_json({"type": "status", "scope": "qa", "stage": "answering"})
-            result = await store.query(payload.message)
-            await websocket.send_json(
-                {
-                    "type": "answer",
-                    "answer": result["answer"],
-                    "intent": result.get("mode", "mix"),
-                    "contexts": result.get("contexts", []),
-                }
-            )
+            history = [item.model_dump() for item in payload.history]
+            async for event in workflow.stream(payload.message, history=history):
+                await websocket.send_json(event)
     except WebSocketDisconnect:
         return

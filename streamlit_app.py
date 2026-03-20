@@ -179,14 +179,21 @@ def get_json(path: str) -> dict:
 
 
 if "messages" not in st.session_state:
-    st.session_state.messages = [
-        {"role": "assistant", "content": "Ask a question about your documents."}
-    ]
+    st.session_state.messages = []
 
 
 health = get_json("/health")
 backend_ready = health.get("status") == "ok"
 kb_ready = bool(health.get("ingested"))
+
+if backend_ready and not st.session_state.messages:
+    greeting = get_json("/greeting")
+    st.session_state.messages = [
+        {
+            "role": "assistant",
+            "content": greeting.get("answer", "Welcome. Ask a question about your documents."),
+        }
+    ]
 
 st.markdown('<div class="shell">', unsafe_allow_html=True)
 st.markdown('<h1 class="title">Chat with your documents</h1>', unsafe_allow_html=True)
@@ -222,35 +229,52 @@ if prompt:
 
     with st.chat_message("assistant"):
         status = st.empty()
+        answer_placeholder = st.empty()
+        answer_text = ""
         try:
             with websockets.sync.client.connect(
                 CHAT_WS_URL,
                 open_timeout=None,
                 close_timeout=10,
             ) as ws:
-                ws.send(json.dumps({"message": prompt}))
+                history = [
+                    {"role": item["role"], "content": item["content"]}
+                    for item in st.session_state.messages[:-1]
+                ]
+                ws.send(json.dumps({"message": prompt, "history": history}))
                 while True:
                     payload = json.loads(ws.recv())
                     payload_type = payload.get("type")
                     if payload_type == "status":
                         status.info("Generating answer...")
                         continue
+                    if payload_type == "token":
+                        status.empty()
+                        answer_text += payload.get("token", "")
+                        answer_placeholder.markdown(answer_text)
+                        continue
                     if payload_type == "error":
                         status.empty()
+                        answer_placeholder.empty()
                         st.error(payload["message"])
                         st.stop()
                     if payload_type == "answer":
                         status.empty()
-                        st.markdown(payload["answer"])
+                        answer_text = payload["answer"]
+                        answer_placeholder.markdown(answer_text)
                         with st.expander("Retrieved context"):
                             st.json(payload["contexts"])
-                        st.session_state.messages.append({"role": "assistant", "content": payload["answer"]})
+                        st.session_state.messages.append({"role": "assistant", "content": answer_text})
                         break
         except ConnectionClosedError:
             status.empty()
+            if answer_text:
+                answer_placeholder.markdown(answer_text)
             st.error("The websocket connection closed unexpectedly. Check whether the API container is still running.")
         except Exception as exc:
             status.empty()
+            if answer_text:
+                answer_placeholder.markdown(answer_text)
             st.error(str(exc))
 st.markdown("</div>", unsafe_allow_html=True)
 

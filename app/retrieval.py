@@ -7,7 +7,7 @@ import os
 from pathlib import Path
 import shutil
 from threading import Lock
-from typing import Any
+from typing import Any, AsyncIterator
 
 from lightrag import LightRAG, QueryParam
 from lightrag.llm.ollama import ollama_model_complete
@@ -134,7 +134,7 @@ class LightRAGStore:
         )
         return {"documents": len(files)}
 
-    async def query(self, question: str) -> dict[str, Any]:
+    async def query(self, question: str, history: list[dict[str, str]] | None = None) -> dict[str, Any]:
         if self.rag is None:
             await self.initialize()
         if not self.ready:
@@ -143,11 +143,63 @@ class LightRAGStore:
                 "contexts": [],
                 "mode": self.query_mode,
             }
-        param = QueryParam(mode=self.query_mode)
+        conversation_history = history or []
+        param = QueryParam(
+            mode=self.query_mode,
+            conversation_history=conversation_history,
+            history_turns=min(len(conversation_history), 8),
+        )
         answer = await self.rag.aquery(question, param=param)
         context = await self.rag.aquery_data(question, param=param)
         return {
             "answer": answer if isinstance(answer, str) else "",
+            "contexts": self._normalize_contexts(context),
+            "mode": self.query_mode,
+        }
+
+    async def stream_query(
+        self,
+        question: str,
+        history: list[dict[str, str]] | None = None,
+    ) -> AsyncIterator[dict[str, Any]]:
+        if self.rag is None:
+            await self.initialize()
+        if not self.ready:
+            yield {
+                "answer": "Knowledge base is not ingested yet. Run Parse and Ingest first.",
+                "contexts": [],
+                "mode": self.query_mode,
+            }
+            return
+
+        conversation_history = history or []
+        stream_param = QueryParam(
+            mode=self.query_mode,
+            conversation_history=conversation_history,
+            history_turns=min(len(conversation_history), 8),
+            stream=True,
+        )
+        context_param = QueryParam(
+            mode=self.query_mode,
+            conversation_history=conversation_history,
+            history_turns=min(len(conversation_history), 8),
+        )
+
+        answer_parts: list[str] = []
+        answer_stream = await self.rag.aquery(question, param=stream_param)
+        if isinstance(answer_stream, str):
+            answer_parts.append(answer_stream)
+            yield {"token": answer_stream}
+        else:
+            async for chunk in answer_stream:
+                if not chunk:
+                    continue
+                answer_parts.append(chunk)
+                yield {"token": chunk}
+
+        context = await self.rag.aquery_data(question, param=context_param)
+        yield {
+            "answer": "".join(answer_parts),
             "contexts": self._normalize_contexts(context),
             "mode": self.query_mode,
         }

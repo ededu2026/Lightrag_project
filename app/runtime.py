@@ -3,6 +3,7 @@ from functools import lru_cache
 from app.config import settings
 from app.parsing import DocumentParser
 from app.retrieval import LightRAGStore
+from app.workflow import QAWorkflow
 
 
 @lru_cache(maxsize=1)
@@ -35,4 +36,13 @@ def get_parser() -> DocumentParser:
         assets_dir=settings.parsed_assets_dir,
         enable_image_ocr=settings.enable_image_ocr,
         enable_page_ocr_fallback=settings.enable_page_ocr_fallback,
+    )
+
+
+@lru_cache(maxsize=1)
+def get_workflow() -> QAWorkflow:
+    return QAWorkflow(
+        store=get_store(),
+        ollama_base_url=settings.ollama_base_url,
+        ollama_model=settings.ollama_model,
     )
