@@ -1,79 +1,69 @@
-# LightRAG Q&A
+# Hi there
 
-FastAPI Q&A service built on the official LightRAG pipeline, a `/chat` websocket, and a Streamlit UI.
+I am an AI Engineer with 5+ years of experience in Artificial Intelligence and Data Science, with a strong background in software engineering, machine learning, GenAI, and cloud solutions. I work on end-to-end AI products, from data and experimentation to production-ready architectures, focusing on RAG systems, AI agents, NLP, classical ML, and scalable backend applications. My previous GitHub profile is [Ededu1984](https://github.com/Ededu1984), where part of my earlier portfolio is still available.
 
-## Stack
+## Analytical Tools
 
-- Stella (`dunzhang/stella_en_400M_v5`) for embeddings
-- Ollama with `qwen2.5:3b` for the final answer
-- LightRAG with `NetworkXStorage`
-- FastAPI for the API
-- Streamlit for the frontend
+- **Programming:** Python, Matlab and R
+- **AI Frameworks:** LangChain, LlamaIndex, LangGraph, LangSmith, LightRAG and Graphiti
+- **Data & Big Data:** Pandas, SciPy, Statsmodels, PySpark, SQL
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch
+- **NLP:** NLTK, spaCy, GloVe, Spark NLP
+- **Cloud & MLOps:** AWS, Azure, GCP, MLflow, Databricks
+- **Engineering:** Git, Linux, Docker, Kubernetes, REST APIs, WebSockets
 
-## Recommended Run
+## Experience
 
-On Apple Silicon, prefer running the backend and Ollama natively on macOS to use local hardware acceleration. Use Docker mainly as a compatibility fallback.
+- 5+ years building AI and Data Science solutions for real-world business problems
+- Strong experience in Retrieval-Augmented Generation (RAG), AI agents, prompt engineering, and LLM-based applications
+- Development of chatbot, Q&A, text-to-SQL, and multi-agent solutions using modern GenAI frameworks
+- Experience integrating proprietary and open-source models, including OpenAI, Anthropic, Google, Hugging Face, and local LLM stacks
+- Practical background in machine learning, anomaly detection, NLP, time series, clustering, classification, and deep learning
+- End-to-end delivery experience, from problem framing and experimentation to APIs, deployment, monitoring, and production support
+- Hands-on work with cloud platforms, MLOps practices, software architecture, and backend engineering
+- Focus on building reliable AI systems with guardrails, evaluation workflows, maintainable code, and scalable design
 
-## Apple Silicon Run
+## Education
 
-1. Install Ollama on macOS and pull the model:
+- **Master's degree in Mechanical Engineering** - Federal University of ABC, 2019
+- **MBA in Project Management** - Fundacao Getulio Vargas, 2016
+- **Mechanical Engineering** - Santa Cecilia University, 2010
 
-```bash
-ollama pull qwen2.5:3b
-```
+## Links
 
-2. Create the virtual environment and install dependencies:
+- [LinkedIn](https://www.linkedin.com/in/edson-da-costa-eduardo-20315625/)
+- [Previous GitHub](https://github.com/Ededu1984)
+- [Kaggle](https://www.kaggle.com/edsondacostaeduardo)
+- Email: `edson.costa@hotmail.com`
 
-```bash
-python3.12 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
+## Featured Projects
 
-3. Start the backend:
+### [LightRAG Q&A](https://github.com/ededu2026/Lightrag_project)
+AI / RAG
 
-```bash
-uvicorn app.main:app --host 0.0.0.0 --port 8000
-```
+FastAPI Q&A service built with the official LightRAG pipeline, Ollama, local embeddings, websocket chat, and Streamlit UI. The project focuses on local-first retrieval and graph-based context exploration.
 
-4. In another terminal, start the frontend:
+### [Django School API](https://github.com/Ededu1984/Django_API_School)
+Web Development
 
-```bash
-source .venv/bin/activate
-streamlit run streamlit_app.py
-```
+REST API built with Django Rest Framework for a fictional school system, including token and basic authentication plus Swagger and ReDoc documentation.
 
-Then open:
+### [Object Detection Forza Horizon 4](https://github.com/Ededu1984/car_detection_forza_horizon)
+Computer Vision
 
-- API: `http://localhost:8000`
-- UI: `http://localhost:8501`
+Computer vision project for object detection on Forza Horizon 4 gameplay using OpenCV, YOLOv4, Darknet, and NumPy.
 
-## Docker Run
+### [Disaster Tweets](https://github.com/Ededu1984/Disaster-tweets)
+Natural Language Processing
 
-```bash
-docker compose up --build
-```
+NLP project to classify whether tweets describe a real disaster, using social media text data and text classification techniques.
 
-Services:
+### [San Francisco Crime Classification](https://github.com/Ededu1984/San_Francisco_Crime_Classification)
+Machine Learning
 
-- API: `http://localhost:8000`
-- UI: `http://localhost:8501`
-- Ollama: `http://localhost:11434`
+Classification project based on historical San Francisco crime data using stacking models and neural networks.
 
-The Streamlit UI is chat-only. Parsing and ingestion must be triggered through backend endpoints. `POST /ingest` ingests only existing markdown files and does not run parsing implicitly.
+### [Drug Reviews](https://github.com/Ededu1984/drug_reviews)
+Natural Language Processing
 
-## Endpoints
-
-- `GET /health`
-- `POST /parse`
-- `GET /parse-status`
-- `POST /ingest`
-- `GET /ingest-status`
-- `GET /graph/export/graphml`
-- `GET /graph/export/json`
-- `POST /ask`
-- `WS /chat`
-
-## Local Guide
-
-Detailed local setup and usage are in [LOCAL_USAGE.md](/Users/edson/Documents/Codex_teste/LOCAL_USAGE.md).
+Multiclass NLP project focused on predicting drug names based on patient review text and condition context.
